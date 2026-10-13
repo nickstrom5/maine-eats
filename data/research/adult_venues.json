@@ -1,0 +1,20 @@
+[
+ {
+  "name": "Diamonds Gentlemen's Club",
+  "address": "190 Harlow St",
+  "town": "Bangor",
+  "note": "Strip club; holds a plain Class A Lounge license as \"Diamonds\". Half Acre Nightclub in the same building is a nightclub and stays.",
+  "sources": [
+   "https://www.bangordailynews.com/2012/02/24/news/bangor/diamonds-gentlemans-club-opens-in-bangor/",
+   "https://bangordailynews.com/2022/04/29/bangor/addressing-harlow-street-violence-joam40zk0w/"
+  ]
+ },
+ {
+  "name": "Rick's Cabaret",
+  "address": "200 Riverside St",
+  "town": "Portland",
+  "note": "Strip club (Overture: Rick's Cabaret Portland / PT's Showclub, strip_club); holds a Class A Lounge license.",
+  "sources": [],
+  "evidence": "Overture Maps places 2026-09-23.1 list this address as 'Rick's Cabaret Portland' (adult_entertainment_venue) and 'PT'S Showclub' (strip_club)."
+ }
+]

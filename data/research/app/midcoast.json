@@ -1,0 +1,715 @@
+[
+ {
+  "name": "Red's Eats",
+  "address": "41 Water St",
+  "town": "Wiscasset",
+  "village": null,
+  "zip": "04578",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster plate",
+   "fried seafood baskets"
+  ],
+  "seasonal": true,
+  "season": "late April/May to mid-October (2026: opened May 6, target closing Oct. 13)",
+  "founded": null,
+  "founded_note": "Disputed by a year: its About page says it has been at the foot of Wiscasset's Main Street for 88 years (2026) while its home page says 'Celebrating Red's Eats 87th year'; the Bangor Daily News called 2026 its 88th year in business. Named by Harold Delano, called 'Red'; the late Al Gagnon left it to his four children, who run it now.",
+  "branch_of": null,
+  "note": "Family-run takeout stand at the foot of Wiscasset's Main Street on Route 1, known for lobster rolls and long summer lines.",
+  "website": "https://www.redseatsmaine.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.redseatsmaine.com/",
+   "https://www.redseatsmaine.com/about-reds-eats/",
+   "https://www.bangordailynews.com/2026/05/07/midcoast/midcoast-business/wiscasset-maine-reds-eats-open-88th-year/",
+   "https://www.bangordailynews.com/2026/07/11/midcoast/how-much-lobster-rolls-cost-in-maine-joam40zk0w/",
+   "https://downeast.com/food-drink/maine-lobster-shacks-lobster-pounds/",
+   "https://www.wiscasset.gov/271/Your-Midcoast-Dining-Destination",
+   "https://www.wiscasset.gov/DocumentCenter/View/901/Wiscasset-Your-Midcoast-Dining-Destination-Brochure"
+  ]
+ },
+ {
+  "name": "Five Islands Lobster Co.",
+  "address": "1447 Five Islands Rd",
+  "town": "Georgetown",
+  "village": "Five Islands",
+  "zip": "04548",
+  "kinds": [
+   "lobster shack",
+   "lobster roll",
+   "clam shack"
+  ],
+  "dishes": [
+   "lobster roll",
+   "boiled lobster",
+   "fried clams",
+   "steamers",
+   "haddock chowder"
+  ],
+  "seasonal": true,
+  "season": "summer into fall (2026: daily in August, then weekends only Sept. 11 to Oct. 11)",
+  "founded": null,
+  "founded_note": "Its site says current owners Keith and Gina Longbottom have run it since 2007.",
+  "branch_of": null,
+  "note": "Counter-service lobster shack on the working wharf in the fishing village of Five Islands, with picnic tables facing Sheepscot Bay; no alcohol sold, coolers welcome.",
+  "website": "https://fiveislandslobster.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://fiveislandslobster.com/",
+   "https://fiveislandslobster.com/menu/",
+   "https://fiveislandslobster.com/about/",
+   "https://downeast.com/food-drink/maine-lobster-shacks-lobster-pounds/"
+  ]
+ },
+ {
+  "name": "McLoons Lobster Shack",
+  "address": "315 Island Rd",
+  "town": "South Thomaston",
+  "village": "Spruce Head",
+  "zip": "04859",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "Lobster Rolls Royce (half-pound roll)",
+   "lobster stew",
+   "crab roll",
+   "blueberry bread pudding"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Lobster shack on Spruce Head Island across from a working lobster wharf, with island views; the menu changes daily with what is available.",
+  "website": "https://www.mcloonslobster.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.mcloonslobster.com/",
+   "https://downeast.com/food-drink/maine-lobster-shacks-lobster-pounds/",
+   "https://www.bangordailynews.com/2026/07/11/midcoast/how-much-lobster-rolls-cost-in-maine-joam40zk0w/",
+   "https://www.pressherald.com/2025/06/02/savor-a-maine-summer-with-these-17-outdoor-dining-spots/"
+  ]
+ },
+ {
+  "name": "Young's Lobster Pound",
+  "address": "2 Fairview St",
+  "town": "Belfast",
+  "village": null,
+  "zip": "04915",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "hard- and soft-shell lobster",
+   "clams",
+   "mussels",
+   "lobster roll"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Lobster pound with picnic tables on the Passagassawakeag River in Belfast.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://downeast.com/food-drink/maine-lobster-shacks-lobster-pounds/",
+   "https://www.bangordailynews.com/2026/07/11/midcoast/how-much-lobster-rolls-cost-in-maine-joam40zk0w/",
+   "https://www.bangordailynews.com/2026/05/07/midcoast/midcoast-police-courts/youngs-lobster-pound-belfast-lawsuit-joam40zk0w/"
+  ]
+ },
+ {
+  "name": "Sprague's Lobster",
+  "address": "22 Main St",
+  "town": "Wiscasset",
+  "village": null,
+  "zip": "04578",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster dinner",
+   "live lobsters to go"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Frank Sprague marked 50 seasons in business in 2025 (it began as a lobster-bake catering company). The Lincoln County News says the eatery has been at its Main Street spot for 37 of those years, and also that he moved to the Route 1 location and made it a restaurant 27 years ago; the figures don't agree.",
+  "branch_of": null,
+  "note": "Family-run lobster stand on the Creamery Pier in Wiscasset known for lobster rolls and lobster dinners.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://lcnme.com/319116/homepage/spragues-lobster-owner-celebrates-50-years-in-the-seafood-business/",
+   "https://downeast.com/food-drink/maine-lobster-shacks-lobster-pounds/",
+   "https://www.wiscasset.gov/271/Your-Midcoast-Dining-Destination",
+   "https://www.wiscasset.gov/DocumentCenter/View/901/Wiscasset-Your-Midcoast-Dining-Destination-Brochure"
+  ]
+ },
+ {
+  "name": "Muscongus Bay Lobster",
+  "address": "28 Landing Rd",
+  "town": "Bristol",
+  "village": "Round Pond",
+  "zip": "04564",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster chowder",
+   "Damariscotta River oysters"
+  ],
+  "seasonal": true,
+  "season": "late May into fall (2025 season opened May 23)",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Family-owned wholesale and retail lobster business on Round Pond Harbor with outdoor waterfront tables and a small beer-and-wine bar, the Bait Shed Bar.",
+  "website": "https://www.mainefreshlobster.com/",
+  "open": true,
+  "evidence_date": "2025-05",
+  "sources": [
+   "https://lcnme.com/311874/announcements/muscongus-bay-lobster-open-for-memorial-day/",
+   "https://www.mainefreshlobster.com/",
+   "https://www.mainefreshlobster.com/about-us"
+  ]
+ },
+ {
+  "name": "Robinson's Wharf",
+  "address": "20 Hendricks Hill Rd",
+  "town": "Southport",
+  "village": null,
+  "zip": "04576",
+  "kinds": [
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster",
+   "scallops"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it was established over 40 years ago.",
+  "branch_of": null,
+  "note": "Waterfront seafood restaurant with a seafood market and gift shop just across the swing bridge from Boothbay Harbor; the market is open year-round.",
+  "website": "https://www.robinsonswharf.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.robinsonswharf.com/",
+   "https://www.boothbayregister.com/article/southport-column-coming-home-soon/269280"
+  ]
+ },
+ {
+  "name": "Larson's Lunch Box",
+  "address": "430 Main St",
+  "town": "Damariscotta",
+  "village": null,
+  "zip": "04543",
+  "kinds": [
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "crab roll",
+   "char-broiled burgers",
+   "fried clams"
+  ],
+  "seasonal": true,
+  "season": "mid-spring through October",
+  "founded": null,
+  "founded_note": "Its page says the current owners (Tim and Tamara, who also own the Damariscotta River Grill) took over from retiring owners and that 2024 was their third season.",
+  "branch_of": null,
+  "note": "Outdoor takeout shack in a parking lot just north of downtown Damariscotta, serving lobster and crab rolls in season; its page says it will be back in spring 2026.",
+  "website": "https://www.damariscottarivergrill.com/larsons-lunch-box",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.damariscottarivergrill.com/larsons-lunch-box"
+  ]
+ },
+ {
+  "name": "Moody's Diner",
+  "address": "1885 Atlantic Highway",
+  "town": "Waldoboro",
+  "village": null,
+  "zip": "04572",
+  "kinds": [
+   "diner",
+   "oldest",
+   "blueberry pie",
+   "whoopie pie"
+  ],
+  "dishes": [
+   "blueberry pie",
+   "cream pies",
+   "whoopie pies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1934,
+  "founded_note": "Percy and Bertha Moody started the business in 1927 with cabins on the hill above old Route 1 and a lunch cart in 1929; when the current Route 1 opened in 1934 the cart was moved down to the new highway and grew into the diner at Route 1 and Route 220 (LCN 2017, Wikipedia). The family counts 1927 as its start (90th anniversary in 2017).",
+  "branch_of": null,
+  "note": "Family-run Route 1 diner known for its pies, baked from Bertha Moody's recipes, and its whoopie pies; open just about every day of the year.",
+  "website": "https://moodysdiner.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://lcnme.com/325789/currentnews/lets-go-to-moodys-who-wants-some-pie/",
+   "https://en.wikipedia.org/wiki/Moody%27s_Diner",
+   "https://lcnme.com/77664/homepage/moodys-diner-celebrates-90-years/"
+  ]
+ },
+ {
+  "name": "Dorman's Dairy Dream",
+  "address": "189 New County Rd",
+  "town": "Thomaston",
+  "village": null,
+  "zip": "04861",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard-serve ice cream"
+  ],
+  "seasonal": true,
+  "season": "spring to fall (2026: opened April 9, Thursday–Sunday 12–7)",
+  "founded": null,
+  "founded_note": "Est. 1951 and 'celebrating 75 years' in 2026 (its site); sources don't say whether it has always been at this address.",
+  "branch_of": null,
+  "note": "Long-running roadside ice cream stand in Thomaston.",
+  "website": "https://www.dormansdairydream.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.dormansdairydream.com/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "King Eider's Pub",
+  "address": "2 Elm St",
+  "town": "Damariscotta",
+  "village": null,
+  "zip": "04543",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "Damariscotta River oysters on the half shell",
+   "skillet-roasted oysters",
+   "crab cakes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1996,
+  "founded_note": "Its site says it has served Damariscotta since 1996; LCN (Nov. 2025) says the Elm Street pub has poured drinks since 1996.",
+  "branch_of": null,
+  "note": "English-style pub in downtown Damariscotta with a raw bar of Damariscotta River oysters and a whiskey list of 180-plus bottles.",
+  "website": "https://www.kingeiderspub.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.kingeiderspub.com/",
+   "https://www.kingeiderspub.com/menu",
+   "https://lcnme.com/325807/currentnews/bring-a-sip-of-king-eiders-home-for-the-holidays/"
+  ]
+ },
+ {
+  "name": "Damariscotta River Grill",
+  "address": "155 Main St",
+  "town": "Damariscotta",
+  "village": null,
+  "zip": "04543",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "Pemaquid oysters (half shell, pan-roasted or fried)",
+   "lobster cakes",
+   "scallops"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Two-level restaurant and bar on Damariscotta's Main Street serving Pemaquid oysters from the river outside its windows; same owners as Larson's Lunch Box.",
+  "website": "https://www.damariscottarivergrill.com/",
+  "open": true,
+  "evidence_date": "2025-05",
+  "sources": [
+   "https://www.damariscottarivergrill.com/about",
+   "https://www.damariscottarivergrill.com/dinner",
+   "https://lcnme.com/309946/subscriberonly/new-damariscotta-river-grill-art-show-and-art-scholarship-award/",
+   "https://lcnme.com/311471/subscriberonly/damariscotta-river-grill-awards-art-scholarship-to-la-student/"
+  ]
+ },
+ {
+  "name": "The Shuck Station",
+  "address": "68 Main St",
+  "town": "Newcastle",
+  "village": null,
+  "zip": "04553",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "oysters on the half shell",
+   "baked oysters",
+   "kimchi oysters"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Started as Brendan Parsons' oyster cart in Portland's Old Port before moving to Newcastle (its site).",
+  "branch_of": null,
+  "note": "Raw bar run by oyster farmer and competition shucker Brendan Parsons, serving Damariscotta River oysters including his own Blackstone Point oysters.",
+  "website": "https://www.theshuckstation.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.theshuckstation.com/",
+   "https://www.theshuckstation.com/menu",
+   "https://lcnme.com/313463/eventsactivities/paddle-for-a-purpose-auction-features-unique-adventures/",
+   "https://lcnme.com/363887/eventsactivities/pemaquid-oyster-festival-returns-sept-27/"
+  ]
+ },
+ {
+  "name": "Mine Oyster",
+  "address": "16 Wharf St (Pier 1)",
+  "town": "Boothbay Harbor",
+  "village": null,
+  "zip": "04538",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "raw oysters"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Waterfront raw bar and night club on Pier 1 run by chef Ralph Smith; it hosts the annual Pemaquid Oyster Festival with oysters from about 10 Damariscotta River farms (2025 and 2026).",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.boothbayregister.com/business/mine-oyster/56185",
+   "https://lcnme.com/321545/eventsactivities/pemaquid-oyster-festival-returns-to-mine-oyster-sept-28/",
+   "https://lcnme.com/322170/currentnews/pemaquid-oyster-festival-expands-shuckers-compete/",
+   "https://lcnme.com/363887/eventsactivities/pemaquid-oyster-festival-returns-sept-27/",
+   "https://lcnme.com/365415/currentnews/pemaquid-oyster-festival-celebrates-local-aquaculture-2/"
+  ]
+ },
+ {
+  "name": "Glidden Point Oyster Farms",
+  "address": "637 River Rd",
+  "town": "Edgecomb",
+  "village": null,
+  "zip": "04556",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "Glidden Point oysters"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Ryan McPherson had owned the farm for roughly eight years as of January 2025 (LCN).",
+  "branch_of": null,
+  "note": "Damariscotta River oyster farm whose farm store serves its oysters seven days a week with local beer and wine, with a food truck on site in summer; farm tours too.",
+  "website": "https://www.gliddenpoint.com/",
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://lcnme.com/302112/currentnews/edgecomb-oyster-farmer-proposes-new-processing-and-maintenance-barns/",
+   "https://lcnme.com/315200/subscriberonly/glidden-point-oysters-partners-with-salty-boyz-food-truck-for-summer-season/",
+   "https://lcnme.com/354423/currentnews/glidden-point-oyster-farms-sauna-out-of-service/",
+   "https://www.gliddenpoint.com/pages/contact"
+  ]
+ },
+ {
+  "name": "Jolie Rogers Raw Bar",
+  "address": "8 Railroad Ave",
+  "town": "Wiscasset",
+  "village": null,
+  "zip": "04578",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "oysters on the half shell"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opened in July 2023 (LCN 2024).",
+  "branch_of": null,
+  "note": "Oyster bar by the Sheepscot River run by Andy Rogers and Ryan Jolie; Rogers won the Pemaquid Oyster Festival shucking contest three years running through 2026.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.wiscasset.gov/271/Your-Midcoast-Dining-Destination",
+   "https://www.wiscasset.gov/DocumentCenter/View/901/Wiscasset-Your-Midcoast-Dining-Destination-Brochure",
+   "https://lcnme.com/290339/currentnews/jolie-rogers-raw-bar-celebrates-one-year-anniversary/",
+   "https://lcnme.com/365415/currentnews/pemaquid-oyster-festival-celebrates-local-aquaculture-2/"
+  ]
+ },
+ {
+  "name": "Sea Basket",
+  "address": "303 Bath Rd",
+  "town": "Wiscasset",
+  "village": null,
+  "zip": "04578",
+  "kinds": [
+   "clam shack"
+  ],
+  "dishes": [
+   "lobster stew"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Wiscasset seafood restaurant known for generous portions and lobster stew made with fresh local lobster meat.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-03",
+  "sources": [
+   "https://www.wiscasset.gov/271/Your-Midcoast-Dining-Destination",
+   "https://www.wiscasset.gov/DocumentCenter/View/901/Wiscasset-Your-Midcoast-Dining-Destination-Brochure"
+  ]
+ },
+ {
+  "name": "Dunton's Doghouse",
+  "address": "40 Sea St",
+  "town": "Boothbay Harbor",
+  "village": null,
+  "zip": "04538",
+  "kinds": [
+   "red snapper"
+  ],
+  "dishes": [
+   "red hot dogs (W.A. Bean)",
+   "Riley Dog with cheese and bacon",
+   "hot dog with coleslaw"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Small hot dog stand at the edge of downtown Boothbay Harbor serving natural-casing dogs and W.A. Bean red hot dogs on griddled, buttered New England-style buns.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.pressherald.com/2026/05/04/13-maine-hot-dog-spots-to-visit-this-summer/"
+  ]
+ },
+ {
+  "name": "Harbor Dogs",
+  "address": "1 Public Landing",
+  "town": "Camden",
+  "village": null,
+  "zip": "04843",
+  "kinds": [
+   "red snapper"
+  ],
+  "dishes": [
+   "Jordan's red snappers",
+   "Harbor Dog with apple chutney",
+   "Chilean Completo"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "In business for more than 60 years (Press Herald, 2026); not stated whether always at this spot.",
+  "branch_of": null,
+  "note": "Seasonal hot dog stand in a parking lot at the edge of Camden Harbor, using Jordan's red snappers on toasted New England-style buns.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.pressherald.com/2026/05/04/13-maine-hot-dog-spots-to-visit-this-summer/"
+  ]
+ },
+ {
+  "name": "Taste of Maine",
+  "address": "Route 1",
+  "town": "Woolwich",
+  "village": null,
+  "zip": "04579",
+  "kinds": [
+   "clam shack"
+  ],
+  "dishes": [
+   "lobster",
+   "seafood"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Family owned and operated since 1978; open 48 years as of 2026 (BDN).",
+  "branch_of": null,
+  "note": "Landmark Route 1 seafood restaurant with a giant lobster on its roof and a dining room full of Maine antiques; sold in 2026, with new owners taking over in late August or September (owners said 'same crew, same menu').",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.bangordailynews.com/2026/05/14/midcoast/midcoast-business/woolwich-maine-taste-of-maine-restaurant-sold/",
+   "https://www.pressherald.com/2026/05/13/taste-of-maine-restaurant-to-be-sold/"
+  ]
+ },
+ {
+  "name": "Delano's Seafood Shack",
+  "address": "2090 Atlantic Highway",
+  "town": "Waldoboro",
+  "village": null,
+  "zip": "04572",
+  "kinds": [
+   "clam shack"
+  ],
+  "dishes": [
+   "fried haddock"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The shack opened in a trailer in winter 2020; its new building opened Dec. 3, 2025 (LCN).",
+  "branch_of": null,
+  "note": "Year-round seafood shack next to the Delano family's seafood market, run by former lobsterman Kendall Delano Jr.; moved from a trailer into a new building with indoor seating in late 2025.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://lcnme.com/326743/subscriberonly/delanos-seafood-shack-celebrates-grand-opening/",
+   "https://lcnme.com/329683/homepage/delano-seafood-shack-expands-in-waldoboro/"
+  ]
+ },
+ {
+  "name": "Deb's Bristol Diner",
+  "address": "Route 130",
+  "town": "Bristol",
+  "village": null,
+  "zip": "04539",
+  "kinds": [
+   "diner"
+  ],
+  "dishes": [],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Small diner in the center of Bristol on Route 130, run by Debbie Thibault.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://lcnme.com/316745/subscriberonly/debs-bristol-diner-featured-on-maine-life/"
+  ]
+ },
+ {
+  "name": "Bray Brook Farm",
+  "address": "382 Union Rd",
+  "town": "Appleton",
+  "village": null,
+  "zip": "04862",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard-serve ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Farm (with donkeys) and ice cream shop in Appleton with several unique hard-serve flavors.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Jefferson Scoop",
+  "address": "271 Waldoboro Rd",
+  "town": "Jefferson",
+  "village": null,
+  "zip": "04348",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Gifford's ice cream",
+   "soft serve"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Ice cream stand in the center of Jefferson scooping Gifford's ice cream and soft serve, plus smoothies and slushies.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "John's Ice Cream Factory",
+  "address": "510 Belfast Augusta Rd",
+  "town": "Liberty",
+  "village": null,
+  "zip": "04949",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream",
+   "take-home pints and quarts"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Says its ice cream tradition dates to the late 1800s, when the current owner's grandfather made desserts in Italy (its claim, via the Press Herald).",
+  "branch_of": null,
+  "note": "Family-owned ice cream shop in Liberty selling cones and take-home pints and quarts.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ }
+]

@@ -1,0 +1,209 @@
+[
+ {
+  "name": "The Highroller Lobster Co.",
+  "address": "104 Exchange St",
+  "town": "Portland",
+  "village": null,
+  "zip": "04101",
+  "kinds": [
+   "red snapper"
+  ],
+  "dishes": [
+   "'The Red Snappah' foot-long red hot dog",
+   "corn-dog-battered red snapper"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Highroller says it started as a food cart in 2015; opening year at 104 Exchange St not confirmed.",
+  "branch_of": null,
+  "note": "Old Port lobster roll spot whose menu also features a foot-long red snapper from Shields' Meats of Kennebunk, served in a toasted bun or deep-fried in cornbread batter.",
+  "website": "https://highrollerlobster.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://highrollerlobster.com/menu/",
+   "https://www.pressherald.com/2025/05/21/a-new-era-for-maines-iconic-red-snappers/",
+   "https://www.pressherald.com/2025/09/03/hot-dog-safari-event-comes-to-portland/",
+   "https://www.bangordailynews.com/2026/07/17/portland/portland-business/highroller-lobster-co-negative-review-on-t-shirt/"
+  ]
+ },
+ {
+  "name": "George's Sandwich Shop",
+  "address": "37 Franklin St",
+  "town": "Biddeford",
+  "village": null,
+  "zip": "04005",
+  "kinds": [
+   "italian sandwich"
+  ],
+  "dishes": [
+   "Maine Italian sandwich"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "George's says it has made Maine-style Italian sandwiches since 1948; the Press Herald (2025) says it has been in business since 1948 and that Mike Clukey took over from the founding family in 2022. The year it reached 37 Franklin St isn't stated in a usable source.",
+  "branch_of": null,
+  "note": "Downtown Biddeford sandwich shop making Maine Italians since 1948; the owner calls the Italian his biggest seller and keeps it the way it has always been made.",
+  "website": "https://georgessandwichshop.com/",
+  "open": true,
+  "evidence_date": "2025-02",
+  "sources": [
+   "https://www.pressherald.com/2025/02/27/a-maine-italian-isnt-just-beloved-its-a-rite-of-passage-on-a-roll/",
+   "https://georgessandwichshop.com/",
+   "https://georgessandwichshop.com/georges-sandwich-shop-blog/"
+  ]
+ },
+ {
+  "name": "The Only Doughnut",
+  "address": "225 Northport Ave",
+  "town": "Belfast",
+  "village": null,
+  "zip": "04915",
+  "kinds": [
+   "potato doughnut"
+  ],
+  "dishes": [
+   "Maine potato cake doughnuts",
+   "maple, sea smoke and Earl Grey glazes",
+   "brioche and gluten-free doughnuts"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Belfast doughnut shop built on traditional Maine potato cake doughnuts (plain or chocolate) with rotating glazes and toppings; open Thursday to Sunday mornings.",
+  "website": "https://www.theonlydoughnut.com/",
+  "open": true,
+  "evidence_date": "2025-05",
+  "sources": [
+   "https://www.pressherald.com/2025/05/08/heres-a-guide-to-more-than-dozen-maine-doughnut-shops/",
+   "https://www.theonlydoughnut.com/",
+   "https://www.theonlydoughnut.com/our-shop",
+   "https://www.theonlydoughnut.com/copy-of-our-shop"
+  ]
+ },
+ {
+  "name": "Governor's Restaurant & Bakery",
+  "address": "963 Stillwater Ave",
+  "town": "Old Town",
+  "village": null,
+  "zip": "04468",
+  "kinds": [
+   "whoopie pie"
+  ],
+  "dishes": [
+   "whoopie pies (traditional, peanut butter and seasonal flavors)",
+   "strawberry pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The chain traces to 1959, when Leith and Donna Wadleigh opened an ice cream stand called Creemee's and then a year-round restaurant; Governor's doesn't say when the Old Town restaurant opened. Jason Clay bought the chain from Randy Wadleigh in 2023 (BDN 2025).",
+  "branch_of": null,
+  "note": "Old Town restaurant and bakery of Maine's Governor's family-restaurant chain; at the 2026 Maine Whoopie Pie Festival, Governor's of Old Town won the judged best-flavored prize (banana bread whoopie pie) and Governor's also took the healthy whoopie prize (carrot cake); the chain ships whoopie pies by mail.",
+  "website": "https://www.governorsrestaurant.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://observer-me.com/2026/06/15/news/9000-attend-2026-maine-whoopie-pie-festival/",
+   "https://www.governorsrestaurant.com/find-a-govs/",
+   "https://www.governorsrestaurant.com/welcome/history/",
+   "https://www.governorsrestaurant.com/store/",
+   "https://www.bangordailynews.com/2025/05/28/midcoast/iconic-maine-restaurant-chains-anglers-governors-now-same-owner/"
+  ]
+ },
+ {
+  "name": "Katherine's Bakery & Cafe",
+  "address": "248 Main St",
+  "town": "Norway",
+  "village": null,
+  "zip": "04268",
+  "kinds": [
+   "whoopie pie"
+  ],
+  "dishes": [
+   "whoopie pies",
+   "doughnuts",
+   "breakfast and lunch sandwiches"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opened Sept. 1, 2022 at 238 Main St and moved a couple of blocks up to 248 Main St in 2023 (Sun Journal).",
+  "branch_of": null,
+  "note": "Downtown Norway bakery-cafe whose owner is known for whoopie pies (it once baked 3,200 for a single order); judged best flavored whoopie pie at the 2025 Maine Whoopie Pie Festival and third-best traditional in 2026.",
+  "website": "https://www.katherinesbakery207.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.katherinesbakery207.com/",
+   "https://observer-me.com/2026/06/15/news/9000-attend-2026-maine-whoopie-pie-festival/",
+   "https://observer-me.com/2025/06/16/news/over-10000-attend-maine-whoopie-pie-festival/",
+   "https://www.sunjournal.com/2022/10/26/norway-bakery-puts-out-3200-whoopie-pies/",
+   "https://www.sunjournal.com/2023/01/18/katherines-bakery-cafe-expands-all-the-way-up-the-street/"
+  ]
+ },
+ {
+  "name": "Valley View Orchard Pies",
+  "address": "15 Madison Ave",
+  "town": "Oxford",
+  "village": null,
+  "zip": "04270",
+  "kinds": [
+   "whoopie pie",
+   "blueberry pie"
+  ],
+  "dishes": [
+   "whoopie pies",
+   "Maine wild blueberry pie",
+   "fruit and cream pies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The current family bought the bakery from its original owner in August 2018 (own site).",
+  "branch_of": null,
+  "note": "Family-owned pie bakery that welcomes visitors during weekday business hours; its whoopie pie won best traditional at the 2026 Maine Whoopie Pie Festival, and Maine wild blueberry is its most popular pie.",
+  "website": "https://valleyvieworchardpies.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://valleyvieworchardpies.com/",
+   "https://valleyvieworchardpies.com/contact-us",
+   "https://valleyvieworchardpies.com/whoopie-pies-1",
+   "https://observer-me.com/2026/06/15/news/9000-attend-2026-maine-whoopie-pie-festival/",
+   "https://observer-me.com/2025/06/16/news/over-10000-attend-maine-whoopie-pie-festival/"
+  ]
+ },
+ {
+  "name": "Cape Whoopies",
+  "address": "185 Cottage Rd",
+  "town": "South Portland",
+  "village": null,
+  "zip": "04106",
+  "kinds": [
+   "whoopie pie"
+  ],
+  "dishes": [
+   "gourmet whoopie pies made with butter",
+   "seasonal whoopie pie assortments"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "South Portland whoopie pie bakery, launched through the Fork Food Lab incubator, making butter-based gourmet whoopie pies in rotating flavors; it invites visitors to the bakery and ships nationwide.",
+  "website": "https://capewhoopies.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://capewhoopies.com/",
+   "https://www.pressherald.com/2025/12/16/fork-food-lab-in-south-portland-facing-foreclosure/",
+   "https://www.pressherald.com/2026/07/02/maine-explained-in-40-objects/"
+  ]
+ }
+]

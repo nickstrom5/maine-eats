@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Elm Tree Diner",
+    "address": "146 Bangor St",
+    "town": "Houlton",
+    "closed_reason": "Shut since a deliberately set fire in late July 2025; the building owner says it will go up for sale and that it is not reopening (BDN, Feb. 2026).",
+    "sources": [
+      "https://www.bangordailynews.com/2026/02/20/aroostook/aroostook-business/arson-tax-liens-elm-tree-diner-aroostook-joam40zk0w/"
+    ]
+  },
+  {
+    "name": "Luiggi's Pizzeria",
+    "address": "63 Sabattus St",
+    "town": "Lewiston",
+    "closed_reason": "Owners announced in August 2025 that the longtime pizzeria was closing for good, five months after reopening under new owners.",
+    "sources": [
+      "https://www.sunjournal.com/2025/08/25/luiggis-pizzeria-a-longtime-lewiston-staple-is-closing-again/"
+    ]
+  },
+  {
+    "name": "Farmington Diner",
+    "address": "367 Wilton Rd",
+    "town": "Farmington",
+    "closed_reason": "Closed permanently at 7 p.m. Aug. 10, 2026; El Tequila is moving into the space.",
+    "sources": [
+      "https://www.sunjournal.com/2026/08/11/farmington-diner-closes-as-el-tequila-prepares-to-move-in/"
+    ]
+  },
+  {
+    "name": "Long Lake Bar and Grill",
+    "address": null,
+    "town": "Madawaska",
+    "closed_reason": "Lakeside restaurant in St. David (village of Madawaska) 'ceased operations' effective immediately in January 2025 after poor snowmobile seasons; no reopening found.",
+    "sources": [
+      "https://www.bangordailynews.com/2025/01/15/aroostook/aroostook-business/lakeside-aroostook-restaurant-closes-before-fishing-derby/"
+    ]
+  },
+  {
+    "name": "Gifford's Famous Ice Cream (Farmington stand)",
+    "address": null,
+    "town": "Farmington",
+    "closed_reason": "Closed for good in 2024 after two Sandy River floods in 2023 (Central Maine, March 2026).",
+    "sources": [
+      "https://www.centralmaine.com/2026/03/13/giffords-ice-cream-gears-up-for-season-with-skowhegan-factory-back-online/"
+    ]
+  },
+  {
+    "name": "Gifford's Famous Ice Cream (Auburn stand)",
+    "address": null,
+    "town": "Auburn",
+    "closed_reason": "Gifford's announced the Auburn stand's closure shortly after its February 2023 factory fire (Central Maine, March 2026).",
+    "sources": [
+      "https://www.centralmaine.com/2026/03/13/giffords-ice-cream-gears-up-for-season-with-skowhegan-factory-back-online/"
+    ]
+  }
+]

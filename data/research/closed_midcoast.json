@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Waterman's Beach Lobster",
+    "address": null,
+    "town": "South Thomaston",
+    "closed_reason": "Closed for good Sept. 4, 2016 after 30 seasons (James Beard America's Classics 2001); the family did not sell the name, and the building now houses Waterman's Beach Brewery.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Waterman%27s_Beach_Lobster",
+      "https://mainebiz.biz/article/watermans-beach-lobster-to-close-after-30-years"
+    ]
+  },
+  {
+    "name": "McLaughlin's Lobster Shack",
+    "address": null,
+    "town": "Lincolnville",
+    "closed_reason": "Closed Aug. 23, 2026 after 48 years at Lincolnville Beach; owner cited health and long hours, building to be auctioned Oct. 2, 2026.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/08/26/midcoast/midcoast-business/lincolnville-maine-mclaughlins-lobster-shack-closure/"
+    ]
+  },
+  {
+    "name": "The Lobster Pound Restaurant",
+    "address": "Route 1, Lincolnville Beach",
+    "town": "Lincolnville",
+    "closed_reason": "Last served lobster in 2023; storm-damaged in January 2024; its website says the restaurant is permanently closed and the building reopened in 2025 as a gift shop.",
+    "sources": [
+      "https://www.bangordailynews.com/2025/08/08/midcoast/midcoast-business/iconic-midcoast-beachfront-restaurant-revived-as-gift-shop/",
+      "https://www.bangordailynews.com/2026/08/26/midcoast/midcoast-business/lincolnville-maine-mclaughlins-lobster-shack-closure/"
+    ]
+  },
+  {
+    "name": "Whale's Tooth Pub",
+    "address": null,
+    "town": "Lincolnville",
+    "closed_reason": "Closed about two years before August 2026; sold in spring 2026 but not reopened as of Aug. 26, 2026.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/08/26/midcoast/midcoast-business/lincolnville-maine-mclaughlins-lobster-shack-closure/"
+    ]
+  },
+  {
+    "name": "Must Be Nice Lobster",
+    "address": "30 Main St",
+    "town": "Belfast",
+    "closed_reason": "Owner Sadie Samuels announced its closing in June 2026 to focus on lobstering; the Dockside Family Restaurant is returning to the space.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/06/08/midcoast/midcoast-business/dockside-restaurant-belfast-to-reopen/"
+    ]
+  },
+  {
+    "name": "Home Kitchen Cafe",
+    "address": "650 Main St",
+    "town": "Rockland",
+    "closed_reason": "Owners announced it closes for good Oct. 18, 2026 after 18 years (retirement, staffing).",
+    "sources": [
+      "https://www.bangordailynews.com/2026/10/05/midcoast/midcoast-business/rockland-maine-home-kitchen-cafe-closure/",
+      "https://www.homekitchencafe.com/"
+    ]
+  },
+  {
+    "name": "Jodie's Cafe and Bakery",
+    "address": "45 Water St",
+    "town": "Wiscasset",
+    "closed_reason": "Permanently closed; owner announced it July 5, 2026 after a closure that began in May.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/07/24/midcoast/midcoast-business/jodies-cafe-wiscasset-closes-permanently/"
+    ]
+  },
+  {
+    "name": "Sarah's Cafe",
+    "address": "45 Water St",
+    "town": "Wiscasset",
+    "closed_reason": "Gone: Jodie's Cafe moved into 'the former Sarah's Cafe' space in 2022; its old domain now serves unrelated spam.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/07/24/midcoast/midcoast-business/jodies-cafe-wiscasset-closes-permanently/"
+    ]
+  },
+  {
+    "name": "Ancho Honey",
+    "address": null,
+    "town": "St. George",
+    "closed_reason": "Owner Malcolm Bedell said in April 2025 the Tenants Harbor takeout would not reopen (costs, staffing).",
+    "sources": [
+      "https://www.bangordailynews.com/2025/04/04/midcoast/midcoast-business/midcoast-takeout-restaurant-ancho-honey-closing/"
+    ]
+  },
+  {
+    "name": "Dip Net (Port Clyde General Store)",
+    "address": "4 Cold Storage Rd",
+    "town": "St. George",
+    "closed_reason": "Store and Dip Net restaurant destroyed by fire Sept. 27, 2023; the owner's site still says 'temporarily closed' with a pledge to rebuild, and no reopening was found.",
+    "sources": [
+      "https://www.portclydegeneralstore.com/"
+    ]
+  }
+]

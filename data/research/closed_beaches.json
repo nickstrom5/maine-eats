@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Anneke Jans",
+    "address": "60-68 Wallingford Square",
+    "town": "Kittery",
+    "closed_reason": "Wallingford Square bistro open since 2005 closed in January 2025 after it could not extend its lease; the building owner later sought new restaurant tenants.",
+    "sources": [
+      "https://www.pressherald.com/2025/01/14/anneke-jans-closes-in-kittery/",
+      "https://www.portlandfoodmap.com/maine-food-dining-news-westbrook-wiscasset-gouldsboro-union-biddeford-wells-kittery-skowhegan-norway-camden-freeport-rockport-falmouth-gardiner/"
+    ]
+  },
+  {
+    "name": "Koi Asian Cuisine",
+    "address": null,
+    "town": "Biddeford",
+    "closed_reason": "Went out of business on January 15, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-westbrook-wiscasset-gouldsboro-union-biddeford-wells-kittery-skowhegan-norway-camden-freeport-rockport-falmouth-gardiner/"
+    ]
+  },
+  {
+    "name": "North Star Lounge",
+    "address": null,
+    "town": "Wells",
+    "closed_reason": "Went out of business in May 2026, about six months after opening.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-south-portland-mdi-falmouth-oxford-westbrook-dover-foxcroft-cape-elizabeth-yarmouth-wells-lisbon-falls-woolwich-pembroke-solon-buxton-belfast-sanford-ellswort/"
+    ]
+  },
+  {
+    "name": "Mulligan's",
+    "address": null,
+    "town": "Biddeford",
+    "closed_reason": "Longtime pub (opened 1997) announced its closing in late May 2026, last day that Sunday.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-waldoboro-monson-deer-isle-nobleboro-eastport-brunswick-south-portland-old-orchard-beach-wells-bridgton-york-beach-kennebunk-rockland-lincolnville-biddeford-pe/"
+    ]
+  },
+  {
+    "name": "Union Breakfast & Pizza",
+    "address": null,
+    "town": "Lebanon",
+    "closed_reason": "Went out of business; last day of service July 26, 2026 (owners shifted to their Azul Agave restaurants).",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-georgetown-kittery-madawaska-bowdoinham-york-old-town-eiscasset-ogunquit-bar-harbor-arundel-belfast-lebanon-biddeford-scarborough/"
+    ]
+  },
+  {
+    "name": "Banded Brewing",
+    "address": null,
+    "town": "Biddeford",
+    "closed_reason": "Brewery announced it would close at the end of August 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-georgetown-kittery-madawaska-bowdoinham-york-old-town-eiscasset-ogunquit-bar-harbor-arundel-belfast-lebanon-biddeford-scarborough/"
+    ]
+  },
+  {
+    "name": "Village Tavern",
+    "address": null,
+    "town": "Kennebunk",
+    "closed_reason": "Announced closure; last day in business August 19, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-rockport-stonington-brunswick-westbrook-ogunquit-waldoboro-kennebunk-scarborough/"
+    ]
+  },
+  {
+    "name": "Bandaloop",
+    "address": null,
+    "town": "Arundel",
+    "closed_reason": "Sold in 2026; served its last meal and the new owners are opening a different business in the building.",
+    "sources": [
+      "https://www.portlandfoodmap.com/maine-food-dining-news-saco-yarmouth-wiscasset-arundel-blue-hill-eastport-new-canada-searsport-falmouth-windham-camden-waterville-lewiston-biddeford-south-portland/",
+      "https://www.portlandfoodmap.com/maine-food-dining-news-georgetown-kittery-madawaska-bowdoinham-york-old-town-eiscasset-ogunquit-bar-harbor-arundel-belfast-lebanon-biddeford-scarborough/"
+    ]
+  }
+]

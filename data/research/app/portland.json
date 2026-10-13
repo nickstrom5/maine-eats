@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "The Lobster Shack at Two Lights",
+    "address": "225 Two Lights Rd",
+    "town": "Cape Elizabeth",
+    "village": null,
+    "zip": "04107",
+    "kinds": [
+      "lobster shack",
+      "lobster roll",
+      "clam shack"
+    ],
+    "dishes": [
+      "lobster dinner",
+      "lobster roll",
+      "fried clams",
+      "clam cakes",
+      "clam chowder",
+      "lobster stew"
+    ],
+    "seasonal": true,
+    "season": "April 4 to October 25 (2026 season)",
+    "founded": null,
+    "founded_note": "The shack calls itself a local landmark since the 1920s; Portland Food Map dates the business to 1969, when it was founded by Ruth and Jim Leadbetter. Year at this address not settled.",
+    "branch_of": null,
+    "note": "Seasonal lobster shack at the end of Two Lights Road with picnic tables on the rocks below the lighthouse; lobster dinners, rolls, fried clams and clam cakes.",
+    "website": "https://lobstershacktwolights.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://lobstershacktwolights.com/about/",
+      "https://lobstershacktwolights.com/menu/",
+      "https://www.pressherald.com/2026/03/23/7-seasonal-activities-showing-spring-is-finally-coming-to-maine/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "Bite Into Maine",
+    "address": "Fort Williams Park, 1000 Shore Rd",
+    "town": "Cape Elizabeth",
+    "village": null,
+    "zip": "04107",
+    "kinds": [
+      "lobster roll"
+    ],
+    "dishes": [
+      "lobster roll"
+    ],
+    "seasonal": true,
+    "season": "April to early November",
+    "founded": 2011,
+    "founded_note": "Bite Into Maine says it opened its original food cart in Fort Williams Park in 2011.",
+    "branch_of": null,
+    "note": "Lobster roll food truck in Fort Williams Park by Portland Head Light, window service only; the business also runs shops in Portland and Scarborough.",
+    "website": "https://www.biteintomaine.com/fort-williams",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.biteintomaine.com/fort-williams",
+      "https://www.pressherald.com/2025/07/04/without-a-split-top-bun-do-you-really-have-a-maine-lobster-roll/",
+      "https://www.pressherald.com/2026/09/21/lobster-rolls-with-melted-butter-have-quietly-gained-ground-in-maine-column/",
+      "https://lukeslobster.com/pages/fort-williams"
+    ]
+  },
+  {
+    "name": "Harraseeket Lunch & Lobster",
+    "address": "36 Main St",
+    "town": "Freeport",
+    "village": "South Freeport",
+    "zip": "04078",
+    "kinds": [
+      "lobster shack",
+      "lobster roll",
+      "whoopie pie"
+    ],
+    "dishes": [
+      "lobster roll",
+      "cooked lobsters",
+      "steamed clams",
+      "whoopie pie"
+    ],
+    "seasonal": true,
+    "season": "May to October (last day of the 2026 season: Columbus Day, Oct. 12)",
+    "founded": 1970,
+    "founded_note": "The restaurant says it has served lunch and dinner from May to October since 1970 on the South Freeport waterfront.",
+    "branch_of": null,
+    "note": "Family-run lunch counter and lobster pound on the South Freeport working waterfront; lobster rolls, cooked lobsters and its own whoopie pies, BYOB.",
+    "website": "https://www.harraseeketlunchandlobster.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://www.harraseeketlunchandlobster.com/",
+      "https://www.harraseeketlunchandlobster.com/directions.html",
+      "https://www.pressherald.com/2026/05/30/25-best-places-to-eat-for-cheap-across-maine/"
+    ]
+  },
+  {
+    "name": "Bayley's Lobster Pound",
+    "address": "9 Avenue 6",
+    "town": "Scarborough",
+    "village": "Pine Point",
+    "zip": "04074",
+    "kinds": [
+      "lobster shack",
+      "lobster roll"
+    ],
+    "dishes": [
+      "lobster roll",
+      "lobsters"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Bayley's dates the family business to 1915, when Stephen Bayley settled in Pine Point; the Press Herald reports Ella Bayley began selling lobster rolls from her kitchen window in the early 1920s (the family's account). Year at this address not confirmed.",
+    "branch_of": null,
+    "note": "Fourth-generation lobster pound and fish market on the Pine Point waterfront, with the Bait Shed restaurant on its dock; the family credits itself with some of Maine's first lobster rolls.",
+    "website": "https://www.baitshedrestaurant.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.pressherald.com/2025/07/04/without-a-split-top-bun-do-you-really-have-a-maine-lobster-roll/",
+      "https://www.pressherald.com/2026/09/21/lobster-rolls-with-melted-butter-have-quietly-gained-ground-in-maine-column/",
+      "https://www.baitshedrestaurant.com/",
+      "https://www.bayleys.com/"
+    ]
+  },
+  {
+    "name": "Ken's Place",
+    "address": "207 Pine Point Rd",
+    "town": "Scarborough",
+    "village": null,
+    "zip": "04074",
+    "kinds": [
+      "clam shack"
+    ],
+    "dishes": [
+      "fried clams",
+      "clam strips",
+      "clam roll",
+      "clam chowder",
+      "lobster roll",
+      "fried oysters"
+    ],
+    "seasonal": true,
+    "season": "about late March to late October (2026: opened around March 20, last day October 25)",
+    "founded": null,
+    "founded_note": "Ken's Place says it began in 1927 as a modest roadside seafood stand and marks 100 years in 2027; the Press Herald (2026) also says it has been in business since 1927. Whether it has been at this address since then is not confirmed.",
+    "branch_of": null,
+    "note": "Seasonal seafood stand on the road to Pine Point Beach, serving fried clams (batter or crumbs), clam rolls and chowder since its roadside-stand start in 1927.",
+    "website": "https://www.kensplacescarborough.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://www.kensplacescarborough.com/",
+      "https://www.kensplacescarborough.com/menus",
+      "https://www.kensplacescarborough.com/kentennial",
+      "https://www.pressherald.com/2026/03/23/7-seasonal-activities-showing-spring-is-finally-coming-to-maine/"
+    ]
+  },
+  {
+    "name": "Cook's Lobster & Ale House",
+    "address": "68 Garrison Cove Rd",
+    "town": "Harpswell",
+    "village": "Bailey Island",
+    "zip": "04003",
+    "kinds": [
+      "lobster shack"
+    ],
+    "dishes": [
+      "lobster",
+      "lobster roll",
+      "clam chowder"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1955,
+    "founded_note": "Cook's says Maurice Cook established it in 1955 as a one-room take-out stand selling lobsters too small to ship; owned by Nick and Jennifer Charboneau since July 1, 2015 (renamed from Cook's Lobster House).",
+    "branch_of": null,
+    "note": "Waterfront lobster house on Garrison Cove next to the Cribstone Bridge, grown from a 1955 take-out stand; stays open through the winter.",
+    "website": "https://www.cookslobster.com/",
+    "open": true,
+    "evidence_date": "2026-02",
+    "sources": [
+      "https://www.cookslobster.com/",
+      "https://harpswellanchor.org/2026/02/a-lobster-house-in-winter-cooks-embraces-offseason-role-as-island-outpost/"
+    ]
+  },
+  {
+    "name": "Portland Lobster Co.",
+    "address": "180 Commercial St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "lobster shack",
+      "lobster roll"
+    ],
+    "dishes": [
+      "lobster roll",
+      "steamed lobster dinner",
+      "clam chowder",
+      "steamers",
+      "fried clams",
+      "crab roll"
+    ],
+    "seasonal": true,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Seasonal waterfront deck on Commercial Street with steamed lobster dinners, lobster and crab rolls, fried clams and live music.",
+    "website": "http://www.portlandlobstercompany.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "http://www.portlandlobstercompany.com/",
+      "https://mainelobsterweek.com/restaurants/"
+    ]
+  },
+  {
+    "name": "Eventide Oyster Co.",
+    "address": "86 Middle St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "oyster bar",
+      "lobster roll"
+    ],
+    "dishes": [
+      "oysters",
+      "brown butter lobster roll"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2012,
+    "founded_note": "The Press Herald (2026) reports Eventide opened in 2012; this is its original location.",
+    "branch_of": null,
+    "note": "Big Tree Hospitality's oyster bar in the Old Port, known for its raw bar and a brown-butter lobster roll.",
+    "website": "https://www.eventideoysterco.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.eventideoysterco.com/",
+      "https://www.pressherald.com/2026/09/21/lobster-rolls-with-melted-butter-have-quietly-gained-ground-in-maine-column/",
+      "https://www.portlandfoodmap.com/restaurants/eventide-oyster-co/"
+    ]
+  },
+  {
+    "name": "The Highroller Lobster Co.",
+    "address": "104 Exchange St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "lobster roll"
+    ],
+    "dishes": [
+      "lobster roll",
+      "lobster roll with butter or flavored mayo"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Highroller says it started as a food cart in 2015; opening year at 104 Exchange St not confirmed.",
+    "branch_of": null,
+    "note": "Old Port lobster roll restaurant that grew out of a 2015 food cart; rolls come with mayo variations or butter.",
+    "website": "https://highrollerlobster.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://highrollerlobster.com/",
+      "https://www.pressherald.com/2026/09/21/lobster-rolls-with-melted-butter-have-quietly-gained-ground-in-maine-column/"
+    ]
+  },
+  {
+    "name": "Luke's Lobster Portland Pier",
+    "address": "60 Portland Pier",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "lobster roll"
+    ],
+    "dishes": [
+      "lobster roll",
+      "crab roll",
+      "steamed clams"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Luke's Lobster's flagship restaurant on a working pier, serving its split-top lobster rolls with views of the lobster boats.",
+    "website": "https://lukeslobster.com/pages/portland-pier",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.lukeslobster.com/location/portland-pier/",
+      "https://mainelobsterweek.com/restaurants/",
+      "https://www.portlandfoodmap.com/restaurants/lukes-lobster/"
+    ]
+  },
+  {
+    "name": "J's Oyster",
+    "address": "5 Portland Pier",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "oyster bar"
+    ],
+    "dishes": [
+      "oysters",
+      "lobster roll"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Portland Food Map dates J's Oyster Bar to 1977 (founded by Janice 'J' Noyes); its site counted '49 years open' in 2026. Year at this address not confirmed.",
+    "branch_of": null,
+    "note": "Long-running waterfront raw bar on Portland Pier, first come first served, known for oysters and lobster rolls.",
+    "website": "https://jsoyster.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://jsoyster.com/",
+      "https://www.pressherald.com/2026/09/09/fire-on-portland-pier-mopped-up-quickly/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "SoPo Seafood",
+    "address": "171 Ocean St",
+    "town": "South Portland",
+    "village": null,
+    "zip": "04106",
+    "kinds": [
+      "oyster bar",
+      "lobster roll"
+    ],
+    "dishes": [
+      "raw bar",
+      "lobster roll",
+      "lobster bisque"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "South Portland seafood market and raw bar with a full lunch and dinner menu built on Gulf of Maine catches; Maine lobster is always on the menu.",
+    "website": "https://www.soposeafood.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://mainelobsterweek.com/restaurants/",
+      "https://mainelobsterweek.com/restaurant/sopo-seafood-2/",
+      "https://www.soposeafood.com/",
+      "https://www.portlandfoodmap.com/restaurants/sopo-seafood/"
+    ]
+  },
+  {
+    "name": "Gilbert's Chowder House",
+    "address": "92 Commercial St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "clam shack"
+    ],
+    "dishes": [
+      "clam chowder",
+      "clam cakes",
+      "fried haddock sandwich"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Casual waterfront chowder house on Commercial Street that specializes in clam chowder, with clam cakes and fried seafood.",
+    "website": "http://www.gilbertschowderhouse.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://mainelobsterweek.com/restaurants/",
+      "http://www.gilbertschowderhouse.com/",
+      "https://www.portlandfoodmap.com/restaurants/gilberts-chowder-house/"
+    ]
+  },
+  {
+    "name": "Clam Bar",
+    "address": "199 West Commercial St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04102",
+    "kinds": [
+      "clam shack"
+    ],
+    "dishes": [
+      "clams"
+    ],
+    "seasonal": true,
+    "season": null,
+    "founded": 2023,
+    "founded_note": "Portland Food Map reports it opened on July 29, 2023.",
+    "branch_of": null,
+    "note": "Seasonal clam shack at the west end of Commercial Street, open Thursday to Monday.",
+    "website": "https://clambarportland.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://clambarportland.com/",
+      "https://www.portlandfoodmap.com/restaurants/clam-bar/"
+    ]
+  },
+  {
+    "name": "Becky's Diner",
+    "address": "390 Commercial St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "diner"
+    ],
+    "dishes": [
+      "blueberry pancakes",
+      "corned beef hash",
+      "fried clams",
+      "lobster roll"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1991,
+    "founded_note": "Becky Rand opened the diner on March 13, 1991 (Portland Food Map); the diner says it has been on Portland's waterfront since 1991.",
+    "branch_of": null,
+    "note": "Working-waterfront diner on Commercial Street open from 5 a.m., with all-day breakfast and seafood plates.",
+    "website": "https://www.beckysdiner.com/",
+    "open": true,
+    "evidence_date": "2026-05",
+    "sources": [
+      "https://www.beckysdiner.com/",
+      "https://www.pressherald.com/2026/05/30/25-best-places-to-eat-for-cheap-across-maine/",
+      "https://www.pressherald.com/2026/03/19/the-best-breakfast-and-brunch-spots-in-greater-portland/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "Miss Portland Diner",
+    "address": "140 Marginal Way",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "diner"
+    ],
+    "dishes": [
+      "blueberry pancakes",
+      "sausage gravy biscuits",
+      "omelets"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2008,
+    "founded_note": "Its 1949 Worcester Lunch Car (No. 818) opened on Forest Avenue in 1949, moved to Marginal Way in 1964 and reopened at this spot in 2008.",
+    "branch_of": null,
+    "note": "Restored 1949 Worcester lunch car with a dining room annex, serving breakfast and lunch.",
+    "website": "https://missportlanddiner.com/",
+    "open": true,
+    "evidence_date": "2026-03",
+    "sources": [
+      "https://missportlanddiner.com/",
+      "https://www.pressherald.com/2026/03/19/the-best-breakfast-and-brunch-spots-in-greater-portland/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "The Porthole",
+    "address": "20 Custom House Wharf",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "diner"
+    ],
+    "dishes": [
+      "Twin Lobster Dinner",
+      "breakfast"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Diner-style restaurant on Custom House Wharf, serving breakfast and Casco Bay seafood; it came through the December 2025 wharf fire across the way.",
+    "website": "https://portholemaine.com/",
+    "open": true,
+    "evidence_date": "2026-03",
+    "sources": [
+      "https://portholemaine.com/",
+      "https://www.pressherald.com/2026/03/03/owners-of-portlands-custom-house-wharf-set-ambitious-rebuild-timeline/",
+      "https://www.pressherald.com/2025/12/27/portland-waterfront-fire-ravages-4-businesses/"
+    ]
+  },
+  {
+    "name": "Q Street Diner",
+    "address": "9 Q St",
+    "town": "South Portland",
+    "village": null,
+    "zip": "04106",
+    "kinds": [
+      "diner"
+    ],
+    "dishes": [
+      "eggs",
+      "pancakes"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Neighborhood breakfast-and-lunch diner in South Portland, open Wednesday to Sunday, 7 a.m. to 2 p.m.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-05",
+    "sources": [
+      "https://thebollard.com/2026/05/07/the-breakfast-serial-94/",
+      "https://www.pressherald.com/2026/04/14/hes-been-reviewing-portland-breakfasts-for-20-years-hes-got-a-lot-to-say-about-them/"
+    ]
+  },
+  {
+    "name": "Amato's",
+    "address": "71 India St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "italian sandwich"
+    ],
+    "dishes": [
+      "Maine Italian sandwich"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Amato's says Giovanni Amato first sold his Italian sandwich on the Portland docks in 1902 (the company's claim); the Press Herald (2025) reports he sold bread from a cart around 1902 and was filling it with ham, cheese and vegetables by 1910. Year at this India Street address not confirmed.",
+    "branch_of": null,
+    "note": "The India Street shop of the chain that claims to have originated the Maine Italian sandwich.",
+    "website": "https://www.amatos.com/",
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.pressherald.com/2025/02/27/a-maine-italian-isnt-just-beloved-its-a-rite-of-passage-on-a-roll/",
+      "https://www.amatos.com/",
+      "https://www.portlandfoodmap.com/restaurants/amatos/"
+    ]
+  },
+  {
+    "name": "Anania's",
+    "address": "606 Washington Ave",
+    "town": "Portland",
+    "village": null,
+    "zip": "04103",
+    "kinds": [
+      "italian sandwich"
+    ],
+    "dishes": [
+      "Maine Italian sandwich"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Portland Food Map dates Anania's to 1963 (founded by Ed Anania Sr.); the Press Herald says Ed Anania's father started a corner store with his brothers in the late 1950s. Taken over by former manager Zach Lord in February 2025. Year at this address not confirmed.",
+    "branch_of": null,
+    "note": "Washington Avenue variety store known for Maine Italians, the last Anania's still open; its former manager bought it in 2025 and kept making Italians.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.pressherald.com/2025/02/27/a-maine-italian-isnt-just-beloved-its-a-rite-of-passage-on-a-roll/",
+      "https://www.portlandfoodmap.com/restaurants/ananias/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "DiPietro's Market",
+    "address": "385 Cottage Rd",
+    "town": "South Portland",
+    "village": null,
+    "zip": "04106",
+    "kinds": [
+      "italian sandwich"
+    ],
+    "dishes": [
+      "Maine Italian sandwich",
+      "pizza"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "The Press Herald (2025) reports Santo DiPietro started his store on Cottage Road in 1972; the family made Italians in Portland from the 1940s.",
+    "branch_of": null,
+    "note": "Family Italian market and deli on Cottage Road that makes Maine Italians and ready-to-go meals.",
+    "website": "https://dipietrosmaine.com/",
+    "open": true,
+    "evidence_date": "2025-11",
+    "sources": [
+      "https://www.pressherald.com/2025/02/27/a-maine-italian-isnt-just-beloved-its-a-rite-of-passage-on-a-roll/",
+      "https://www.pressherald.com/2025/11/24/open-on-thanksgiving-these-southern-maine-stores-can-help-in-a-pinch-column/",
+      "https://dipietrosmaine.com/"
+    ]
+  },
+  {
+    "name": "The Holy Donut",
+    "address": "194 Park Ave",
+    "town": "Portland",
+    "village": null,
+    "zip": "04102",
+    "kinds": [
+      "potato doughnut"
+    ],
+    "dishes": [
+      "Maine potato doughnuts",
+      "maple bacon doughnut"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Park Avenue shop of the Portland bakery that makes its doughnuts with Maine potatoes.",
+    "website": "https://www.theholydonut.com/locations/portland-park-ave/",
+    "open": true,
+    "evidence_date": "2026-04",
+    "sources": [
+      "https://www.theholydonut.com/locations/portland-park-ave/",
+      "https://www.pressherald.com/2026/04/22/holy-donuts-workers-at-park-avenue-store-vote-to-unionize/",
+      "https://www.portlandfoodmap.com/restaurants/the-holy-donut/"
+    ]
+  },
+  {
+    "name": "The Holy Donut",
+    "address": "177 Commercial St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "potato doughnut"
+    ],
+    "dishes": [
+      "Maine potato doughnuts"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": "The Holy Donut, Portland (194 Park Ave)",
+    "note": "Old Port waterfront shop of the Maine potato doughnut bakery.",
+    "website": "https://www.theholydonut.com/locations/portland-commercial-st/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://www.theholydonut.com/locations/portland-commercial-st/",
+      "https://www.theholydonut.com/"
+    ]
+  },
+  {
+    "name": "The Holy Donut",
+    "address": "398 Route 1",
+    "town": "Scarborough",
+    "village": null,
+    "zip": "04074",
+    "kinds": [
+      "potato doughnut"
+    ],
+    "dishes": [
+      "Maine potato doughnuts"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": "The Holy Donut, Portland (194 Park Ave)",
+    "note": "Route 1 shop of the Portland potato doughnut bakery.",
+    "website": "https://www.theholydonut.com/locations/scarborough/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "https://www.theholydonut.com/locations/scarborough/",
+      "https://www.theholydonut.com/"
+    ]
+  },
+  {
+    "name": "Two Fat Cats Bakery",
+    "address": "195 Lancaster St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "whoopie pie"
+    ],
+    "dishes": [
+      "whoopie pies",
+      "pies"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Portland bakery known for whoopie pies (it runs a whoopie-pie-of-the-month club) and fruit pies.",
+    "website": "https://twofatcatsbakery.com/",
+    "open": true,
+    "evidence_date": "2026-04",
+    "sources": [
+      "https://twofatcatsbakery.com/",
+      "https://twofatcatsbakery.com/product/whoopie-pie-of-the-month-club-spring-club/",
+      "https://www.portlandfoodmap.com/upcoming-food-dining-events-73/",
+      "https://www.pressherald.com/2026/04/14/hes-been-reviewing-portland-breakfasts-for-20-years-hes-got-a-lot-to-say-about-them/"
+    ]
+  },
+  {
+    "name": "Room for Improvement",
+    "address": "41 Wharf St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "red snapper"
+    ],
+    "dishes": [
+      "red snapper hot dogs"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Old Port bar whose 'Snappy Hour' puts its red snapper dogs (classic, kraut and cheese) at half price Sunday to Thursday evenings.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-05",
+    "sources": [
+      "https://www.pressherald.com/2026/05/04/13-maine-hot-dog-spots-to-visit-this-summer-2/"
+    ]
+  },
+  {
+    "name": "The Thirsty Pig",
+    "address": "37 Exchange St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04101",
+    "kinds": [
+      "red snapper"
+    ],
+    "dishes": [
+      "red snapper hot dog",
+      "build-your-own hot dogs"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Old Port hot dog bar where you pick a dog, including a 9-inch red snapper, and a topping style.",
+    "website": "https://www.thirstypigportland.com/",
+    "open": true,
+    "evidence_date": "2026-05",
+    "sources": [
+      "https://www.pressherald.com/2026/05/04/13-maine-hot-dog-spots-to-visit-this-summer-2/",
+      "https://www.thirstypigportland.com/"
+    ]
+  },
+  {
+    "name": "Red's Dairy Freeze",
+    "address": "167 Cottage Rd",
+    "town": "South Portland",
+    "village": null,
+    "zip": "04106",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "soft serve",
+      "Boston sundae",
+      "Nor'easter"
+    ],
+    "seasonal": true,
+    "season": "early March to the end of the season",
+    "founded": null,
+    "founded_note": "Red's says 'Since 1952' (Portland Food Map: opened by Leonard 'Red' Bolling in 1952 as a Tastee Freeze franchise, independent from 1965); the Press Herald called the 2026 opening its 74th season.",
+    "branch_of": null,
+    "note": "Seasonal soft-serve stand in South Portland's east end whose March opening is a local sign of spring.",
+    "website": "https://www.redsdairyfreeze.com/",
+    "open": true,
+    "evidence_date": "2026-03",
+    "sources": [
+      "https://www.pressherald.com/2026/03/23/7-seasonal-activities-showing-spring-is-finally-coming-to-maine/",
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+      "https://www.redsdairyfreeze.com/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "Lib's Dairy Treats",
+    "address": "32 Auburn St",
+    "town": "Portland",
+    "village": null,
+    "zip": "04103",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "soft serve",
+      "Gifford's hard ice cream",
+      "sundaes",
+      "shakes"
+    ],
+    "seasonal": true,
+    "season": "early March into the fall (opened March 7 in 2026)",
+    "founded": null,
+    "founded_note": "Portland Food Map says Lib's served its first cone in 1969.",
+    "branch_of": null,
+    "note": "North Deering soft-serve and Gifford's ice cream stand that opens each March.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-03",
+    "sources": [
+      "https://www.pressherald.com/2026/03/23/7-seasonal-activities-showing-spring-is-finally-coming-to-maine/",
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+      "https://www.portlandfoodmap.com/portlands-living-food-history/"
+    ]
+  },
+  {
+    "name": "Beals Old Fashioned Ice Cream",
+    "address": "585 Main St",
+    "town": "Gorham",
+    "village": null,
+    "zip": "04038",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "homemade ice cream",
+      "teaberry ice cream"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Beals says the Malia family bought the business and recipes from Roy Beal in 1988; its ice cream is made at the original Gorham store.",
+    "branch_of": null,
+    "note": "Original Gorham store of Beals, making about 100 old-fashioned ice cream recipes in small batches; also scoops in Portland.",
+    "website": "https://bealsicecream.com/",
+    "open": true,
+    "evidence_date": "2025-04",
+    "sources": [
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+      "https://bealsicecream.com/"
+    ]
+  },
+  {
+    "name": "Bresca & the Honey Bee",
+    "address": "106 Outlet Rd",
+    "town": "New Gloucester",
+    "village": "Sabbathday Lake",
+    "zip": "04260",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "small-batch ice cream",
+      "sorbet"
+    ],
+    "seasonal": true,
+    "season": "opens Memorial Day weekend",
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Lakeside ice cream shack at Outlet Beach on Sabbathday Lake with small-batch, scratch-made flavors.",
+    "website": "http://brescaandthehoneybee.com/",
+    "open": true,
+    "evidence_date": "2026-10",
+    "sources": [
+      "http://brescaandthehoneybee.com/",
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+      "https://www.portlandfoodmap.com/maine-food-map/"
+    ]
+  },
+  {
+    "name": "Kettle Cove Creamery & Shack",
+    "address": "2 Bowery Beach Rd",
+    "town": "Cape Elizabeth",
+    "village": null,
+    "zip": "04107",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "homemade hard ice cream",
+      "soft serve"
+    ],
+    "seasonal": true,
+    "season": "from about May",
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Seasonal Cape Elizabeth ice cream stand with more than 30 homemade hard-serve flavors plus soft serve.",
+    "website": "https://www.kettlecoveicecream.com/",
+    "open": true,
+    "evidence_date": "2025-04",
+    "sources": [
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "B & R Dairy Bar",
+    "address": "19 Portland Rd",
+    "town": "Gray",
+    "village": null,
+    "zip": "04039",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "homemade ice cream",
+      "soft serve"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Gray dairy bar with about 30 homemade ice cream flavors plus soft serve.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-04",
+    "sources": [
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "Toots Ice Cream",
+    "address": "137 Walnut Hill Rd",
+    "town": "North Yarmouth",
+    "village": null,
+    "zip": "04097",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "homemade ice cream",
+      "goat-milk gelato"
+    ],
+    "seasonal": true,
+    "season": null,
+    "founded": 1998,
+    "founded_note": "The Press Herald (2025) says the Walnut Hill location opened in 1998 in a renovated rail car.",
+    "branch_of": null,
+    "note": "Seasonal ice cream stand in a renovated rail car at Walnut Hill, making its own ice cream.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-04",
+    "sources": [
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "Ice Cream Dugout",
+    "address": "3 Storm Dr",
+    "town": "Windham",
+    "village": "North Windham",
+    "zip": "04062",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "Shaker Pond ice cream",
+      "baseball-themed sundaes"
+    ],
+    "seasonal": true,
+    "season": "Red Sox opening day to the end of the regular season",
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Baseball-themed outdoor ice cream stand off Route 302 in North Windham with 40-plus Shaker Pond flavors.",
+    "website": "https://icecreamdugout.com/",
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://icecreamdugout.com/",
+      "https://www.pressherald.com/2026/07/06/a-pub-crawl-guide-to-ice-cream-along-route-302/",
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "Raymond's Frozen Custard",
+    "address": "857 Roosevelt Trail",
+    "town": "Casco",
+    "village": null,
+    "zip": "04015",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "frozen custard",
+      "lobster roll",
+      "fried clams"
+    ],
+    "seasonal": true,
+    "season": "from late April",
+    "founded": null,
+    "founded_note": "The owner told the Press Herald in 2026 it had been in business 22 years.",
+    "branch_of": null,
+    "note": "Frozen custard stand on Route 302 with a painted school bus for seating; also burgers, lobster rolls and fried clams.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.pressherald.com/2026/07/06/a-pub-crawl-guide-to-ice-cream-along-route-302/",
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "Willard Scoops",
+    "address": "429 Preble St",
+    "town": "South Portland",
+    "village": null,
+    "zip": "04106",
+    "kinds": [
+      "dairy bar"
+    ],
+    "dishes": [
+      "homemade ice cream"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "South Portland ice cream shop with about 20 gourmet flavors.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-04",
+    "sources": [
+      "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+    ]
+  },
+  {
+    "name": "Black Point Inn",
+    "address": "510 Black Point Rd",
+    "town": "Scarborough",
+    "village": "Prouts Neck",
+    "zip": "04074",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [],
+    "seasonal": true,
+    "season": "dining May through October",
+    "founded": 1878,
+    "founded_note": "The inn says it was built in 1878 by the Kahler family as the Southgate House; the Press Herald (2025) also says built in 1878.",
+    "branch_of": null,
+    "note": "Classic 1878 beachfront hotel on Prouts Neck; its Chart Room serves breakfast, lunch and dinner on the porch over Saco Bay in season.",
+    "website": "https://www.blackpointinn.com/",
+    "open": true,
+    "evidence_date": "2025-06",
+    "sources": [
+      "https://www.pressherald.com/2025/06/02/savor-a-maine-summer-with-these-17-outdoor-dining-spots/",
+      "https://www.blackpointinn.com/discover/history/",
+      "https://www.blackpointinn.com/food-drink/"
+    ]
+  }
+]

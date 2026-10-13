@@ -1,0 +1,513 @@
+{
+ "generated": "2026-10-08",
+ "domain": "https://nickstrom5.github.io/maine-eats",
+ "og_line": "Lobster shack & clam guide · 4,220 restaurants in 319 towns",
+ "restaurants": 4220,
+ "towns": 319,
+ "census_towns": 529,
+ "hand_checked": 155,
+ "guides": {
+  "lobster": 37,
+  "clams": 11,
+  "sandwiches": 11,
+  "sweets": 16,
+  "franco": 1,
+  "diners": 13,
+  "oysters": 10,
+  "dairy": 54
+ },
+ "guide_pages": [
+  "lobster",
+  "clams",
+  "sandwiches",
+  "sweets",
+  "diners",
+  "oysters",
+  "dairy"
+ ],
+ "guide_stats": {
+  "lobster": {
+   "seas": 26,
+   "known": 19,
+   "n_shack": 27,
+   "n_roll": 24
+  },
+  "clams": {
+   "seas": 6,
+   "known": 4
+  },
+  "sandwiches": {
+   "seas": 1,
+   "known": 0,
+   "n_snap": 6,
+   "n_ital": 5
+  },
+  "sweets": {
+   "seas": 3,
+   "known": 2,
+   "n_whoopie": 10,
+   "n_donut": 4,
+   "n_blueberry": 4
+  },
+  "diners": {
+   "seas": 0,
+   "known": 0
+  },
+  "oysters": {
+   "seas": 0,
+   "known": 0,
+   "n_river_oysters": 4,
+   "n_at_farm": 1,
+   "n_farmer_run": 2
+  },
+  "dairy": {
+   "seas": 31,
+   "known": 20,
+   "n_spring": 11,
+   "n_gifford": 7,
+   "n_homemade": 17
+  }
+ },
+ "icons": {
+  "icons": 31,
+  "james_beard": 10,
+  "forty_years": 22
+ },
+ "oldest_known_year": 22,
+ "named_not_checked": {
+  "lobster": 56,
+  "clams": 4,
+  "hotdog": 21,
+  "italian": 4,
+  "whoopie": 3,
+  "donut": 0,
+  "franco": 0,
+  "diner": 45,
+  "oyster": 6,
+  "dairy": 24
+ },
+ "casino_restaurants": 3,
+ "lewiston_results": 58,
+ "place_pages": 155,
+ "regions": {
+  "Maine Beaches": {
+   "restaurants": 760,
+   "hand_checked": 27,
+   "lobster": 5,
+   "clams": 2,
+   "sandwiches": 1,
+   "sweets": 2,
+   "diners": 2,
+   "dairy": 17
+  },
+  "Greater Portland & Casco Bay": {
+   "restaurants": 1120,
+   "hand_checked": 44,
+   "lobster": 10,
+   "clams": 4,
+   "sandwiches": 6,
+   "sweets": 6,
+   "diners": 4,
+   "oysters": 3,
+   "dairy": 10
+  },
+  "Midcoast & Islands": {
+   "restaurants": 523,
+   "hand_checked": 27,
+   "lobster": 8,
+   "clams": 4,
+   "sandwiches": 2,
+   "sweets": 2,
+   "diners": 2,
+   "oysters": 6,
+   "dairy": 4
+  },
+  "Downeast & Acadia": {
+   "restaurants": 408,
+   "hand_checked": 23,
+   "lobster": 14,
+   "clams": 1,
+   "diners": 1,
+   "oysters": 1,
+   "dairy": 4
+  },
+  "Lakes & Mountains": {
+   "restaurants": 489,
+   "hand_checked": 20,
+   "sandwiches": 2,
+   "sweets": 3,
+   "franco": 1,
+   "diners": 1,
+   "dairy": 11
+  },
+  "Kennebec Valley": {
+   "restaurants": 401,
+   "hand_checked": 7,
+   "diners": 1,
+   "dairy": 6
+  },
+  "Maine Highlands": {
+   "restaurants": 392,
+   "hand_checked": 6,
+   "sweets": 2,
+   "diners": 1,
+   "dairy": 2
+  },
+  "Aroostook County": {
+   "restaurants": 127,
+   "hand_checked": 1,
+   "sweets": 1,
+   "diners": 1
+  }
+ },
+ "towns_pages": {
+  "Portland": {
+   "restaurants": 442,
+   "lobster_near": 10,
+   "clams_near": 5,
+   "sandwiches_near": 6,
+   "sweets_near": 5,
+   "franco_near": 0,
+   "diners_near": 4,
+   "oysters_near": 3,
+   "dairy_near": 5,
+   "hand_checked_in_town": 23
+  },
+  "Bangor": {
+   "restaurants": 141,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 2,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 1,
+   "hand_checked_in_town": 1
+  },
+  "South Portland": {
+   "restaurants": 115,
+   "lobster_near": 8,
+   "clams_near": 5,
+   "sandwiches_near": 6,
+   "sweets_near": 5,
+   "franco_near": 0,
+   "diners_near": 4,
+   "oysters_near": 3,
+   "dairy_near": 7,
+   "hand_checked_in_town": 6
+  },
+  "Bar Harbor": {
+   "restaurants": 110,
+   "lobster_near": 9,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 0,
+   "hand_checked_in_town": 2
+  },
+  "Lewiston": {
+   "restaurants": 99,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 2,
+   "sweets_near": 1,
+   "franco_near": 1,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 4,
+   "hand_checked_in_town": 5
+  },
+  "Biddeford": {
+   "restaurants": 95,
+   "lobster_near": 6,
+   "clams_near": 5,
+   "sandwiches_near": 1,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 1,
+   "dairy_near": 8,
+   "hand_checked_in_town": 3
+  },
+  "Brunswick": {
+   "restaurants": 88,
+   "lobster_near": 3,
+   "clams_near": 3,
+   "sandwiches_near": 0,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 0,
+   "hand_checked_in_town": 0
+  },
+  "Auburn": {
+   "restaurants": 82,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 2,
+   "sweets_near": 1,
+   "franco_near": 1,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 4,
+   "hand_checked_in_town": 3
+  },
+  "Augusta": {
+   "restaurants": 81,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 0,
+   "hand_checked_in_town": 0
+  },
+  "Scarborough": {
+   "restaurants": 79,
+   "lobster_near": 8,
+   "clams_near": 5,
+   "sandwiches_near": 7,
+   "sweets_near": 5,
+   "franco_near": 0,
+   "diners_near": 5,
+   "oysters_near": 3,
+   "dairy_near": 10,
+   "hand_checked_in_town": 4
+  },
+  "York": {
+   "restaurants": 79,
+   "lobster_near": 3,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 2,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 7,
+   "hand_checked_in_town": 5
+  },
+  "Old Orchard Beach": {
+   "restaurants": 74,
+   "lobster_near": 10,
+   "clams_near": 6,
+   "sandwiches_near": 1,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 3,
+   "dairy_near": 7,
+   "hand_checked_in_town": 1
+  },
+  "Ogunquit": {
+   "restaurants": 73,
+   "lobster_near": 5,
+   "clams_near": 1,
+   "sandwiches_near": 0,
+   "sweets_near": 2,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 10,
+   "hand_checked_in_town": 3
+  },
+  "Waterville": {
+   "restaurants": 65,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 2,
+   "hand_checked_in_town": 2
+  },
+  "Kennebunk": {
+   "restaurants": 59,
+   "lobster_near": 5,
+   "clams_near": 3,
+   "sandwiches_near": 1,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 2,
+   "oysters_near": 0,
+   "dairy_near": 9,
+   "hand_checked_in_town": 2
+  },
+  "Kittery": {
+   "restaurants": 59,
+   "lobster_near": 2,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 4,
+   "hand_checked_in_town": 0
+  },
+  "Wells": {
+   "restaurants": 59,
+   "lobster_near": 5,
+   "clams_near": 2,
+   "sandwiches_near": 0,
+   "sweets_near": 2,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 0,
+   "dairy_near": 8,
+   "hand_checked_in_town": 4
+  },
+  "Westbrook": {
+   "restaurants": 59,
+   "lobster_near": 8,
+   "clams_near": 5,
+   "sandwiches_near": 6,
+   "sweets_near": 5,
+   "franco_near": 0,
+   "diners_near": 4,
+   "oysters_near": 3,
+   "dairy_near": 5,
+   "hand_checked_in_town": 0
+  },
+  "Ellsworth": {
+   "restaurants": 58,
+   "lobster_near": 8,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 1,
+   "dairy_near": 1,
+   "hand_checked_in_town": 2
+  },
+  "Saco": {
+   "restaurants": 51,
+   "lobster_near": 11,
+   "clams_near": 6,
+   "sandwiches_near": 1,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 3,
+   "dairy_near": 6,
+   "hand_checked_in_town": 4
+  },
+  "Kennebunkport": {
+   "restaurants": 32,
+   "lobster_near": 6,
+   "clams_near": 3,
+   "sandwiches_near": 1,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 2,
+   "oysters_near": 0,
+   "dairy_near": 8,
+   "hand_checked_in_town": 3
+  },
+  "Wiscasset": {
+   "restaurants": 28,
+   "lobster_near": 6,
+   "clams_near": 3,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 6,
+   "dairy_near": 0,
+   "hand_checked_in_town": 4
+  },
+  "Damariscotta": {
+   "restaurants": 26,
+   "lobster_near": 5,
+   "clams_near": 2,
+   "sandwiches_near": 0,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 2,
+   "oysters_near": 6,
+   "dairy_near": 0,
+   "hand_checked_in_town": 3
+  },
+  "Cape Elizabeth": {
+   "restaurants": 15,
+   "lobster_near": 8,
+   "clams_near": 5,
+   "sandwiches_near": 6,
+   "sweets_near": 5,
+   "franco_near": 0,
+   "diners_near": 4,
+   "oysters_near": 3,
+   "dairy_near": 5,
+   "hand_checked_in_town": 3
+  },
+  "Mount Desert": {
+   "restaurants": 11,
+   "lobster_near": 7,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 0,
+   "hand_checked_in_town": 3
+  },
+  "Rockland": {
+   "restaurants": 50,
+   "lobster_near": 1,
+   "clams_near": 1,
+   "sandwiches_near": 1,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 1,
+   "hand_checked_in_town": 1
+  },
+  "Camden": {
+   "restaurants": 49,
+   "lobster_near": 0,
+   "clams_near": 0,
+   "sandwiches_near": 1,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 1,
+   "hand_checked_in_town": 1
+  },
+  "Freeport": {
+   "restaurants": 44,
+   "lobster_near": 2,
+   "clams_near": 0,
+   "sandwiches_near": 0,
+   "sweets_near": 1,
+   "franco_near": 0,
+   "diners_near": 0,
+   "oysters_near": 0,
+   "dairy_near": 1,
+   "hand_checked_in_town": 1
+  },
+  "Boothbay Harbor": {
+   "restaurants": 43,
+   "lobster_near": 6,
+   "clams_near": 3,
+   "sandwiches_near": 1,
+   "sweets_near": 0,
+   "franco_near": 0,
+   "diners_near": 1,
+   "oysters_near": 6,
+   "dairy_near": 0,
+   "hand_checked_in_town": 2
+  }
+ }
+}

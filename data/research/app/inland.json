@@ -1,0 +1,862 @@
+[
+ {
+  "name": "Simones' Hot Dog Stand",
+  "address": "99 Chestnut St",
+  "town": "Lewiston",
+  "village": null,
+  "zip": "04240",
+  "kinds": [
+   "red snapper"
+  ],
+  "dishes": [
+   "red snapper hot dogs on steamed buns",
+   "chili dogs"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Press Herald (2026) dates the stand to around 1908; Down East (2023) says it began as a shack of wooden soda crates before World War I. The year it reached 99 Chestnut St isn't stated, so founded is left blank.",
+  "branch_of": null,
+  "note": "Downtown Lewiston hot dog stand run by the Simones family for four generations, known for red snappers ('Lewiston lobsters') on steamed buns; open weekdays.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.pressherald.com/2026/05/04/13-maine-hot-dog-spots-to-visit-this-summer/",
+   "https://downeast.com/food-drink/jimmy-simones-relishes-50-years-at-simones-hot-dog-stand"
+  ]
+ },
+ {
+  "name": "Labadie's Bakery",
+  "address": "161 Lincoln St",
+  "town": "Lewiston",
+  "village": null,
+  "zip": "04240",
+  "kinds": [
+   "whoopie pie",
+   "oldest"
+  ],
+  "dishes": [
+   "whoopie pies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1925,
+  "founded_note": "Down East (June 2025): the shop opened in 1925 and 'still occupies the same little storefront it always has.' Labadie's calls itself the original Maine whoopie pie and says it sold its first in 1925; that is the bakery's own claim (records were lost in a 1960s fire).",
+  "branch_of": null,
+  "note": "Century-old bakery in Lewiston's old Little Canada neighborhood, built on whoopie pies; retail counter open weekday mornings and ships nationwide.",
+  "website": "https://labadiesbakery.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://downeast.com/features/whoopie-pie-maine-state-treat/",
+   "https://labadiesbakery.com/pages/contact",
+   "https://labadiesbakery.com/pages/the-original-maine-whoopie-pie-our-story"
+  ]
+ },
+ {
+  "name": "Grant's Bakery",
+  "address": "525 Sabattus St",
+  "town": "Lewiston",
+  "village": null,
+  "zip": "04240",
+  "kinds": [
+   "franco american"
+  ],
+  "dishes": [
+   "pork pie (tourtière)",
+   "salmon pie",
+   "baked beans and brown bread"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Grant's says it has served Lewiston-Auburn since 1956, starting at 81 College St; the year it moved to 525 Sabattus St isn't stated.",
+  "branch_of": null,
+  "note": "Family bakery since 1956 that bakes hot pork pies (tourtière) on Wednesdays and salmon pie on Fridays; its tourtière was in the Sun Journal's 2015 local tourtière tasting.",
+  "website": "https://www.grantsbakery.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.grantsbakery.com/",
+   "https://www.grantsbakery.com/about.html",
+   "https://www.grantsbakery.com/holidays.html",
+   "https://www.sunjournal.com/2015/11/22/tourtiere-good-meat-pie-matter-say/"
+  ]
+ },
+ {
+  "name": "Rolly's Diner",
+  "address": "87 Mill St",
+  "town": "Auburn",
+  "village": "New Auburn",
+  "zip": "04210",
+  "kinds": [
+   "diner"
+  ],
+  "dishes": [
+   "crepes",
+   "pancakes",
+   "all-day breakfast"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1993,
+  "founded_note": "Opened by Ken Blais on Dec. 18, 1993 (Bates Student), with his mother Rolande 'Rolly' Blais, on Mill Street (Sun Journal obituary, 2022).",
+  "branch_of": null,
+  "note": "New Auburn neighborhood diner named for co-founder Rolande 'Rolly' Blais, serving breakfast all day; its walls hold old New Auburn photos and memorabilia.",
+  "website": "https://rollysnewauburn.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.sunjournal.com/2025/12/28/auburn-pushes-to-enhance-its-downtown-its-kind-of-chicken-or-egg-thing/",
+   "https://thebatesstudent.com/24230/features/local-business-spotlight-rollys-diner/",
+   "https://www.sunjournal.com/2022/01/20/obituaryrolande-rolly-blais/",
+   "https://rollysnewauburn.com/"
+  ]
+ },
+ {
+  "name": "Sam's Italian Foods",
+  "address": "40 Millett Dr",
+  "town": "Auburn",
+  "village": null,
+  "zip": "04210",
+  "kinds": [
+   "italian sandwich"
+  ],
+  "dishes": [
+   "Maine Italian sandwich",
+   "pizza"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Sam's says Sam Bennett began selling Italian sandwiches in 1939 from a small shop on Minot Avenue in Auburn and moved to Main Street in Lewiston in 1940; this Taylor Brook Mall shop is the chain's listed main address and its opening year isn't stated.",
+  "branch_of": null,
+  "note": "Lewiston-Auburn's own Maine Italian sandwich chain (since 1939, now employee-owned), with shops in Auburn, Lewiston, Lisbon Falls, Augusta, Dixfield and Brunswick.",
+  "website": "https://www.samsitalian.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.samsitalian.com/",
+   "https://www.samsitalian.com/alllocations",
+   "https://www.samsitalian.com/our-story",
+   "https://www.samsitalian.com/menu"
+  ]
+ },
+ {
+  "name": "Nezinscot Farm",
+  "address": "284 Turner Center Rd",
+  "town": "Turner",
+  "village": null,
+  "zip": "04282",
+  "kinds": [],
+  "dishes": [
+   "house-baked bread",
+   "farm cheese",
+   "café sandwiches and soups",
+   "whoopie pies and doughnuts"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The farm café opened in the 1980s (Down East 2023); Gloria and Gregg Varney have run it since 1987 (Wikipedia, citing the Sun Journal).",
+  "branch_of": null,
+  "note": "Organic dairy farm with a café, bakery and fromagerie that cooks with what the farm raises; named one of the James Beard Foundation's America's Classics in 2023. Café open Wednesday-Sunday.",
+  "website": "https://www.nezinscotfarm.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://www.nezinscotfarm.com/",
+   "https://www.nezinscotfarm.com/2025/07/04/my-day-off-better-late-than-never/",
+   "https://www.sunjournal.com/2023/02/22/nezinscot-farm-in-turner-wins-food-award-from-james-beard-foundation/",
+   "https://www.portlandfoodmap.com/nezinscot-farm-americas-classic-award/",
+   "https://en.wikipedia.org/wiki/Nezinscot_Farm",
+   "https://downeast.com/features/maine-restaurants-that-have-stood-the-test-of-time/"
+  ]
+ },
+ {
+  "name": "Dairy Joy",
+  "address": "109 Campus Ave",
+  "town": "Lewiston",
+  "village": null,
+  "zip": "04240",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve",
+   "hard ice cream",
+   "sundaes",
+   "banana boats"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Family-run ice cream stand with soft and hard serve, sundaes, shakes and floats; a second stand is at 137 Spring St in Auburn.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Main Street Dairy Treat",
+  "address": "688 Main St",
+  "town": "Lewiston",
+  "village": null,
+  "zip": "04240",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve",
+   "homemade hard ice cream",
+   "warm apple pie sundae"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Lewiston ice cream stand serving soft serve, homemade hard ice cream and low-carb ice cream.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Taber's",
+  "address": "470 Lake Shore Dr",
+  "town": "Auburn",
+  "village": null,
+  "zip": "04210",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard ice cream (23 flavors, including Maine blueberry)",
+   "frappes"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Lake Auburn ice cream stand and restaurant with mini golf and a driving range.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Northland Dairy Treat",
+  "address": "1355 Auburn Rd",
+  "town": "Turner",
+  "village": null,
+  "zip": "04282",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Press Herald (2025): 'serving the Turner and surrounding areas since 1990'; not stated whether at this address.",
+  "branch_of": null,
+  "note": "Turner soft-serve stand on Route 4.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Log Yard Dairy Bar",
+  "address": "1184 Maine St",
+  "town": "Poland",
+  "village": null,
+  "zip": "04274",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "frozen custard",
+   "soft serve"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Seasonal Poland stand known for frozen custard as well as soft serve.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Softie Delite",
+  "address": "7 Bridge St",
+  "town": "Livermore Falls",
+  "village": null,
+  "zip": "04254",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve",
+   "hard ice cream",
+   "brioche waffle sundae"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Livermore Falls ice cream stand with soft and hard serve and gluten-free waffle cones.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Fast Eddie's",
+  "address": "1308 Route 202",
+  "town": "Winthrop",
+  "village": null,
+  "zip": "04364",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade ice cream",
+   "drive-in burgers and hot dogs"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Winthrop drive-in with its own ice cream bar that makes its own ice cream.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Backs Dairy Bar",
+  "address": "390 Route 3",
+  "town": "China",
+  "village": "South China",
+  "zip": "04358",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard and soft serve",
+   "Back's Bar",
+   "Chilly Bar"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Family-run seasonal ice cream stand in South China with house novelties like the Back's Bar and Whippy Dippy.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "North Street Dairy Cone",
+  "address": "127 North St",
+  "town": "Waterville",
+  "village": null,
+  "zip": "04901",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade 'old-fashioned' ice cream",
+   "soft serve",
+   "shakes"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Waterville stand that makes its own old-fashioned ice cream (Butterscotch Royal, Red Raspberry Streak) plus soft serve.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Gifford's Famous Ice Cream (Waterville stand)",
+  "address": "170 Silver St",
+  "town": "Waterville",
+  "village": null,
+  "zip": "04901",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Gifford's hard ice cream",
+   "sundaes",
+   "frappes"
+  ],
+  "seasonal": true,
+  "season": "about late March to fall (opened March 20 in 2026)",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": "Gifford's Famous Ice Cream, Skowhegan",
+  "note": "Scoop stand with mini golf run by Skowhegan's family ice cream maker.",
+  "website": "https://www.giffordsicecream.com/scoop-stands/waterville/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.giffordsicecream.com/scoop-stands/waterville/",
+   "https://www.centralmaine.com/2026/03/13/giffords-ice-cream-gears-up-for-season-with-skowhegan-factory-back-online/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Tubby's Ice Cream",
+  "address": "512 Main St",
+  "town": "Wayne",
+  "village": null,
+  "zip": "04284",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade ice cream",
+   "homemade waffle cones"
+  ],
+  "seasonal": true,
+  "season": "opens Memorial Day weekend",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Wayne stand that makes its ice cream from scratch and is known for homemade waffle cones.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Bee's Snack Bar",
+  "address": "1 Lithgow St",
+  "town": "Winslow",
+  "village": null,
+  "zip": "04901",
+  "kinds": [
+   "diner"
+  ],
+  "dishes": [
+   "all-day breakfast",
+   "loaded hot dogs",
+   "hand-cut fries"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Central Maine (2025) says it has served Winslow for 77 years; run by the Willette family 1974-2018; founding year and address history not stated.",
+  "branch_of": null,
+  "note": "Long-running Winslow snack bar above the Kennebec, reopened in April 2025 by a Willette family member with all-day breakfast and comfort-food specials; open Tuesday-Saturday.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.centralmaine.com/2025/04/27/we-survive-winslow-family-reopens-bees-snack-bar/"
+  ]
+ },
+ {
+  "name": "Gifford's Famous Ice Cream (Skowhegan stand)",
+  "address": "307 Madison Ave",
+  "town": "Skowhegan",
+  "village": null,
+  "zip": "04976",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Gifford's hard ice cream",
+   "sundaes",
+   "frappes"
+  ],
+  "seasonal": true,
+  "season": "about early April to fall (opened April 3 in 2026)",
+  "founded": null,
+  "founded_note": "Press Herald (2025): 'Gifford's first stand opened in Skowhegan in 1980'; not stated whether at this address.",
+  "branch_of": null,
+  "note": "Hometown scoop stand (with mini golf) of the fifth-generation Skowhegan ice cream maker.",
+  "website": "https://www.giffordsicecream.com/scoop-stands/skowhegan/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.giffordsicecream.com/scoop-stands/skowhegan/",
+   "https://www.centralmaine.com/2026/03/13/giffords-ice-cream-gears-up-for-season-with-skowhegan-factory-back-online/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Frosty Delite",
+  "address": "190 Main St",
+  "town": "Mexico",
+  "village": null,
+  "zip": "04257",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve (blueberry, orange-pineapple, peanut butter)"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Soft-serve stand under the lighted cone just east of the Mexico town office.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Route 160 Ice Cream",
+  "address": "5 Brownfield Rd",
+  "town": "Hiram",
+  "village": null,
+  "zip": "04041",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard ice cream (20+ flavors)",
+   "frappes",
+   "red snapper hot dogs"
+  ],
+  "seasonal": true,
+  "season": "opens in early May (May 3 in 2025)",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Hiram ice cream stand with 20-plus hard-serve flavors that also sells red snapper hot dogs.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Pine Tree Frosty",
+  "address": "2459 Main St",
+  "town": "Rangeley",
+  "village": null,
+  "zip": "04970",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft and hard serve",
+   "weekly ice cream specials",
+   "lobster roll"
+  ],
+  "seasonal": true,
+  "season": "spring to fall (opening day May 20 in 2025)",
+  "founded": null,
+  "founded_note": "Press Herald (2025): 'in business since 1964'; not stated whether always at this address.",
+  "branch_of": null,
+  "note": "Waterfront Rangeley ice cream stand in business since 1964.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.sunjournal.com/2026/04/22/ice-cream-stands-reopen-in-franklin-county-signaling-approach-of-summer-season/"
+  ]
+ },
+ {
+  "name": "The Ice Cream Shoppe",
+  "address": "171 Wilton Rd",
+  "town": "Farmington",
+  "village": null,
+  "zip": "04938",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "soft serve",
+   "flavor of the week",
+   "dairy-free soft serve"
+  ],
+  "seasonal": true,
+  "season": "mid-April into October (opened April 18 and still serving Oct. 1 in 2026)",
+  "founded": null,
+  "founded_note": "Press Herald (2025): 'family-owned and operated since 1988'; not stated whether at this address.",
+  "branch_of": null,
+  "note": "Family-run Farmington soft-serve stand since 1988 with a weekly flavor and dairy-free options.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.sunjournal.com/2026/04/22/ice-cream-stands-reopen-in-franklin-county-signaling-approach-of-summer-season/",
+   "https://www.centralmaine.com/2026/10/05/were-at-peak-foliage-but-ice-cream-season-not-over-yet/"
+  ]
+ },
+ {
+  "name": "Sweet Scoops",
+  "address": "258 Main St",
+  "town": "Jay",
+  "village": null,
+  "zip": "04239",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream"
+  ],
+  "seasonal": true,
+  "season": "mid-April into October (opened April 18 and still serving in October 2026)",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Seasonal Jay ice cream stand owned by Rhonda Harlow.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.sunjournal.com/2026/04/22/ice-cream-stands-reopen-in-franklin-county-signaling-approach-of-summer-season/",
+   "https://www.centralmaine.com/2026/10/05/were-at-peak-foliage-but-ice-cream-season-not-over-yet/"
+  ]
+ },
+ {
+  "name": "Kawanhee Inn",
+  "address": "12 Anne's Way",
+  "town": "Weld",
+  "village": null,
+  "zip": "04285",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "dinner in the lodge dining room (menu changes)"
+  ],
+  "seasonal": true,
+  "season": "summer and early fall (opening day June 16 in 2026)",
+  "founded": 1929,
+  "founded_note": "The inn bills itself 'Since 1929' (main lodge built in the 1920s by the Frank brothers); Down East (2023) dates it to 1929.",
+  "branch_of": null,
+  "note": "Rustic 1920s lodge on Webb Lake with a public restaurant in its fieldstone-fireplace dining room and enclosed porch.",
+  "website": "https://www.kawanheeinn.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.kawanheeinn.com/",
+   "https://www.kawanheeinn.com/index.php/history/",
+   "https://www.kawanheeinn.com/index.php/dining/",
+   "https://downeast.com/features/maine-restaurants-that-have-stood-the-test-of-time/"
+  ]
+ },
+ {
+  "name": "Dysart's Restaurant & Truck Stop",
+  "address": "530 Coldbrook Rd",
+  "town": "Hermon",
+  "village": null,
+  "zip": "04401",
+  "kinds": [
+   "diner",
+   "blueberry pie"
+  ],
+  "dishes": [
+   "blueberry pie",
+   "baked beans",
+   "homemade bread",
+   "breakfast all day"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1967,
+  "founded_note": "Dysart's says it has kept its traditions (beans every day, homemade bread, breakfast all day) 'since 1967'; the Press Herald (2026) dates the Hermon restaurant to 1967.",
+  "branch_of": null,
+  "note": "I-95 Exit 180 truck-stop restaurant known for big plates, daily baked beans, homemade bread and pies; the restaurant ended 24-hour service in 2019 but the truck stop stays open around the clock.",
+  "website": "https://www.dysarts.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.pressherald.com/2026/07/04/where-did-maines-24-7-restaurants-go/",
+   "https://www.dysarts.com/ourstory/",
+   "https://www.dysarts.com/dysarts-restaurant-menu/",
+   "https://downeast.com/features/maine-restaurants-that-have-stood-the-test-of-time/"
+  ]
+ },
+ {
+  "name": "Gifford's Famous Ice Cream (Bangor stand)",
+  "address": "1109 Broadway",
+  "town": "Bangor",
+  "village": null,
+  "zip": "04401",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Gifford's hard ice cream",
+   "sundaes",
+   "frappes"
+  ],
+  "seasonal": true,
+  "season": "about March to fall (opened March 6 in 2026)",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": "Gifford's Famous Ice Cream, Skowhegan",
+  "note": "Bangor scoop stand of the Skowhegan ice cream maker, usually the first of its stands to open each spring.",
+  "website": "https://www.giffordsicecream.com/scoop-stands/bangor/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.giffordsicecream.com/scoop-stands/bangor/",
+   "https://www.centralmaine.com/2026/03/13/giffords-ice-cream-gears-up-for-season-with-skowhegan-factory-back-online/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Pat's Pizza",
+  "address": "11 Mill St",
+  "town": "Orono",
+  "village": null,
+  "zip": "04473",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "pizza",
+   "spaghetti and meatballs"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1931,
+  "founded_note": "Pat's says C.D. 'Pat' Farnsworth opened Farnsworth's Cafe in Orono in July 1931 (ice cream and confections) and added pizza in 1953; Wikipedia identifies the Mill Street restaurant as the original location.",
+  "branch_of": null,
+  "note": "The original Pat's Pizza, a University of Maine institution on Mill Street that began as Farnsworth's Cafe in 1931 and turned to pizza in 1953.",
+  "website": "https://www.patspizzaorono.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.bangordailynews.com/2026/06/20/bangor/bangor-business/sip-lab-coffee-shop-bar-orono-joam40zk0w/",
+   "https://www.patspizzaorono.com/",
+   "https://en.wikipedia.org/wiki/Pat%27s_Pizza"
+  ]
+ },
+ {
+  "name": "Sawyer's Dairy Bar",
+  "address": "34 North Main St",
+  "town": "Newport",
+  "village": null,
+  "zip": "04953",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "shakes",
+   "soft serve",
+   "sandwiches"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Press Herald (2025): 'around since the 1950s'; exact year not stated.",
+  "branch_of": null,
+  "note": "Newport dairy bar dating to the 1950s, serving shakes, soft serve and sandwiches.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "The Quarry",
+  "address": "15 Tenney Hill Rd",
+  "town": "Monson",
+  "village": null,
+  "zip": "04464",
+  "kinds": [],
+  "dishes": [
+   "American fine dining with Filipino flavors (menu changes every two weeks)"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opened in 2018 (Bangor Daily News 2026); whether it has always been at 15 Tenney Hill Rd isn't stated.",
+  "branch_of": null,
+  "note": "Chef-owner Marilou 'Lulu' Ranta's fine-dining restaurant, which also feeds Monson Arts residents; won the 2023 James Beard Award for Outstanding Hospitality.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.bangordailynews.com/2026/07/01/special-sections/from-quiet-mill-town-to-creative-destination-monsons-new-identity-0vzoa9n507wn/",
+   "https://www.monsonmaine.org/business-listing/farms-foods-breweries-pubs-catering",
+   "https://www.bangordailynews.com/2023/06/05/piscataquis/monson-restaurant-wins-james-beard-award-n6hjn1me0n/",
+   "https://mainebiz.biz/article/monson-restaurant-wins-prestigious-james-beard-award/"
+  ]
+ },
+ {
+  "name": "Rock's Family Diner",
+  "address": "378 W Main St",
+  "town": "Fort Kent",
+  "village": null,
+  "zip": "04743",
+  "kinds": [
+   "diner",
+   "whoopie pie"
+  ],
+  "dishes": [
+   "whoopie pies",
+   "home-cooked comfort food",
+   "breakfast"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Rock's says it has operated since 1945, when founder Rock Ouellette opened a part-time hot dog stand; whether at this address isn't stated. Owned by Sandra and Peter Pinette since 2001.",
+  "branch_of": null,
+  "note": "Diner across from America's First Mile monument and the international bridge, baking whoopie pies for 40-plus years and shipping them nationwide.",
+  "website": "https://www.rocksfamilydiner.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://visitaroostook.com/story/fort-kent-maine-what-to-do",
+   "https://www.rocksfamilydiner.com/",
+   "https://www.umfk.edu/admissions/visiting/dining-lodging/"
+  ]
+ }
+]

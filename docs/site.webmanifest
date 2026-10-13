@@ -1,0 +1,21 @@
+{
+  "name": "Maine Eats",
+  "short_name": "Maine Eats",
+  "description": "Lobster shack & clam guide, plus 4,220 Maine restaurants.",
+  "start_url": "/maine-eats/",
+  "display": "browser",
+  "background_color": "#fbf6ec",
+  "theme_color": "#0E4D5C",
+  "icons": [
+    {
+      "src": "/maine-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/maine-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

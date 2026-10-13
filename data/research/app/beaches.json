@@ -1,0 +1,728 @@
+[
+ {
+  "name": "Nunan's Lobster Hut",
+  "address": "9 Mills Rd",
+  "town": "Kennebunkport",
+  "village": "Cape Porpoise",
+  "zip": "04046",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "boiled lobster dinner",
+   "lobster stew",
+   "lobster roll",
+   "homemade pie"
+  ],
+  "seasonal": true,
+  "season": "May 21 to October 17 (2026 season)",
+  "founded": 1953,
+  "founded_note": "Site: George Nunan sold cooked lobsters from a kettle in his yard from 1951 and in 1953 turned his workshop into the kitchen still used today; the site calls 2026 its 73rd year",
+  "branch_of": null,
+  "note": "Family-run Cape Porpoise lobster hut serving lobster dinners in the rough from 5 pm; no reservations, no credit cards.",
+  "website": "https://www.nunanslobsterhut.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.nunanslobsterhut.com/",
+   "https://www.nunanslobsterhut.com/aboutus.html",
+   "https://www.nunanslobsterhut.com/menu.html"
+  ]
+ },
+ {
+  "name": "Fox's Lobster House",
+  "address": "8 Sohier Park Rd",
+  "town": "York",
+  "village": "York Beach",
+  "zip": "03910",
+  "kinds": [
+   "lobster shack",
+   "blueberry pie",
+   "oldest"
+  ],
+  "dishes": [
+   "boiled lobster",
+   "lobster roll",
+   "Maine blueberry pie"
+  ],
+  "seasonal": true,
+  "season": "April 29 to October 18 (2026, its 61st season)",
+  "founded": 1936,
+  "founded_note": "Site history: Coupe's Lobster Pound was built on this spot by Nubble Light in 1936; the Fox family bought it in 1966 and renamed it Fox's Lobster House",
+  "branch_of": null,
+  "note": "Oceanfront lobster house next to Nubble Light with dining rooms and a take-out picnic patio; lobsters are boiled in its own pound and the owner bakes the blueberry pie.",
+  "website": "https://www.foxslobster.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.foxslobster.com/",
+   "https://www.foxslobster.com/history/",
+   "https://www.foxslobster.com/contact/",
+   "https://www.foxslobster.com/lobster-roll-recipe/"
+  ]
+ },
+ {
+  "name": "Barnacle Billy's",
+  "address": "50-70 Perkins Cove Rd",
+  "town": "Ogunquit",
+  "village": "Perkins Cove",
+  "zip": "03907",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "boiled lobster",
+   "lobster roll",
+   "clam chowder",
+   "rum punch"
+  ],
+  "seasonal": true,
+  "season": "April 10 to October 25, 2026 (also April 3-5)",
+  "founded": 1961,
+  "founded_note": "Site: Billy Tower bought the building (then the Brush & Needle shop) in 1960 and Barnacle Billy's opened in 1961",
+  "branch_of": null,
+  "note": "Tower family lobster place on Perkins Cove known for boiled lobster with drawn butter and its rum punch; Barnacle Billy's, Etc. is the table-service sibling at the same address range.",
+  "website": "https://www.barnbilly.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.barnbilly.com/",
+   "https://www.barnbilly.com/contact-directions"
+  ]
+ },
+ {
+  "name": "The Clam Shack",
+  "address": "2 Western Ave",
+  "town": "Kennebunk",
+  "village": null,
+  "zip": "04043",
+  "kinds": [
+   "clam shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "fried seafood",
+   "fresh-squeezed lemonade"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": 1968,
+  "founded_note": "Site: in 1968 the shack over the Kennebunk River was rented on a handshake and began serving takeout seafood; the adjoining fish market dates to the 1930s; Steve Kingston has owned it since 2000",
+  "branch_of": null,
+  "note": "Takeout seafood shack on the Kennebunk River bridge by Dock Square; its lobster rolls use chilled meat with mayo on the grilled bun, warm butter, or both.",
+  "website": "https://www.theclamshack.net/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.pressherald.com/2026/09/21/lobster-rolls-with-melted-butter-have-quietly-gained-ground-in-maine-column/",
+   "https://www.theclamshack.net/",
+   "https://www.theclamshack.net/our-story",
+   "https://www.theclamshack.net/join-the-team"
+  ]
+ },
+ {
+  "name": "Fisherman's Catch",
+  "address": "134 Harbor Rd",
+  "town": "Wells",
+  "village": null,
+  "zip": "04090",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "lobster boil",
+   "steamers",
+   "mussels",
+   "blueberry pie"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: family owned since 1982 (it does not say at this address)",
+  "branch_of": null,
+  "note": "Rustic family-owned lobster shack on the Wells salt marsh with dine-in and takeout, live music, and four-course outdoor lobster boils in summer.",
+  "website": "https://www.fishermanscatchwells.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.fishermanscatchwells.com/",
+   "https://www.fishermanscatchwells.com/menu"
+  ]
+ },
+ {
+  "name": "Huot's Seafood Restaurant",
+  "address": "29 Eastern Ave",
+  "town": "Saco",
+  "village": "Camp Ellis",
+  "zip": "04072",
+  "kinds": [
+   "clam shack"
+  ],
+  "dishes": [
+   "clam cakes",
+   "onion rings",
+   "fried seafood"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: Adelard J. and Doris Corriveau Huot bought Huot's Seafood Restaurant in 1935 and the site counts 91 years of business; it does not say the restaurant has always stood at this address",
+  "branch_of": null,
+  "note": "Camp Ellis seafood restaurant still using Doris Huot's recipes for clam cakes, onion rings and seafood batter; after three generations of the Huot family, a new team now runs it and says it is keeping the recipes.",
+  "website": "https://www.huotsseafood.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.huotsseafood.com/"
+  ]
+ },
+ {
+  "name": "Palace Diner",
+  "address": "18 Franklin St",
+  "town": "Biddeford",
+  "village": null,
+  "zip": "04005",
+  "kinds": [
+   "diner"
+  ],
+  "dishes": [
+   "buttermilk flapjacks",
+   "tuna melt"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The Pollard dining car was built for Biddeford in 1927 and has stood at several spots within a block of the current Franklin Street site (Maine Magazine), so no year at this address; Chad Conley and Greg Mitchell took over in 2014",
+  "branch_of": null,
+  "note": "Fifteen-stool 1927 Pollard dining car, one of two left, serving breakfast and lunch; cash only.",
+  "website": "https://www.palacedinerme.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.palacedinerme.com/",
+   "https://www.tastingtable.com/2110240/maine-restaurant-dining-car-palace-diner",
+   "https://www.themainemag.com/2815-palace-diner/",
+   "https://www.portlandfoodmap.com/maine-food-dining-news-north-yarmouth-jackson-biddeford-searsport-damariscotta-south-portland-bath-waldoboro-brunswick-newcastle-camden-farmington/"
+  ]
+ },
+ {
+  "name": "Maine Diner",
+  "address": "2265 Post Rd",
+  "town": "Wells",
+  "village": null,
+  "zip": "04090",
+  "kinds": [
+   "diner"
+  ],
+  "dishes": [
+   "lobster stew",
+   "meatloaf",
+   "red flannel hash"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: Socrates 'Louie' Toton started the diner in the early 1960s; Press Herald: first opened in the 1960s",
+  "branch_of": null,
+  "note": "Route 1 roadside diner in Wells, known for lobster stew, meatloaf and red flannel hash.",
+  "website": "https://mainediner.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.pressherald.com/2026/06/04/maine-diners-foreclosure-auction-postponed-indefinitely/",
+   "https://www.pressherald.com/2026/05/07/maine-diner-in-wells-scheduled-for-foreclosure-auction-in-june/",
+   "https://mainediner.com/",
+   "https://mainediner.com/our-story/"
+  ]
+ },
+ {
+  "name": "Bread & Roses Bakery",
+  "address": "478 Main St",
+  "town": "Ogunquit",
+  "village": null,
+  "zip": "03907",
+  "kinds": [
+   "whoopie pie"
+  ],
+  "dishes": [
+   "whoopie pies",
+   "pastries",
+   "coffee drinks"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: began in 1989 in Ogunquit; marks 478 Main St as a new shop; baking is now done in its commercial kitchen in Wells",
+  "branch_of": null,
+  "note": "Ogunquit bakery since 1989 that ships its whoopie pies nationwide; the retail shop is seasonal.",
+  "website": "https://www.breadandrosesbakery.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.breadandrosesbakery.com/",
+   "https://www.breadandrosesbakery.com/about/",
+   "https://www.breadandrosesbakery.com/order/",
+   "https://www.breadandrosesbakery.com/bakery/specialty-cakes/",
+   "https://www.goldbelly.com/restaurants/bread-and-roses-bakery/assorted-whoopie-pie-gift-box-pack"
+  ]
+ },
+ {
+  "name": "The Goldenrod",
+  "address": "2 Railroad Ave",
+  "town": "York",
+  "village": "York Beach",
+  "zip": "03910",
+  "kinds": [
+   "dairy bar",
+   "oldest"
+  ],
+  "dishes": [
+   "Goldenrod Kisses saltwater taffy",
+   "homemade ice cream",
+   "griddle cakes"
+  ],
+  "seasonal": true,
+  "season": "mid-May to Columbus Day",
+  "founded": 1896,
+  "founded_note": "Site: Edward and Mattie Talpey established The Goldenrod in 1896 on the very site where it stands today",
+  "branch_of": null,
+  "note": "Short Sands candy shop, ice cream fountain and restaurant where Goldenrod Kisses taffy is pulled in the front windows; more than 135 ice cream flavors.",
+  "website": "https://thegoldenrod.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://thegoldenrod.com/",
+   "https://thegoldenrod.com/history-2/",
+   "https://thegoldenrod.com/faq/",
+   "https://thegoldenrod.com/breakfast-menu/"
+  ]
+ },
+ {
+  "name": "Dunne's Ice Cream",
+  "address": "214 Nubble Rd",
+  "town": "York",
+  "village": "York Beach",
+  "zip": "03910",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Wild Maine Blueberry ice cream",
+   "Grape Nut ice cream",
+   "Black Raspberry Explosion ice cream"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: Byron and Betty Brown started Brown's Ice Cream on the Nubble in 1967; Steve Dunne leased it from 1992, then built a new stand on his family's own land and renamed it Dunne's (year not given)",
+  "branch_of": null,
+  "note": "Nubble Road ice cream stand that carries on the old Brown's Ice Cream tradition under the Dunne family's name; 50-plus flavors plus dairy-free soft serve.",
+  "website": "https://dunnesicecream.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://dunnesicecream.com/"
+  ]
+ },
+ {
+  "name": "Wicked Good Ice Cream",
+  "address": "2 Beach St",
+  "town": "York",
+  "village": null,
+  "zip": "03909",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard-serve ice cream",
+   "soft serve"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "York ice cream shop with about 50 hard-serve flavors plus soft serve and frozen yogurt.",
+  "website": "https://www.wickedgoodicecream.net/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.wickedgoodicecream.net/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Village Scoop Ice Cream",
+  "address": "286 York St",
+  "town": "York",
+  "village": null,
+  "zip": "03909",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Almond Joy ice cream",
+   "Campfire S'mores ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "York scoop shop with 20-plus flavors plus frozen yogurt, sorbet and sherbet.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Sweet Pea's Ice Cream",
+  "address": "37 Shore Rd",
+  "town": "Ogunquit",
+  "village": null,
+  "zip": "03907",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Richardson's ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Ogunquit scoop shop serving two dozen-plus flavors of Richardson's Ice Cream.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Big Daddy's",
+  "address": "2165 Post Rd",
+  "town": "Wells",
+  "village": null,
+  "zip": "04090",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Press Herald: started in 1976 (where the first shop was is not stated)",
+  "branch_of": null,
+  "note": "Homemade ice cream since 1976; also scoops at 478 Main St and 47 Shore Rd in Ogunquit and 6 Spring St in Kennebunkport (the Press Herald also lists Hollis).",
+  "website": "https://www.bigdaddysicecream.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.bigdaddysicecream.com/"
+  ]
+ },
+ {
+  "name": "Scoop Deck",
+  "address": "6 Eldridge Rd",
+  "town": "Wells",
+  "village": null,
+  "zip": "04090",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade waffle cones",
+   "Blueberry Crumble ice cream"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": 1983,
+  "founded_note": "Site: Suzanne Erskine Fretwell opened the Scoop Deck in July 1983 at her family's summer home in Wells; her brother Doug Erskine took over in 1985",
+  "branch_of": null,
+  "note": "Busy seasonal hard-serve stand in a barn with 60-plus flavors and homemade waffle cones.",
+  "website": "https://www.scoopdeck.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.scoopdeck.com/"
+  ]
+ },
+ {
+  "name": "Rococo Artisan Ice Cream",
+  "address": "8 Western Ave",
+  "town": "Kennebunk",
+  "village": null,
+  "zip": "04043",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Goat Cheese Blackberry Chambord ice cream",
+   "artisan ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: 8 Western Ave is a new location for its scoop shop and dessert bar",
+  "branch_of": null,
+  "note": "Artisan ice cream maker known for unusual flavors like Goat Cheese Blackberry Chambord.",
+  "website": "https://rococoicecream.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://rococoicecream.com/"
+  ]
+ },
+ {
+  "name": "Aunt Marie's Ice Cream",
+  "address": "10 Ocean Ave",
+  "town": "Kennebunkport",
+  "village": null,
+  "zip": "04046",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream",
+   "lobster roll"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Kennebunkport ice cream cafe that also serves lobster rolls; a sister shop of The Clam Shack.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.theclamshack.net/join-the-team"
+  ]
+ },
+ {
+  "name": "Goose Rocks Dairy",
+  "address": "278 Mills Rd",
+  "town": "Kennebunkport",
+  "village": null,
+  "zip": "04046",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "hard-serve ice cream",
+   "soft serve"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Summer ice cream stand with 20-plus flavors of hard and soft serve.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Garside's Ice Cream",
+  "address": "320 Ferry Rd",
+  "town": "Saco",
+  "village": null,
+  "zip": "04072",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade ice cream",
+   "custom waffle cones",
+   "ice cream pies"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Site: homemade since 1955, started by Arthur Garside in the mid-1950s; owned by Julie Kramer since 2018 (the site does not say it has always been at this address)",
+  "branch_of": null,
+  "note": "Ferry Road ice cream stand in Saco that has made its own ice cream since the 1950s.",
+  "website": "https://garsidesmaine.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://garsidesmaine.com/",
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Martel's Ice Cream",
+  "address": "757 Portland Rd",
+  "town": "Saco",
+  "village": null,
+  "zip": "04072",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "homemade ice cream",
+   "Maine Mud ice cream",
+   "waffle cones"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": 1986,
+  "founded_note": "Press Herald (2025): the shop has been open since 1986",
+  "branch_of": null,
+  "note": "Route 1 ice cream shop across from Funtown Splashtown with 40-plus homemade flavors and two mini golf courses.",
+  "website": "https://www.martelsicecream.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.martelsicecream.com/"
+  ]
+ },
+ {
+  "name": "The Saco Scoop",
+  "address": "209 Main St",
+  "town": "Saco",
+  "village": null,
+  "zip": "04072",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Shaker Pond ice cream"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Downtown Saco scoop shop in the Atkinson building serving Shaker Pond Ice Cream from Alfred, including vegan flavors.",
+  "website": "https://www.thesacoscoop.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.thesacoscoop.com/"
+  ]
+ },
+ {
+  "name": "Sweetcream Dairy",
+  "address": "128 Main St, Unit 101",
+  "town": "Biddeford",
+  "village": null,
+  "zip": "04005",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream from locally sourced ingredients"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Biddeford ice cream maker with its own certified dairy plant and a Main Street scoop shop.",
+  "website": "https://www.sweetcreamdairy.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.sweetcreamdairy.com/"
+  ]
+ },
+ {
+  "name": "Big Licks",
+  "address": "8 West Grand Ave",
+  "town": "Old Orchard Beach",
+  "village": null,
+  "zip": "04064",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Salted Caramel Cashew ice cream"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Old Orchard Beach ice cream shop with classic-style ice cream in inventive flavors; opens Memorial Day weekend.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ },
+ {
+  "name": "Johnson's Dairy Delite",
+  "address": "6 School St",
+  "town": "Berwick",
+  "village": null,
+  "zip": "03901",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Gifford's hard-serve ice cream",
+   "soft serve"
+  ],
+  "seasonal": true,
+  "season": "March through September",
+  "founded": null,
+  "founded_note": "Site: Dan and Rebecca Johnson took it over in 2022 from longtime owner Daniel White",
+  "branch_of": null,
+  "note": "Seasonal Berwick ice cream stand scooping 18 flavors of Gifford's hard serve plus soft serve, sorbet and frozen yogurt.",
+  "website": "https://www.johnsonsdairydelite.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/",
+   "https://www.johnsonsdairydelite.com/"
+  ]
+ },
+ {
+  "name": "Aggie's Ice Cream",
+  "address": "104 Agamenticus Rd",
+  "town": "South Berwick",
+  "village": null,
+  "zip": "03908",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "Death by Chocolate ice cream",
+   "Rum Raisin ice cream",
+   "Mint Moose Tracks ice cream"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "South Berwick stand with more than 100 flavors plus soft serve and frozen yogurt.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pressherald.com/2025/04/18/ice-cream-guide-places-to-get-ice-cream-in-central-and-southern-maine/"
+  ]
+ }
+]

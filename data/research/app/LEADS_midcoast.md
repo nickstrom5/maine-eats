@@ -1,0 +1,42 @@
+# Midcoast & Islands leads (not verified for the guide)
+
+Places that probably belong in a guide but lacked a readable, dated 2025–26 source (or an address or a fitting kind). Checked 2026-10-08.
+
+- **Shaw's Fish & Lobster Wharf**, 129 Route 32, New Harbor (Bristol). Listed for sale Dec. 2024 at $3.375M (LCN); no 2025–26 source shows it open, and shawswharf.com now serves an unrelated kayak-insurance blog.
+- **The Seagull Shop**, 3119 Bristol Rd, New Harbor (Bristol), at Pemaquid Point Light. Its site is live (rebuilt 2026, Resy booking) but shows no dated season; newest dated news is LCN May 2023 (86th season, rebuilt after a 2020 fire, owner Brooke Cotter). A 2026 LCN property-transfer list names Cotter but is subscriber-only.
+- **Round Top Ice Cream**, 526 Main St, Damariscotta. Its site is live with season hours but no date; newest dated news is LCN Oct. 2024 (centennial; ice cream since 1924, at 526 Main St since April 1998). A Press Herald April 2025 guide shows a Cumberland stand serving Round Top ice cream, which proves production, not the stand.
+- **The Lobster Dock**, 49 Atlantic Ave, Boothbay Harbor. thelobsterdock.com doesn't resolve; only visitmaine.com listings, which are blocked; no dated source.
+- **Boothbay Lobster Wharf**, 97 Atlantic Ave, Boothbay Harbor. Its site returns a bot check; no dated 2025–26 source.
+- **Cod End**, Miller's Wharf, Tenants Harbor (St. George). Closed by about 2014; Luke's at Tenants Harbor opened in the space in 2016 (PenBay Pilot). No 2025–26 source for Luke's; don't add Cod End.
+- **Pemaquid Fishermen's Co-op, Round Pond Lobster Co-op, New Harbor Co-op**. No sites resolve and no dated sources were found.
+- **Mook Sea Farm**, Walpole (Bristol). Farm tours only; no evidence that it serves the public.
+- **"Dot's"**. Couldn't identify a Midcoast place by this name.
+- **Brass Compass Café**, Rockland. Its site's robots.txt blocks ClaudeBot; no 2025–26 news found.
+- **Rockland Café**, Main St, Rockland (classic diner, all-you-can-eat seafood). Its site is undated, with owners there since 1992; no 2025–26 news.
+- **Claws**, Rockland (lobster rolls). Its site doesn't resolve; the only 2026 mention is a family tie in a Lobster Festival delegate story.
+- **Wasses Hot Dogs**, 2 North Main St, Rockland (also Belfast and Thomaston). Press Herald May 2026 confirms it's open, but its dogs are griddled in peanut oil (not red snappers), so no kind fits.
+- **Just Barb's**, 24 Main St, Stockton Springs (lobster rolls, whole-belly fried clams). Its site's metadata shows a Dec. 2025 edit but no visible 2025–26 date; no dated news.
+- **Newcastle Publick House / Oysterhead Lounge**, 52 Main St, Newcastle. The upstairs lounge opened as an oyster bar in 2014 (LCN) and hosted an event in April 2025 (LCN), but a current raw bar isn't confirmed.
+- **A Twist of Moody's** (ice cream stand beside Moody's Diner, Waldoboro). moodysdiner.com blocks ClaudeBot; newest dated news is about 2022.
+- **Harbor Ice Cream**, New Harbor (Bristol). Newest LCN item is 2022 (new management).
+- **River Ducks Ice Cream**, Camden. BDN March 2025 said it would reopen for its 15th season; no address and no confirmed opening.
+- **Super Scoop**, Route 3, Belmont. Sold to Jason and Penny Peasley, with a reopening planned for 2025 (BDN March 2025); no confirmation it opened and no street number.
+- **Dockside Family Restaurant**, 30 Main St, Belfast. Closed fall 2025; reopening expected June 2026 (BDN), not confirmed.
+- **Parlin's Lobster Wharf** (formerly Osier's Wharf), South Bristol. Reopened June 16, 2026 with a kitchen (BDN Aug. 2026); no street address, and it's unclear whether it cooks lobsters.
+- **Spinney's Restaurant**, 987 Popham Rd, Phippsburg. The deck was destroyed in the Jan. 2024 storms; no 2025–26 source on the restaurant.
+- **Anna's Water's Edge**, 75 Black's Landing Rd, Phippsburg (Sebasco). No dated 2025–26 source.
+- **Shannon's Unshelled**, Boothbay area (lobster rolls). Its site says 23 Granary Way, but the Boothbay Register reports moves (Boothbay Common at 7 Common Dr; a 798 Wiscasset Rd proposal); the address is unresolved and there's no dated source.
+- **Lobsterman's Wharf**, 224 Ocean Point Rd, East Boothbay (Boothbay). Newest news is LCN 2020.
+- **Coveside**, Christmas Cove (South Bristol). Newest news is LCN 2020.
+- **Anglers Restaurant**, 215 E. Main St, Searsport. Sold in 2025 and reopened (BDN May 2025); a seafood family restaurant, but no fitting kind is confirmed (fried clams not confirmed).
+- **Darby's Restaurant & Pub**, Belfast. An "oldest" candidate; its site doesn't resolve and there's no 2025–26 source; the year at this address is unverified.
+- **Monhegan: The Fish House** (lobster rolls) and **Island Inn**. No dated 2025–26 source found.
+- **Vinalhaven/North Haven** (Nebo Lodge, Calderwood Hall, Turner Farm suppers). No dated sources, and no fitting kinds.
+- **Drift Inn Canteen**, 686 Port Clyde Rd, Tenants Harbor (St. George). Lobster roll mentioned only in undated sponsored Down East copy.
+- **The Happy Clam**, St. George. Press Herald 2024 review (seafood shack, May–Oct); needs a 2025–26 source.
+- **Landings Restaurant**, Rockland. Reported closed around Feb. 2026 (NewsCenter Maine), but newscentermaine.com returned 403 to our fetch, so the closure is unverified.
+- **New raw bar in Damariscotta's Taco Alley** (former Pacos Tacos). Planning board accepted it June 2026 (LCN); opening not confirmed.
+- **Schooner Landing**, 47 Main St, Damariscotta. Reopened July 2, 2025 after a Sept. 2024 fire (LCN); a seafood restaurant with no kind evidence (its menu page is empty).
+- **Tugboat Inn & Restaurant**, 80 Commercial St, Boothbay Harbor. Its lobster roll is tracked in the BDN price index (2025–26), but nothing shows it is notable for it.
+- **Old Time Donuts**, 748 Main St, Damariscotta, and **Frosty's Donuts**, 56 Centre St, Bath (reopened Oct. 2025). Both open per the Press Herald, but neither is described as making potato doughnuts.
+- **Happy's Take Out**, Route 1, Camden. Reopened Aug. 2026 (PenBay Pilot) and sells lobster rolls; too new and general to list.

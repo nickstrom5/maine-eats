@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Estes Lobster House",
+    "address": "1906 Harpswell Neck Rd",
+    "town": "Harpswell",
+    "closed_reason": "Closed in 2020; the property was sold in August 2025 to owners converting it into Harpswell Collective, an artists' studio and gallery space.",
+    "sources": [
+      "https://harpswellanchor.org/2025/11/former-estes-lobster-house-to-become-studio-gallery-space-for-local-artists/"
+    ]
+  },
+  {
+    "name": "Susan's Fish N Chips",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed for good on October 30, 2025 after opening in 1989, citing rising costs.",
+    "sources": [
+      "https://www.portlandfoodmap.com/susans-closing-on-october-30th/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Lobster Cooker",
+    "address": "38 Main St",
+    "town": "Freeport",
+    "closed_reason": "Announced it will close for good on October 31, 2026 after a decade in Freeport; the space is becoming a new restaurant, The Kingtide.",
+    "sources": [
+      "https://www.pressherald.com/2026/09/28/new-seafood-and-steak-restaurant-opening-in-downtown-freeport/",
+      "https://www.portlandfoodmap.com/maine-food-dining-news-buxton-lewiston-biddeford-topsham-freeport-wells-brunswick-deer-isle-kennebunk-auburn-south-portland-gardiner-cumberland/"
+    ]
+  },
+  {
+    "name": "The Holy Donut (Brunswick)",
+    "address": "Pleasant St",
+    "town": "Brunswick",
+    "closed_reason": "The Brunswick shop, opened in 2024, closed for good after August 23, 2026. The Portland and Scarborough shops stay open.",
+    "sources": [
+      "https://www.pressherald.com/2026/08/12/holy-donut-to-close-brunswick-store/",
+      "https://www.portlandfoodmap.com/maine-food-dining-news-north-yarmouth-jackson-biddeford-searsport-damariscotta-south-portland-bath-waldoboro-brunswick-newcastle-camden-farmington/"
+    ]
+  },
+  {
+    "name": "Bayley's Seafood Restaurant",
+    "address": "165 Pine Point Rd",
+    "town": "Scarborough",
+    "closed_reason": "Closed for good August 20, 2026 after opening in 1995 (owner April Bayley). A separate business from Bayley's Lobster Pound and the Bait Shed at 9 Avenue 6, which remain open.",
+    "sources": [
+      "https://www.pressherald.com/2026/08/24/iconic-seafood-restaurant-in-scarborough-has-closed/",
+      "https://www.portlandfoodmap.com/maine-food-dining-news-rockport-stonington-brunswick-westbrook-ogunquit-waldoboro-kennebunk-scarborough/"
+    ]
+  },
+  {
+    "name": "Anania's (Congress St)",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "The Congress Street store closed in 2024 (Press Herald, Feb. 2025) and its building was bought by PhoEver Maine in 2025. The Washington Ave Anania's remains open.",
+    "sources": [
+      "https://www.pressherald.com/2025/02/27/a-maine-italian-isnt-just-beloved-its-a-rite-of-passage-on-a-roll/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Anthony's Italian Kitchen",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed February 7, 2025 when owner Anthony Barrasso retired after 33 years.",
+    "sources": [
+      "https://www.portlandfoodmap.com/anthonys-italian-kitchen-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Tomaso's Pizza and Burger Bar",
+    "address": "Wharf St",
+    "town": "Portland",
+    "closed_reason": "Wharf Street restaurant closed in September 2026, about 18 months after opening. Tomaso's Canteen on Hampshire Street is a separate business.",
+    "sources": [
+      "https://www.portlandfoodmap.com/tomasos-on-wharf-street-to-close/"
+    ]
+  },
+  {
+    "name": "Belleville (Munjoy Hill)",
+    "address": "1 North St",
+    "town": "Portland",
+    "closed_reason": "Munjoy Hill bakery location closed June 8, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/munjoy-hill-belleville-to-close/"
+    ]
+  },
+  {
+    "name": "Belleville (Forest Ave)",
+    "address": "Forest Ave",
+    "town": "Portland",
+    "closed_reason": "The owners announced the whole bakery would shut down, with retail winding down in September 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/belleville-to-close-permanently/"
+    ]
+  },
+  {
+    "name": "Abbiocco",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed in April 2026, about six months after opening.",
+    "sources": [
+      "https://www.portlandfoodmap.com/abbiocco-has-closed/"
+    ]
+  },
+  {
+    "name": "Novel",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Bookstore, cafe and bar closed for good April 17, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/novel-to-close/"
+    ]
+  },
+  {
+    "name": "Quanto Basta",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Chef-owner Betsy Spinillo closed the pizzeria in January 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/quanto-basta-closing/"
+    ]
+  },
+  {
+    "name": "Low Stakes",
+    "address": "Exchange St",
+    "town": "Portland",
+    "closed_reason": "Exchange Street steakhouse closed in October 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/low-stakes-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Bar Futo",
+    "address": "Fore St",
+    "town": "Portland",
+    "closed_reason": "Closed after service on November 1, 2025, after three years.",
+    "sources": [
+      "https://www.portlandfoodmap.com/bar-futo-to-close-in-november/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Paper Tiger",
+    "address": "Fore St",
+    "town": "Portland",
+    "closed_reason": "Bar and restaurant closed at the end of August 2025 after three years.",
+    "sources": [
+      "https://www.portlandfoodmap.com/paper-tiger-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Bake Maine (Portland)",
+    "address": "Washington Ave",
+    "town": "Portland",
+    "closed_reason": "Portland location closed August 27, 2025; the Wells location continues.",
+    "sources": [
+      "https://www.portlandfoodmap.com/bake-maine-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Noble Pizzeria & Barbecue",
+    "address": "476 Stevens Ave",
+    "town": "Portland",
+    "closed_reason": "Closed for good July 12, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/noble-pizzeria-barbecue-closing/"
+    ]
+  },
+  {
+    "name": "Bar Publica",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "West Bayside bar and restaurant closed for good September 5, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/bar-publica-to-close/"
+    ]
+  },
+  {
+    "name": "Mast Landing Brewing (South Portland taproom)",
+    "address": "185 Cottage Rd",
+    "town": "South Portland",
+    "closed_reason": "Taproom closed at the end of 2025; Freeport and Westbrook locations continue.",
+    "sources": [
+      "https://www.portlandfoodmap.com/mast-landing-closing-in-south-portland/"
+    ]
+  },
+  {
+    "name": "Tally's Kitchen (Marginal Way)",
+    "address": "Marginal Way",
+    "town": "Portland",
+    "closed_reason": "Bayside location closed in 2026 when the owner consolidated at Stevens Square.",
+    "sources": [
+      "https://www.portlandfoodmap.com/tallys-to-close-marginal-way-location/"
+    ]
+  },
+  {
+    "name": "The Cheese Iron",
+    "address": null,
+    "town": "Scarborough",
+    "closed_reason": "Market and cheese shop closed May 16, 2026 after 20 years when its lease ended.",
+    "sources": [
+      "https://www.portlandfoodmap.com/the-cheese-iron-closing/"
+    ]
+  },
+  {
+    "name": "Rise Pizza & Pub",
+    "address": "319 Main St",
+    "town": "Cumberland",
+    "closed_reason": "Closed in July 2025 after two years, citing staffing and costs.",
+    "sources": [
+      "https://www.portlandfoodmap.com/rise-pizza-pub-closing/"
+    ]
+  },
+  {
+    "name": "Tin Pan Bakery",
+    "address": "Brighton Ave",
+    "town": "Portland",
+    "closed_reason": "Closed in May 2025 after nine years.",
+    "sources": [
+      "https://www.portlandfoodmap.com/tin-pan-bakery-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Sissle and Daughters",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Woodfords Corner wine bar, market and cafe closed in February 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/sissle-and-daughters-cafe-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "The Frog and Turtle",
+    "address": null,
+    "town": "Westbrook",
+    "closed_reason": "Closed March 2, 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/frog-and-turtle-closing-in-march/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Higher Grounds",
+    "address": "Wharf St",
+    "town": "Portland",
+    "closed_reason": "Coffee shop and dispensary closed August 29, 2026.",
+    "sources": [
+      "https://www.portlandfoodmap.com/higher-grounds-to-close/"
+    ]
+  },
+  {
+    "name": "Il Leone (Peaks Island)",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Open-air seasonal pizzeria will no longer operate at its original Peaks Island site (announced April 2026).",
+    "sources": [
+      "https://www.portlandfoodmap.com/il-leone-not-reopening-this-season/"
+    ]
+  },
+  {
+    "name": "Leda",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Cafe and drop-in childcare closed in October 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/leda-to-close/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Model T Coffee",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed in October 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/model-t-coffee-has-closed/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Henry's Public House",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed in January 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Little Brother",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Wrapped up operations in January 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Cherished Pub",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed in August 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Fortune Garden",
+    "address": null,
+    "town": "Portland",
+    "closed_reason": "Closed in November 2025.",
+    "sources": [
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "ZaoZe Cafe & Market",
+    "address": null,
+    "town": "Brunswick",
+    "closed_reason": "Closed in November 2025, the last of the Eighty Ate Hospitality group's businesses.",
+    "sources": [
+      "https://www.portlandfoodmap.com/zaoze-cafe-and-market-closing/",
+      "https://www.portlandfoodmap.com/the-2025-year-in-review/"
+    ]
+  }
+]

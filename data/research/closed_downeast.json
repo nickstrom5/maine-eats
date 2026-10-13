@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Pugnuts Ice Cream Shop",
+    "address": "1276 Surry Road",
+    "town": "Surry",
+    "closed_reason": "Closing permanently on Sunday, Oct. 11, 2026, after a decade (opened 2016), as owners Eric Treworgy and Karl Holmes retire.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/10/04/hancock/hancock-business/pugnuts-closure-surry-ice-cream-shop-joam40zk0w/",
+      "https://penobscotbaypress.com/articles/latestnews-islandadvantages/pugnuts-in-surry-to-close-after-a-decade-of-operation/"
+    ]
+  },
+  {
+    "name": "MacLeod's Restaurant",
+    "address": "63 Main St",
+    "town": "Bucksport",
+    "closed_reason": "Closed April 1, 2025 after 45 years (opened 1980) and the building was sold; it reopened in October 2025 as Stowaway's Town Tavern and Ugly's Bar, which itself moved to Blue Hill in 2026.",
+    "sources": [
+      "https://www.bangordailynews.com/2025/03/17/hancock/hancock-business/macleods-restaurant-in-bucksport-to-close-after-45-years/",
+      "https://www.bangordailynews.com/2025/09/04/hancock/hancock-business/bucksport-maine-macleods-restaurant-stowaways-town-tavern-uglys-bar/",
+      "https://www.bangordailynews.com/2026/10/04/hancock/hancock-business/pugnuts-closure-surry-ice-cream-shop-joam40zk0w/"
+    ]
+  },
+  {
+    "name": "Cherrystones",
+    "address": "185 Main St",
+    "town": "Bar Harbor",
+    "closed_reason": "Seafood restaurant closed after 13 seasons (opened 2012); the building was sold in January 2026 and the space leased to a new tenant opening a different restaurant.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/01/09/hancock/hancock-business/bar-harbor-hotel-firm-acquires-local-restaurant-properties/"
+    ]
+  },
+  {
+    "name": "Quoddy Bay Lobster (Quoddy Bay Seafood)",
+    "address": "7 Sea Street",
+    "town": "Eastport",
+    "closed_reason": "Replaced at the site by Look Lobster (Look Lobster Quoddy Bay / Look Lobster Rolls and Market), which is in the guide.",
+    "sources": [
+      "https://www.mainetravelmaven.com/maines-best-lobster-shacks/",
+      "https://www.eastportchamber.net/_files/ugd/02f944_8dd4ebbc50444ee0ab86c5f6677444f2.pdf"
+    ]
+  },
+  {
+    "name": "Pilgrim's Inn",
+    "address": "20 Main Street",
+    "town": "Deer Isle",
+    "closed_reason": "Sold in spring 2025 to Andrew Shapiro and Bosco Hernandez and renamed The Ark ('formerly Pilgrim's Inn'), an inn with a seasonal dining program.",
+    "sources": [
+      "https://penobscotbaypress.com/articles/highlights-islandadvantages/pilgrims-inn-changes-hands/",
+      "https://deerisle.com/the-ark/"
+    ]
+  },
+  {
+    "name": "Lubec Brewing Company",
+    "address": null,
+    "town": "Lubec",
+    "closed_reason": "Brewery and tap room shut down Aug. 18, 2026 after 11 years; owners cited health issues.",
+    "sources": [
+      "https://www.bangordailynews.com/2026/08/26/down-east/downeast-business/lubec-brewing-company-closes-joam40zk0w/"
+    ]
+  }
+]

@@ -1,0 +1,679 @@
+[
+ {
+  "name": "Bagaduce Lunch",
+  "address": "145 Frank's Flat",
+  "town": "Penobscot",
+  "village": null,
+  "zip": "04476",
+  "kinds": [
+   "clam shack",
+   "oldest"
+  ],
+  "dishes": [
+   "fried haddock sandwich",
+   "fried seafood",
+   "ice cream"
+  ],
+  "seasonal": true,
+  "season": "summer only; opened May 14 for 2026, generally through Labor Day",
+  "founded": 1946,
+  "founded_note": "Sid and Bernice Snow opened it in 1946 above the Bagaduce River's reversing falls; Sid Snow's original shack was replaced on the same site by the current, larger building in 2010. The owner says it has always been in a small section of Penobscot between Brooksville and Sedgwick (an old postcard calls it North Brooksville).",
+  "branch_of": null,
+  "note": "Counter-service seafood shack with picnic tables over the Bagaduce River reversing falls, run by the same family for three generations; James Beard America's Classics honoree in 2008.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://penobscotbaypress.com/articles/latestnews-islandadvantages/bagaduce-lunch-opens-for-its-80th-year-in-penobscot/",
+   "https://en.wikipedia.org/wiki/Bagaduce_Lunch",
+   "https://newengland.com/today/bagaduce-lunch/",
+   "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+  ],
+  "james_beard": [
+   "America's Classics 2008 (winner)"
+  ]
+ },
+ {
+  "name": "Beal's Lobster Pier",
+  "address": "182 Clark Point Rd",
+  "town": "Southwest Harbor",
+  "village": null,
+  "zip": "04679",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster dinner",
+   "lobster roll"
+  ],
+  "seasonal": true,
+  "season": "restaurant closed from October to May; opened May 15 in 2025",
+  "founded": 1969,
+  "founded_note": "Working fish and lobster pier since 1932; the Beal family opened the restaurant on the pier in 1969 (its own history page).",
+  "branch_of": null,
+  "note": "Restaurant on a year-round working lobster pier on Southwest Harbor, where lobstermen unload their catch beside the tables; it also ships lobster nationwide.",
+  "website": "https://bealslobster.com/",
+  "open": true,
+  "evidence_date": "2025-08",
+  "sources": [
+   "https://bealslobster.com/about-us/our-story/",
+   "https://bealslobster.com/contact/",
+   "https://bealslobster.com/the-restaurant/our-menu/",
+   "https://bealslobster.com/news_items/",
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/"
+  ]
+ },
+ {
+  "name": "Trenton Bridge Lobster Pound",
+  "address": "1237 Bar Harbor Rd",
+  "town": "Trenton",
+  "village": null,
+  "zip": "04605",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "lobster boiled in seawater over wood fires",
+   "steamed clams",
+   "clam chowder",
+   "lobster stew",
+   "blueberry pie"
+  ],
+  "seasonal": true,
+  "season": "dine-in June 21 to October 25, 2026; retail pickup and shipping year-round",
+  "founded": null,
+  "founded_note": "Its site: 'Since 1956, our family has been providing a true traditional Maine experience in eating lobster and clams' (it does not say whether 1956 was at this spot).",
+  "branch_of": null,
+  "note": "Roadside pound on Route 3 just before the bridge to Mount Desert Island, with a row of wood-fired seawater cookers out front and a 'LOBSTERS' sign on the roof.",
+  "website": "https://www.trentonbridgelobster.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.trentonbridgelobster.com/",
+   "https://www.trentonbridgelobster.com/ourstory",
+   "https://www.trentonbridgelobster.com/menu"
+  ]
+ },
+ {
+  "name": "Gateway Lunt's Lobster Pound",
+  "address": "1133 Bar Harbor Rd",
+  "town": "Trenton",
+  "village": null,
+  "zip": "04605",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "lobster dinners",
+   "lobster specials",
+   "fresh seafood"
+  ],
+  "seasonal": true,
+  "season": "open daily May to October; opened May 6, 2026",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Traditional lobster pound on Route 3 across from the Bar Harbor airport.",
+  "website": "https://gatewayluntslobster.com/",
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://gatewayluntslobster.com/"
+  ]
+ },
+ {
+  "name": "Thurston's Lobster Pound",
+  "address": "9 Thurston Rd",
+  "town": "Tremont",
+  "village": "Bernard",
+  "zip": "04612",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster dinner",
+   "lobster roll",
+   "crab roll"
+  ],
+  "seasonal": true,
+  "season": "Memorial Day weekend through mid-October",
+  "founded": 1993,
+  "founded_note": "The wharf's wholesale lobster business dates to 1946; Michael and Elizabeth Radcliffe added the restaurant in 1993 (leased to a longtime employee 2006-2012).",
+  "branch_of": null,
+  "note": "Wharf-top lobster pound under yellow awnings over Bass Harbor, where boats unload the day's catch.",
+  "website": "https://www.thurstonforlobster.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.bangordailynews.com/2026/10/01/hancock/hancock-business/thurstons-lobster-pound-bass-harbor-for-sale/",
+   "https://www.thurstonforlobster.com/",
+   "https://www.thurstonforlobster.com/our-story/",
+   "https://www.thurstonforlobster.com/menu/sandwiches/"
+  ]
+ },
+ {
+  "name": "Abel's Lobster",
+  "address": "13 Abels Lane",
+  "town": "Mount Desert",
+  "village": null,
+  "zip": "04660",
+  "kinds": [
+   "lobster shack",
+   "oldest"
+  ],
+  "dishes": [
+   "lobster",
+   "clams",
+   "traditional Maine seafood"
+  ],
+  "seasonal": true,
+  "season": "May 17 to October 20 per its page (year not given); opened May 15 in 2025",
+  "founded": 1939,
+  "founded_note": "Mainebiz (2020): 'in operation since 1939' in the Henry R. Abel & Co. boatyard on Somes Sound.",
+  "branch_of": null,
+  "note": "Seasonal lobster pound and clam house with a dining room and waterfront seating in Abel's boatyard near the head of Somes Sound.",
+  "website": "https://abelyachtyard.com/restaurant/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/",
+   "https://abelyachtyard.com/restaurant/",
+   "https://mainebiz.biz/article/bar-harbor-catering-co-takes-over-80-year-old-restaurant/"
+  ]
+ },
+ {
+  "name": "Stewman's Lobster Pound",
+  "address": "35 West St",
+  "town": "Bar Harbor",
+  "village": null,
+  "zip": "04609",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "Downeast lobster bake",
+   "lobster roll",
+   "crab roll"
+  ],
+  "seasonal": true,
+  "season": "typically early June to early October; opened Memorial Day weekend in 2025",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Oceanfront lobster pound on the downtown Bar Harbor waterfront serving lobster bakes; a second Stewman's is at the Bar Harbor Regency.",
+  "website": "https://www.stewmanslobsterpound.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/",
+   "https://www.stewmanslobsterpound.com/about-us",
+   "https://www.stewmanslobsterpound.com/menus"
+  ]
+ },
+ {
+  "name": "Stewman's Lobster Pound (Bar Harbor Regency)",
+  "address": "123 Eden St",
+  "town": "Bar Harbor",
+  "village": null,
+  "zip": "04609",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "Downeast lobster bake",
+   "lobster roll"
+  ],
+  "seasonal": true,
+  "season": "typically early June to early October; opened Memorial Day weekend in 2025",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": "Stewman's Lobster Pound, Bar Harbor (35 West St)",
+  "note": "The second, oceanfront Stewman's, on the grounds of the Bar Harbor Regency hotel on Eden Street.",
+  "website": "https://www.stewmanslobsterpound.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/",
+   "https://www.stewmanslobsterpound.com/contact"
+  ]
+ },
+ {
+  "name": "Ruth & Wimpy's",
+  "address": "792 US Route 1",
+  "town": "Hancock",
+  "village": null,
+  "zip": "04640",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "lobster cooked over wood-burning cookers",
+   "seafood plates"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": 1990,
+  "founded_note": "Ruth and Wimpy bought the restaurant in 1990 (its site); its site says 2026 is its 37th year.",
+  "branch_of": null,
+  "note": "Family-owned roadside lobster restaurant on Route 1 where Wimpy still cooks the lobsters outside over wood-burning cookers; out front stands 'Wilbur,' an 11-foot fiberglass sculpture by Joe Rizzo.",
+  "website": "https://www.ruthandwimpys.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.ruthandwimpys.com/",
+   "https://www.ruthandwimpys.com/about",
+   "https://www.ruthandwimpys.com/feed/rss2",
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/"
+  ]
+ },
+ {
+  "name": "Union River Lobster Pot",
+  "address": "8 South St",
+  "town": "Ellsworth",
+  "village": null,
+  "zip": "04605",
+  "kinds": [
+   "lobster shack"
+  ],
+  "dishes": [
+   "lobster",
+   "seafood"
+  ],
+  "seasonal": true,
+  "season": "opens in June",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Seasonal lobster restaurant overlooking the Union River in Ellsworth.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://q1065.fm/ixp/496/p/union-river-restaurant-ownership/",
+   "https://z1073.com/maine-lobster-pounds-open-for-spring/"
+  ]
+ },
+ {
+  "name": "LDI Lobster Dock & Dine",
+  "address": "202 Little Deer Isle Rd",
+  "town": "Deer Isle",
+  "village": "Little Deer Isle",
+  "zip": "04650",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "steamed lobster",
+   "chowder",
+   "fish sandwich",
+   "ice cream"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Began as a sister location of the Boatyard Grill in Blue Hill.",
+  "branch_of": null,
+  "note": "Seasonal takeout with outdoor tables on Eggemoggin Reach beside the Deer Isle-Sedgwick Bridge, reachable by land or by sea.",
+  "website": "https://www.ldilobster.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.bangordailynews.com/2026/07/11/midcoast/how-much-lobster-rolls-cost-in-maine-joam40zk0w/",
+   "https://www.ldilobster.com/",
+   "https://bluehillpeninsula.org/dining/",
+   "https://www.themainemag.com/the-great-lobster-roll-road-trip/"
+  ]
+ },
+ {
+  "name": "Chipman's Wharf",
+  "address": "304 Wyman Road",
+  "town": "Milbridge",
+  "village": null,
+  "zip": "04658",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster dinner",
+   "seafood pie"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": "Working wharf run by the fourth generation of the Chipman family; its market and lunch grille building was added in 2021.",
+  "branch_of": null,
+  "note": "Family working lobster wharf in Milbridge with a seafood market and a daily lunch grille, with tables on the waterfront and an upstairs deck.",
+  "website": "https://www.chipmanswharf.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://www.mainetravelmaven.com/maines-best-lobster-shacks/",
+   "https://www.chipmanswharf.com/"
+  ]
+ },
+ {
+  "name": "Fisherman's Wharf Restaurant & Seafood",
+  "address": "69 Johnson Street",
+  "town": "Lubec",
+  "village": null,
+  "zip": "04652",
+  "kinds": [
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "lobster eggs Benedict",
+   "lobster dinner"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Restaurant of The Inn on the Wharf, in the old boiler room of a former Lubec sardine factory on Passamaquoddy Bay; lobster turns up at every meal.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.visitlubecmaine.com/_img/cmspix/docs/lubec-eateries-fall-09272026.pdf",
+   "https://www.bangordailynews.com/2026/07/11/midcoast/how-much-lobster-rolls-cost-in-maine-joam40zk0w/",
+   "https://www.mainetravelmaven.com/lubec-inn-delivers-maine-maritime-heritage/"
+  ]
+ },
+ {
+  "name": "Look Lobster Rolls and Market",
+  "address": "7 Sea Street",
+  "town": "Eastport",
+  "village": null,
+  "zip": "04631",
+  "kinds": [
+   "lobster shack",
+   "lobster roll"
+  ],
+  "dishes": [
+   "lobster roll",
+   "crab roll",
+   "live lobsters"
+  ],
+  "seasonal": true,
+  "season": "closing for the 2026 season on October 8",
+  "founded": null,
+  "founded_note": "Look Lobster replaced the Quoddy Bay lobster shack at this site; the Look family lobster business began on a Jonesport wharf in 1910.",
+  "branch_of": null,
+  "note": "Waterfront lobster shack and fish market in Eastport with a deck looking over Passamaquoddy Bay, run by the Jonesport-based Look Lobster Co., which also has sites in Addison and Portland.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.eastportchamber.net/_files/ugd/02f944_8dd4ebbc50444ee0ab86c5f6677444f2.pdf",
+   "https://www.eastportchamber.net/eat",
+   "https://www.mainetravelmaven.com/maines-best-lobster-shacks/",
+   "https://www.lookslobster.com/"
+  ]
+ },
+ {
+  "name": "The Dairy Port",
+  "address": "79 Main St",
+  "town": "Bucksport",
+  "village": null,
+  "zip": "04416",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "house-made soft serve",
+   "Gifford's hard ice cream",
+   "sundaes",
+   "shakes"
+  ],
+  "seasonal": true,
+  "season": "opened March 28 for 2026; open daily in season",
+  "founded": 1954,
+  "founded_note": "The Maine Magazine (2022): founded in 1954; its own 2024 post said 2024 marked the 70th year of the ice cream parlor on Main Street.",
+  "branch_of": null,
+  "note": "Walk-up ice cream window in a narrow historic storefront on Bucksport's Main Street, across from the harbor and the Penobscot Narrows Bridge; known for its daily soft-serve flavors.",
+  "website": "https://thedairyport.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://penobscotbaypress.com/articles/latestnews-riverobserver/dairy-port-in-bucksport-opens-for-the-season/",
+   "https://www.themainemag.com/the-best-food-trail-is-an-ice-cream-trail/",
+   "https://i95rocks.com/bucksports-dairy-port-to-open-end-of-march/",
+   "https://thedairyport.com/"
+  ]
+ },
+ {
+  "name": "Polar Treat",
+  "address": "US Route 1",
+  "town": "Perry",
+  "village": null,
+  "zip": "04667",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream",
+   "specialty treats"
+  ],
+  "seasonal": true,
+  "season": "closing for the 2026 season on October 11",
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Ice cream spot with a full food menu on Route 1 in Perry, near Eastport.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.eastportchamber.net/_files/ugd/02f944_8dd4ebbc50444ee0ab86c5f6677444f2.pdf"
+  ]
+ },
+ {
+  "name": "Stonington Ice Cream Company",
+  "address": "Main St (beside Stonington Food Company, 68 Main St)",
+  "town": "Stonington",
+  "village": null,
+  "zip": "04681",
+  "kinds": [
+   "dairy bar"
+  ],
+  "dishes": [
+   "ice cream (sixteen flavors)",
+   "lobster roll",
+   "lobster and crab quiche"
+  ],
+  "seasonal": true,
+  "season": "aims for early May to late October; closed before the end of September in 2026 for lack of staff",
+  "founded": 2008,
+  "founded_note": "Ron Watson opened it on Main Street in 2008 (BDN, 2026).",
+  "branch_of": null,
+  "note": "Harborside ice cream shop on Stonington's Main Street with deck tables at the edge of the harbor; its owner added the Stonington Food Company restaurant next door.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.bangordailynews.com/2026/10/03/hancock/hancock-business/blue-hill-peninsula-restaurant-worker-shortage-joam40zk0w/",
+   "https://deerisle.com/stonington-food-company/",
+   "https://penobscotbaypress.com/articles/latestnews-islandadvantages/chamber-of-commerce-news-stonington-food-company-and-ice-cream-too/"
+  ]
+ },
+ {
+  "name": "Jordan's Snack Bar",
+  "address": "200 Downeast Highway",
+  "town": "Ellsworth",
+  "village": null,
+  "zip": "04605",
+  "kinds": [
+   "lobster roll",
+   "dairy bar"
+  ],
+  "dishes": [
+   "lobster roll",
+   "Big Jim triple cheeseburger",
+   "shrimp and scallops",
+   "soft serve"
+  ],
+  "seasonal": false,
+  "season": "now open year-round",
+  "founded": 1981,
+  "founded_note": "Its site: 'Serving our community since 1981'; started by Jimmy and Carol Jordan, now owned by Scott and Katie Kenny.",
+  "branch_of": null,
+  "note": "Ellsworth snack bar on the Downeast Highway with seafood, burgers and weekly soft-serve specials, a playground and game room, and Wednesday-night cruise-ins.",
+  "website": "https://www.jordanssnackbar.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.jordanssnackbar.com/",
+   "https://jordanssnackbar.com/about-us",
+   "https://www.getoutgarage.com/events/cruise-nights/ME/ellsworth/jordans-snack-bar-weekly-cruise-in-ellsworth-me"
+  ]
+ },
+ {
+  "name": "The Stoop Oyster Bar",
+  "address": "27 Water St, Unit 1A",
+  "town": "Blue Hill",
+  "village": null,
+  "zip": "04614",
+  "kinds": [
+   "oyster bar"
+  ],
+  "dishes": [
+   "Long Cove oysters from Deer Isle Oyster Co.",
+   "tinned fish",
+   "local cheese"
+  ],
+  "seasonal": false,
+  "season": "aims to stay open year-round",
+  "founded": 2026,
+  "founded_note": "Opened July 2, 2026 in the historic Pendleton House (c. 1826) on Water Street.",
+  "branch_of": null,
+  "note": "Oyster bar from Deer Isle Oyster Co. farmer Abby Barrows serving her Long Cove oysters alongside other Downeast farms' oysters, with small plates and a full bar.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.bangordailynews.com/2026/06/05/hancock/hancock-business/new-oyster-bar-blue-hill-joam40zk0w/",
+   "https://penobscotbaypress.com/articles/latestnews-islandadvantages/two-new-restaurants-open-in-blue-hill/",
+   "https://bluehillpeninsula.org/business/the-stoop-oyster-bar/"
+  ]
+ },
+ {
+  "name": "WaCo Diner",
+  "address": "47 Water St",
+  "town": "Eastport",
+  "village": null,
+  "zip": "04631",
+  "kinds": [
+   "diner",
+   "oldest"
+  ],
+  "dishes": [
+   "diner breakfast and lunch",
+   "Schooner Room dinners",
+   "Tex-Mex Tuesday dinners"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1924,
+  "founded_note": "Calls itself Maine's oldest diner, since 1924 (its site and the Eastport chamber). The Quoddy Tides says Nelson Watts and Ralph Colwell bought the lunch wagon where it stood near Bank Square in 1923 and named it from their surnames; the first printed mention is April 23, 1924. The cart frame was replaced by the current building around 1970 on the same spot.",
+  "branch_of": null,
+  "note": "Downtown Eastport diner with a full bar and a waterfront deck, plus the Schooner Room dining room for dinners.",
+  "website": "https://wacodiner.godaddysites.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.eastportchamber.net/_files/ugd/02f944_8dd4ebbc50444ee0ab86c5f6677444f2.pdf",
+   "https://wacodiner.godaddysites.com/hours",
+   "https://wacodiner.godaddysites.com/schooner-room-dinners",
+   "https://www.quoddytides.com/eastports-waco-is-oldest-diner-in-maine/"
+  ]
+ },
+ {
+  "name": "Jordan Pond House",
+  "address": "2928 Park Loop Road",
+  "town": "Mount Desert",
+  "village": "Seal Harbor",
+  "zip": "04675",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "popovers",
+   "afternoon tea"
+  ],
+  "seasonal": true,
+  "season": null,
+  "founded": null,
+  "founded_note": "Exact year disputed: Wikipedia says Melvan Tibbetts established it as a restaurant in the early 1870s, with Thomas and Nellie McIntire running it from 1895; the National Park Service says it has served tea and popovers since the 1890s. The original building burned on June 21, 1979; the current restaurant building was completed in 1982 on the same site.",
+  "branch_of": null,
+  "note": "Acadia National Park's historic tea house and restaurant on the south shore of Jordan Pond, famous for popovers and tea on the lawn facing the Bubbles.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://barharborstory.com/2026/05/16/popovers-with-a-purpose/",
+   "https://www.nps.gov/places/jordan-pond-house.htm",
+   "https://en.wikipedia.org/wiki/Jordan_Pond_House"
+  ]
+ },
+ {
+  "name": "The Asticou Hotel",
+  "address": "15 Peabody Drive",
+  "town": "Mount Desert",
+  "village": "Northeast Harbor",
+  "zip": "04662",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "local seafood at Dahlia's"
+  ],
+  "seasonal": true,
+  "season": "opened May 15 for 2026",
+  "founded": null,
+  "founded_note": "Disputed: the hotel says it traces its origins to 1883; a spokesperson told the BDN (2025) it began as a family home boarding lodgers in 1870. It was rebuilt after a 1900 fire and suspended operations during World War II. Closed in 2024 for a $28 million renovation, it reopened in July 2025 and was bought out of bankruptcy by Ocean Properties in 2026.",
+  "branch_of": null,
+  "note": "Historic shingled summer hotel above Northeast Harbor whose restaurant, Dahlia's, serves a seasonal menu of local seafood; under new ownership in 2026.",
+  "website": "https://www.opalcollection.com/asticou/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.bangordailynews.com/2026/04/13/hancock/hancock-business/mdi-hotel-asticou-new-ownership-opening/",
+   "https://www.bangordailynews.com/2025/01/29/business/business-housing/historic-mount-desert-island-hotel-will-reopen-after-28m-renovation/",
+   "https://www.opalcollection.com/asticou/"
+  ]
+ },
+ {
+  "name": "Pentagöet Inn",
+  "address": "26 Main St",
+  "town": "Castine",
+  "village": null,
+  "zip": "04421",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "pub and wine-bar small plates"
+  ],
+  "seasonal": null,
+  "season": null,
+  "founded": 1894,
+  "founded_note": "Built in 1894; its site calls it Castine's oldest original 'summer hotel' still welcoming guests.",
+  "branch_of": null,
+  "note": "Queen Anne Victorian summer hotel in Castine village with a cozy pub and wine bar serving small plates most evenings.",
+  "website": "https://pentagoet.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.pressherald.com/2026/07/07/midcoast-blue-hill-peninsula-restaurants-take-part-in-finding-our-voices-fundraiser/",
+   "https://pentagoet.com/",
+   "https://bluehillpeninsula.org/dining/"
+  ]
+ }
+]

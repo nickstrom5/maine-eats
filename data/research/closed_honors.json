@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterman's Beach Lobster",
+    "address": null,
+    "town": "South Thomaston",
+    "james_beard": [
+      "America's Classics 2001 (winner)"
+    ],
+    "closed_reason": "Closed for good on Sept. 4, 2016 (Press Herald, Aug. 12, 2016). Wikipedia describes it in the past tense; the family later turned the building into Waterman's Beach Brewery. Street address not confirmed.",
+    "sources": [
+      "https://www.pressherald.com/2016/08/12/watermans-beach-lobster-in-south-thomaston-closing-for-good-sept-4/",
+      "https://en.wikipedia.org/wiki/Waterman%27s_Beach_Lobster",
+      "https://www.jamesbeard.org/stories/americas-classic-update-watermans-beach-lobster",
+      "https://www.portlandfoodmap.com/2026-beard-award-nominees/"
+    ]
+  },
+  {
+    "name": "Hugo's",
+    "address": "Middle St (number not confirmed)",
+    "town": "Portland",
+    "james_beard": [
+      "Best Chef: Northeast 2009 (winner): Rob Evans, Hugo's",
+      "Best Chef: Northeast 2007 (finalist): Rob Evans, Hugo's",
+      "Best Chef: Northeast 2008 (finalist): Rob Evans, Hugo's"
+    ],
+    "chef": "Rob Evans",
+    "closed_reason": "Closed in March 2020 (COVID); in October 2022 owners Big Tree Hospitality said it will not reopen in its previous form as a fine-dining restaurant. Big Tree's 2026 site lists only Eventide Oyster Co., The Honey Paw and Eventide Fenway as its restaurants. Evans sold Hugo's to Big Tree's founders in 2012; the award stays with Hugo's (not Duckfat).",
+    "sources": [
+      "https://www.portlandfoodmap.com/hugos-will-not-reopen/",
+      "https://www.bangordailynews.com/2022/10/20/portland/hugos-portland-done-with-fine-dining/",
+      "https://www.bigtreehospitality.com/",
+      "https://en.wikipedia.org/wiki/James_Beard_Foundation_Award:_2000s",
+      "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+    ]
+  },
+  {
+    "name": "Arrows",
+    "address": "Ogunquit Road (BDN 2013: 37 Ogunquit Road; Portland Food Map 2026: 41 Ogunquit Road)",
+    "town": "Ogunquit (as JBF and BDN list it; a 2026 report places the former building in York's Cape Neddick village)",
+    "james_beard": [
+      "Best Chef: Northeast 2010 (winner): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2004 (finalist): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2005 (finalist): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2006 (finalist): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2007 (finalist): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2008 (finalist): Clark Frasier and Mark Gaier, Arrows",
+      "Best Chef: Northeast 2009 (finalist): Clark Frasier and Mark Gaier, Arrows"
+    ],
+    "chef": "Clark Frasier and Mark Gaier",
+    "closed_reason": "Not a 2018 closing: the owners put Arrows up for sale in October 2013; by 2014 it was 'the former Arrows' and the new owner had turned it into The Velveteen Habit (itself since closed). In June 2026 the former Arrows building was leased for a new restaurant, Mazon.",
+    "sources": [
+      "https://www.bangordailynews.com/2013/10/21/news/chef-wanted-famous-maine-restaurant-up-for-sale/",
+      "https://www.portlandfoodmap.com/under-construction-press-hotel-restaurant/",
+      "https://www.portlandfoodmap.com/taking-over-an-established-restaurant/",
+      "https://www.portlandfoodmap.com/judy-gibson-replaces-teriyaki-exchange/",
+      "https://www.portlandfoodmap.com/lee-frank-to-launch-mazon-in-york/",
+      "https://en.wikipedia.org/wiki/James_Beard_Foundation_Award:_2010s",
+      "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+    ]
+  }
+]

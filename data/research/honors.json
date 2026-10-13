@@ -1,0 +1,316 @@
+[
+ {
+  "name": "Fore Street",
+  "address": "288 Fore St",
+  "town": "Portland",
+  "village": null,
+  "zip": null,
+  "kinds": [],
+  "dishes": [
+   "wood oven roasted mussels",
+   "turnspit roasted pork loin",
+   "Maine oysters"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1996,
+  "founded_note": "Fore Street's site: opened June 1996.",
+  "branch_of": null,
+  "note": "Wood-fired Old Port restaurant (brick hearth with oven, grill and turnspit) opened in 1996 by Dana Street and chef Sam Hayward; the menu changes daily.",
+  "website": "https://www.forestreet.biz/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.forestreet.biz/",
+   "https://en.wikipedia.org/wiki/Fore_Street_(restaurant)",
+   "https://en.wikipedia.org/wiki/James_Beard_Foundation_Award:_2000s",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.portlandfoodmap.com/2026-beard-award-nominees/",
+   "https://www.portlandfoodmap.com/dana-street-wins-beard-award/",
+   "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+  ],
+  "james_beard": [
+   "Best Chef: Northeast 2004 (winner): Sam Hayward, Fore Street",
+   "Outstanding Restaurateur 2026 (winner): Dana Street, for Fore Street, Scales, Standard Baking Co. and others",
+   "Best Chef: Northeast 2002 (finalist): Sam Hayward, Fore Street",
+   "Best Chef: Northeast 2003 (finalist): Sam Hayward, Fore Street",
+   "Outstanding Restaurant 2009 (finalist): Fore Street"
+  ],
+  "other_honors": [],
+  "chef": "Sam Hayward"
+ },
+ {
+  "name": "Eventide Oyster Co.",
+  "address": "86 Middle St",
+  "town": "Portland",
+  "village": null,
+  "zip": "04101",
+  "kinds": [
+   "oyster bar",
+   "lobster roll"
+  ],
+  "dishes": [
+   "oysters",
+   "brown butter lobster roll"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Big Tree Hospitality's Old Port oyster bar, known for its brown butter lobster roll; the original of two Eventides (the other is in Boston).",
+  "website": "https://www.eventideoysterco.com/",
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://www.eventideoysterco.com/",
+   "https://www.bigtreehospitality.com/",
+   "https://www.portlandfoodmap.com/who-is-open-today/",
+   "https://www.jamesbeard.org/stories/the-2017-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-complete-2015-jbf-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2016-james-beard-award-nominees",
+   "https://en.wikipedia.org/wiki/James_Beard_Foundation_Award:_2010s"
+  ],
+  "james_beard": [
+   "Best Chef: Northeast 2017 (winner): Andrew Taylor and Mike Wiley, Eventide Oyster Co.",
+   "Best Chef: Northeast 2015 (finalist): Andrew Taylor and Mike Wiley, Eventide Oyster Co.",
+   "Best Chef: Northeast 2016 (finalist): Andrew Taylor and Mike Wiley, Eventide Oyster Co."
+  ],
+  "other_honors": [],
+  "chef": "Andrew Taylor and Mike Wiley"
+ },
+ {
+  "name": "Primo",
+  "address": "2 Main St",
+  "town": "Rockland",
+  "village": null,
+  "zip": null,
+  "kinds": [],
+  "dishes": [],
+  "seasonal": true,
+  "season": "Into the first week of January; its site lists hours for July through the first week of January (spring opening date not stated)",
+  "founded": 1999,
+  "founded_note": "Wikipedia: Melissa Kelly co-founded Primo with Price Kushner in 1999; its site calls 2026 its 27th season.",
+  "branch_of": null,
+  "note": "Farm-to-table restaurant on its own small farm in Rockland; chef-owner Melissa Kelly, Italian and Mediterranean cooking, menu changes daily.",
+  "website": "https://www.primorestaurant.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.primorestaurant.com/",
+   "https://www.primorestaurant.com/menus",
+   "https://www.primorestaurant.com/event-calendar",
+   "https://en.wikipedia.org/wiki/Melissa_Kelly_(chef)",
+   "https://en.wikipedia.org/wiki/James_Beard_Foundation_Award:_2010s",
+   "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+  ],
+  "james_beard": [
+   "Best Chef: Northeast 2013 (winner): Melissa Kelly, Primo"
+  ],
+  "other_honors": [],
+  "chef": "Melissa Kelly"
+ },
+ {
+  "name": "Scales",
+  "address": "68 Commercial St",
+  "town": "Portland",
+  "village": null,
+  "zip": "04101",
+  "kinds": [],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 2016,
+  "founded_note": "Portland Food Map (June 2026): Dana Street opened Scales in 2016.",
+  "branch_of": null,
+  "note": "Dana Street's restaurant on Maine Wharf off Commercial Street, serving dinner nightly; sister to Fore Street and Street & Co.",
+  "website": "https://www.scalesrestaurant.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.scalesrestaurant.com/",
+   "https://www.forestreet.biz/",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.portlandfoodmap.com/dana-street-wins-beard-award/",
+   "https://www.portlandfoodmap.com/2026-beard-award-nominees/"
+  ],
+  "james_beard": [
+   "Outstanding Restaurateur 2026 (winner): Dana Street, for Fore Street, Scales, Standard Baking Co. and others"
+  ],
+  "other_honors": [],
+  "chef": null
+ },
+ {
+  "name": "Standard Baking Co.",
+  "address": "75 Commercial St",
+  "town": "Portland",
+  "village": null,
+  "zip": null,
+  "kinds": [],
+  "dishes": [
+   "baguette",
+   "croissant",
+   "morning bun"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site: 'Since 1995' (year at this address not checked).",
+  "branch_of": null,
+  "note": "Dana Street's bakery, in the same building as Fore Street, baking breads and pastries daily.",
+  "website": "https://standardbakingco.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://standardbakingco.com/",
+   "https://en.wikipedia.org/wiki/Fore_Street_(restaurant)",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.jamesbeard.org/stories/the-2018-james-beard-award-nominees",
+   "https://www.portlandfoodmap.com/boston-globe-portlands-bakery-scene/",
+   "https://www.portlandfoodmap.com/americas-best-bakery-town/",
+   "https://www.portlandfoodmap.com/maine-beard-award-winners-nominees-semifinalists/"
+  ],
+  "james_beard": [
+   "Outstanding Restaurateur 2026 (winner): Dana Street, for Fore Street, Scales, Standard Baking Co. and others",
+   "Outstanding Baker 2018 (finalist): Alison Pray, Standard Baking Co."
+  ],
+  "other_honors": [],
+  "chef": null
+ },
+ {
+  "name": "ZU Bakery",
+  "address": "81 Clark St",
+  "town": "Portland",
+  "village": null,
+  "zip": null,
+  "kinds": [],
+  "dishes": [
+   "croissants",
+   "sourdough bread",
+   "baguettes",
+   "focaccia"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2022,
+  "founded_note": "Barak Olins started ZU in 2000 in a Freeport barn and sold at farmers' markets; the Clark Street shop opened in 2022 (Wikipedia; its site).",
+  "branch_of": null,
+  "note": "Barak Olins's small West End bakery, baking through the day with grain milled in house.",
+  "website": "https://www.zubakery.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.zubakery.com/schedule.html",
+   "https://www.zubakery.com/81-clark-street.html",
+   "https://en.wikipedia.org/wiki/ZU_Bakery",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-award-winners",
+   "https://www.portlandfoodmap.com/boston-globe-portlands-bakery-scene/",
+   "https://www.portlandfoodmap.com/americas-best-bakery-town/"
+  ],
+  "james_beard": [
+   "Outstanding Bakery 2024 (winner): ZU Bakery"
+  ],
+  "other_honors": [],
+  "chef": null
+ },
+ {
+  "name": "Norimoto Bakery",
+  "address": "469 Stevens Ave",
+  "town": "Portland",
+  "village": null,
+  "zip": "04103",
+  "kinds": [],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 2021,
+  "founded_note": "Portland Food Map (June 2024): Fujimoto launched Norimoto in 2019 and opened the Stevens Ave bakery in October 2021.",
+  "branch_of": null,
+  "note": "Atsuko Fujimoto's bakery on Stevens Avenue, walk-ins only.",
+  "website": "https://norimoto-bakery.square.site/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://norimoto-bakery.square.site/",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-2022-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.portlandfoodmap.com/fujimoto-wins-beard-award/",
+   "https://www.portlandfoodmap.com/rambler-cafe-now-open/",
+   "https://www.portlandfoodmap.com/boston-globe-portlands-bakery-scene/"
+  ],
+  "james_beard": [
+   "Outstanding Pastry Chef or Baker 2024 (winner): Atsuko Fujimoto, Norimoto Bakery",
+   "Outstanding Baker 2022 (finalist): Atsuko Fujimoto, Norimoto Bakery"
+  ],
+  "other_honors": [],
+  "chef": "Atsuko Fujimoto"
+ },
+ {
+  "name": "Nezinscot Farm",
+  "address": "284 Turner Center Rd",
+  "town": "Turner",
+  "village": null,
+  "zip": "04282",
+  "kinds": [],
+  "dishes": [
+   "bread",
+   "cheese",
+   "doughnuts"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1987,
+  "founded_note": "James Beard Foundation (2023): Nezinscot opened its café and coffee shop in 1987 on a farm in the Varney family for more than a century.",
+  "branch_of": null,
+  "note": "Organic family farm with a café, bakery, fromagerie and farm store; the café uses the farm's own bread, cheese and meats. Closes for a winter break around the holidays.",
+  "website": "https://www.nezinscotfarm.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.nezinscotfarm.com/",
+   "https://www.nezinscotfarm.com/contact-us/",
+   "https://www.nezinscotfarm.com/event/open-regular-store-hours-2/",
+   "https://www.nezinscotfarm.com/event/closed-for-winter-break/",
+   "https://www.jamesbeard.org/stories/announcing-the-2023-restaurant-and-chef-americas-classics-winners",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-award-winners"
+  ],
+  "james_beard": [
+   "America's Classics 2023 (winner): Nezinscot Farm, Turner"
+  ],
+  "other_honors": [],
+  "chef": null
+ },
+ {
+  "name": "The Quarry",
+  "address": null,
+  "town": "Monson",
+  "village": null,
+  "zip": null,
+  "kinds": [],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "About 2018: the Press Herald (Nov 2023) called it 'the 5-year-old restaurant', grown out of the Monson Arts residencies that began in 2018.",
+  "branch_of": null,
+  "note": "Fine-dining restaurant in an 1868 storefront on Monson's main street, next to the Lake Shore House (street number not confirmed); chef-owner Marilou 'Lulu' Ranta also cooks for Monson Arts residencies and workshops. Public dining days not verified for 2026.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://monsonarts.org/workshop/conference-on-poetry-and-learning-2026/",
+   "https://monsonarts.org/workshops/",
+   "https://observer-me.com/2025/07/28/news/maine-highlands-federal-credit-union-sponsors-pine-tree-hospice-charity-golf-tournament/",
+   "https://www.pressherald.com/2023/11/26/the-quarry-seemed-like-an-improbable-beard-award-winner-unless-youve-met-marilou-ranta/",
+   "https://www.portlandfoodmap.com/the-quarry-wins-beard-award/",
+   "https://www.portlandfoodmap.com/chef-marilou-ranta-maine-street-bistro-brickyard-hollow/",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees"
+  ],
+  "james_beard": [
+   "Outstanding Hospitality 2023 (winner): The Quarry, Monson"
+  ],
+  "other_honors": [],
+  "chef": null
+ }
+]
