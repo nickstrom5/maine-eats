@@ -249,7 +249,7 @@
     const sortSel = $("#ex-sort");
     sortSel.innerHTML = g.sorts.map((s) => `<option value="${s}"${s === o ? " selected" : ""}>${SORT_LABEL[s]}</option>`).join("");
     sortSel.disabled = g.sorts.length < 2;
-    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "confirmed only"].filter(Boolean);
+    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "high-confidence only"].filter(Boolean);
     const sortText = o === "nearest" && !here ? "nearest first once your location is on" : SORT_LABEL[o];
     $("#ex-count").textContent = `${current.length.toLocaleString("en-US")} ${current.length === 1 ? "place" : "places"} · ${sortText}` + (filters.length ? ` · ${filters.join(", ")}` : "");
     $("#ex-clear").hidden = !filters.length;
@@ -307,7 +307,7 @@
 
   // ---------------------------------------------------------------- place panel (PlaceDetailView.swift)
   const JUR_LIST = { 1: "Maine Bureau of Alcoholic Beverages and Lottery Operations liquor licenses", 2: "City of Lewiston restaurant inspection list" };
-  const TIER = { 2: "Licensed", 1: "Confirmed listing", 0: "Listing only" };
+  const TIER = { 2: "Licensed", 1: "High-confidence listing", 0: "Listing only" };   // the softer family wording (Nick, 2026-10-13)
   const HOST_TEXT = { "Hollywood Casino Bangor": "Inside Hollywood Casino Hotel & Raceway in Bangor.", "Oxford Casino": "Inside Oxford Casino Hotel in Oxford." };
   // a phone number only when it dials the US (+1, a real area code); anything else could ring abroad
   const usPhone = (ph) => (/^\+1[2-9]\d{9}$/.test(ph || "") ? ph : null);

@@ -24,7 +24,7 @@ The web app (explore/) at 375 and 1280 px: no layout shift while the list loads 
   list ever shows a result; an emoji search lists nothing; Near me sorts by distance; Back closes a place; the phone panel is a
   modal dialog and the desktop panel covers no control; Escape closes it and puts focus back on the row; the Maine search phrases
   ("lobster in bar harbor", "near cape neddick", "route 1"/"us 1", "me 3"/"route 3", the tag phrases); #g=constructor; the skip link;
-  rank numbers only on ranking sorts; Confirmed only and Hide chains keep hand-checked places; Featured order from outside Maine;
+  rank numbers only on ranking sorts; High-confidence only and Hide chains keep hand-checked places; Featured order from outside Maine;
   a slow drag opens nothing; stacked dots open a chooser; a failed core.json shows a retry that works; tap targets with the panel
   open; and text contrast of 4.5:1 in light and dark mode (web app, home, a guide, a place page). Also (bugs other state web apps had):
   control fonts resolve and phone fields are 16px or more, junk in our localStorage keys doesn't stop the app, no "Nearest" label
@@ -34,6 +34,10 @@ The web app (explore/) at 375 and 1280 px: no layout shift while the list loads 
 
 Family and contact (2026-10-12): every page's footer links Eats Ranked (https://eatsranked.com/) and the #org Organization names it as
   parentOrganization; the contact address is nick@eatsranked.com, and the old Gmail address appears nowhere in docs/.
+Copy decisions (Nick, 2026-10-13): the label is "High-confidence listing", so "Confirmed listing" (any case) appears nowhere in docs/ and
+  the web app's place panel uses the new label; its filter is "High-confidence only", so "Confirmed only" (any case) appears nowhere either; and no promise of a TestFlight invite or link (only Nick's internal TestFlight group
+  exists): no "we'll/you'll ... invite/TestFlight/beta", no "send you a(n) invite/link", no "early access is by invite", no "ask for
+  an invite and try it", no "a TestFlight invite/link" in the copy, no "Get early access" (the button asks: "Ask for early access").
 Website blocklist (pipeline/website_blocklist.json: hacked, expired or another business's websites): no listed domain (any case,
   scheme, www. or subdomain) or listed page appears anywhere in docs/, pages and data files alike; the list exists, isn't empty (a
   sentinel entry keeps it from passing vacuously) and is well-formed, and the matcher finds each domain's variants.
@@ -120,6 +124,17 @@ OVERCLAIMS = [r"\bevery\b", r"\ball (the )?(maine )?restaurants\b", r"\ball \d[\
 EMAIL = "nick@eatsranked.com"
 OLD_EMAIL = "work-with-nick@" + "gmail.com"
 HUB, HUB_ORG = "https://eatsranked.com/", "https://eatsranked.com/#organization"
+# Nick, 2026-10-13: "High-confidence listing", never "Confirmed listing"; and the site promises no TestFlight invite or link (only his
+# internal TestFlight group exists), so the early-access copy ends at an ask ("Ask for early access")
+OLD_LABEL = re.compile(r"confirmed\s+listing", re.I)
+NEW_LABEL = "High-confidence listing"
+OLD_FILTER = re.compile(r"\bconfirmed\s+only\b", re.I)   # the web app's filter is "High-confidence only" (code comments may still say "confirmed")
+PROMISES = [re.compile(r"\b(we'll|we will|we'd|we would|you'll|you will|you'd|you would)\b[^.]{0,60}\b(invites?|invitations?|testflight|beta)\b", re.I),
+            re.compile(r"\b(send|email|text|mail)(s|ing)? you\b[^.]{0,40}\b(invites?|invitations?|testflight|beta|link)\b", re.I),
+            re.compile(r"\bget (early access|an? (testflight|beta|invite|invitation)|the (testflight|beta)( (link|build|app))?|invited)\b", re.I),
+            re.compile(r"\b(early access|access|testflight|the beta)\b[^.]{0,20}\bby invit(e|ation)\b", re.I),   # "early access is by invite"
+            re.compile(r"\bask for\b[^.]{0,40}\band (then )?(try|get|use|download|install)\b", re.I),         # "ask for an invite and try it"
+            re.compile(r"\btestflight\s+(invit|link)", re.I)]   # offering "a TestFlight invite/link" (a mailto body is %20-encoded, so it's left alone)
 # the research notes, read strictly (the generator's RIVER_OYSTERS, AT_OYSTER_FARM, OWN_ICE_CREAM in scripts/make-site.py)
 RIVER_OYSTERS = re.compile(r"\b(Damariscotta River|Pemaquid) oysters\b|\bDamariscotta River oyster farm\b")
 AT_OYSTER_FARM = re.compile(r"\boyster farm\b", re.I)
@@ -766,6 +781,31 @@ def family_checks(files):
         bad(f"index.html: the Organization JSON-LD doesn't carry email {EMAIL}")
 
 
+def copy_decision_checks():
+    """Nick's 2026-10-13 copy decisions, over every text file in docs/ (pages, attributes, JSON-LD, the web app's code and data):
+    no "Confirmed listing" in any case, the web app labels the tier "High-confidence listing", and nothing promises a TestFlight invite or
+    link ("we'll send you an invite", "you'll get a TestFlight link", "Get early access"). Entities are decoded and curly apostrophes
+    straightened first, so "we&#39;ll" and "we’ll" count."""
+    for d, _, fs in os.walk(DOCS):
+        for x in fs:
+            if not x.endswith((".html", ".json", ".txt", ".xml", ".webmanifest", ".js", ".css")):
+                continue
+            f = os.path.join(d, x)
+            rel = os.path.relpath(f, DOCS)
+            t = H.unescape(open(f, encoding="utf-8", errors="replace").read()).replace("\u2019", "'")
+            if OLD_LABEL.search(t):
+                bad(f"{rel}: says \"Confirmed listing\" (the label is \"{NEW_LABEL}\")")
+            if OLD_FILTER.search(t):
+                bad(f"{rel}: says \"Confirmed only\" (the web app's filter is \"High-confidence only\")")
+            for pat in PROMISES:
+                for m in pat.finditer(t):
+                    bad(f"{rel}: promises a TestFlight invite or early access: {m.group(0)!r} (the copy ends at an ask)")
+                    break
+    js = open(os.path.join(DOCS, "explore", "index.html"), encoding="utf-8").read()
+    if not re.search(r'const TIER = \{[^}]*1: "' + re.escape(NEW_LABEL) + '"', js):
+        bad(f"explore: the place panel's tier label isn't \"{NEW_LABEL}\"")
+
+
 GUIDE_TITLE = {"lobster": "Lobster Shacks & Rolls", "clams": "Clam Shacks", "sandwiches": "Red Snappers & Italians", "sweets": "Whoopie Pies & Donuts",
                "franco": "Franco-American", "diners": "Diners", "oysters": "Oyster Bars", "dairy": "Dairy Bars"}
 
@@ -1386,10 +1426,10 @@ def webapp_checks(browser, base, width, data):
     if page.locator(".ex-rank").count():
         bad(f"{where}: rank numbers on an A to Z list")
 
-    # 14. "Confirmed only" keeps hand-checked places, and a hand-checked place is never called "Listing only"
+    # 14. "High-confidence only" keeps hand-checked places, and a hand-checked place is never called "Listing only"
     fresh("g=lobster&conf=1")
     if len(all_rows(page)) != len(lobster):
-        bad(f"{where}: Confirmed only drops hand-checked lobster places ({len(rows(page))} of {len(lobster)})")
+        bad(f"{where}: High-confidence only drops hand-checked lobster places ({len(rows(page))} of {len(lobster)})")
     lone = [i for i in range(data.n) if C["hc"][i] == 1 and C["t"][i] == 0 and data.rest(i)]
     if lone:
         fresh(f"g=all&p={C['id'][lone[0]]}")
@@ -1773,6 +1813,7 @@ def main():
     town_claims(data, files)
     page_type_checks(data, files, paths)
     family_checks(files)
+    copy_decision_checks()
     claim_checks(data, files)
     other_state_checks()
     storage_checks()

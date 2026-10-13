@@ -51,7 +51,7 @@ OLD_EMAIL = "work-with-nick@" + "gmail.com"     # must never appear on the site 
 PARENT = {"@type": "Organization", "@id": "https://eatsranked.com/#organization", "name": "Eats Ranked", "url": "https://eatsranked.com/"}
 AUTHOR = "Nicholas Soderstrom"                    # the app's maker (the app's About screen names him); name only, never an email
 # Once the App Store listing exists, paste its URL here (looks like https://apps.apple.com/app/id123456789) and re-run: every
-# "Get early access" button becomes an App Store link (Apple's official badge if docs/img/app-store-badge.svg is there; get it
+# "Ask for early access" button becomes an App Store link (Apple's official badge if docs/img/app-store-badge.svg is there; get it
 # from Apple's marketing tools, never draw the Apple logo), the notes stop saying "coming", the privacy page says the label "is",
 # and the web app's place panel links the App Store (it reads window.APP_STORE_URL).
 APP_STORE_URL = ""
@@ -613,14 +613,15 @@ def crumbs(trail):
     return f'<nav class="crumbs" aria-label="Breadcrumb"><ol>{items}</ol></nav>', ld
 
 
-def store_button(label="Get early access"):
+def store_button(label="Ask for early access"):
     if APP_STORE_URL:
         # Apple's own badge artwork only (never a drawn Apple logo); plain text until the badge file is in docs/img
         if os.path.exists(f"{DOCS}/img/app-store-badge.svg"):
             return (f'<a class="store-badge" href="{e(APP_STORE_URL)}" rel="noopener"><img src="/img/app-store-badge.svg" '
                     'alt="Download on the App Store" width="150" height="50"></a>')
         return f'<a class="btn store-btn" href="{e(APP_STORE_URL)}" rel="noopener">Download on the App Store</a>'
-    # pre-launch: no App Store link exists yet, so the button asks for a TestFlight invite by email (Wisconsin's approach)
+    # pre-launch: no App Store link exists yet, so the button asks for early access by email (Wisconsin's approach). Only Nick's
+    # internal TestFlight group exists (Nick, 2026-10-13): the label is an ask, and no copy may say we'll send an invite or a link.
     return (f'<a class="btn store-btn" href="mailto:{EMAIL}?subject=Maine%20Eats%20early%20access&amp;body=Send%20me%20the%20TestFlight%20link.">'
             f'{label}</a>')
 
@@ -2118,7 +2119,7 @@ body = f"""{nav}
         <select id="ex-town" aria-label="Town" disabled>{town_opts}</select>
         <select id="ex-cuisine" aria-label="Kind of place" disabled>{cuis_opts}</select>
         <label><input type="checkbox" id="ex-chains" disabled> Hide chains</label>
-        <label><input type="checkbox" id="ex-conf" disabled> Confirmed only</label>
+        <label><input type="checkbox" id="ex-conf" disabled> High-confidence only</label>
         <button type="button" id="ex-clear" class="ex-small" hidden>Clear filters</button>
         <div class="ex-view" role="group" aria-label="View"><button type="button" data-v="list" aria-pressed="true" disabled>List</button><button type="button" data-v="map" aria-pressed="false" disabled>Map</button></div>
       </div>
@@ -2133,7 +2134,7 @@ body = f"""{nav}
       <div id="ex-chooser" class="ex-chooser" role="dialog" aria-labelledby="ex-chooser-h" hidden></div>
       <p id="ex-maphint"></p>
     </div>
-    <p class="fine">“Confirmed only” keeps the places that hold a Maine liquor license, appear on Lewiston's inspection list, have a high-confidence map listing, or were checked by hand by us; gas-station counters, grocery delis and other non-restaurants never show. A Lewiston inspection result shows only in that place's own panel, as the city posts it; for the rest of Maine, try the state's <a href="{STATE_HIP}" rel="noopener">health inspection search</a>. County outlines: U.S. Census Bureau. See also <a href="/{OLDEST_FILE}">Maine's oldest restaurants</a>.</p>
+    <p class="fine">“High-confidence only” keeps the places that hold a Maine liquor license, appear on Lewiston's inspection list, have a high-confidence map listing, or were checked by hand by us; gas-station counters, grocery delis and other non-restaurants never show. A Lewiston inspection result shows only in that place's own panel, as the city posts it; for the rest of Maine, try the state's <a href="{STATE_HIP}" rel="noopener">health inspection search</a>. County outlines: U.S. Census Bureau. See also <a href="/{OLDEST_FILE}">Maine's oldest restaurants</a>.</p>
   </div>
   <div id="ex-panel" class="ex-panel" role="complementary" aria-labelledby="ex-pname" hidden></div>
   </main>
