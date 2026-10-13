@@ -44,5 +44,59 @@
     "severity": "P2",
     "evidence": "$SP/work/link-scan/evidence/me/hamletpub.com.html",
     "found": "2026-10-12"
+  },
+  {
+    "domain": "newgarden.com",
+    "match": "domain",
+    "place": "New Garden (Skowhegan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NC and it names neither the city nor the state of New Garden (Skowhegan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/me/newgarden.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "villagepizzeria.com",
+    "match": "domain",
+    "place": "Village Pizzeria Restaurant and Lounge (Mechanic Falls)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NY and it names neither the city nor the state of Village Pizzeria Restaurant and Lounge (Mechanic Falls)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/me/villagepizzeria.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lindt.com",
+    "match": "domain",
+    "place": "Lindt Chocolate Shop (Kittery)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NH and it names neither the city nor the state of Lindt Chocolate Shop (Kittery)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/me/lindt.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chezhelen.com",
+    "match": "domain",
+    "place": "Chez Helen (Madawaska)",
+    "reason": "domain does not resolve: domain is not registered (NXDOMAIN) (checked with dig @1.1.1.1)",
+    "severity": "P2",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cafecityguide.website",
+    "match": "domain",
+    "place": "Aunt Marie's Ice Cream (Kennebunkport)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "untappd.com",
+    "match": "domain",
+    "place": "Kennebunkport Brewing Company (Kennebunk)",
+    "reason": "listing farm or directory, not the place's own site: beer-app venue page, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
   }
 ]
