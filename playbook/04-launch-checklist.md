@@ -1,6 +1,11 @@
 # Launch checklist (Maine Eats)
 
-Everything below is outward-facing: each step needs Nick's explicit yes at the time. Nothing here has been done yet (2026-10-09).
+Everything below is outward-facing: each step needs Nick's explicit yes at the time.
+
+Status 2026-10-16 (Nick's yes): public repo https://github.com/nickstrom5/maine-eats pushed (commit 7e67507), GitHub Pages live at
+https://nickstrom5.github.io/maine-eats/ (HTTPS enforced; all 211 sitemap and data URLs return 200; repo Website field set), Maine on
+the eatsranked.com hub (eatsranked commit 89fb163, verify.py --browser passes). Build 1.0.0 (1) archived with the public Xcode
+(`build/MaineEats.xcarchive`, DTXcodeBuild 27A266a), **not uploaded**: the upload waits for Nick's App Store Connect record.
 
 ## Before any of it
 - Data refresh: the newest BABLO monthly file (record its "current as of" date in `data/raw/official/bablo/asof.json`), Lewiston's
