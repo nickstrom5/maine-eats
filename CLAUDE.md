@@ -45,9 +45,14 @@ Read `../STATE_EATS_PLAYBOOK.md` and `playbook/12-sources.md` first.
   Hacked, expired or wrong-business sites found later go in `pipeline/website_blocklist.json` (`match` "domain" = it and its subdomains,
   "url" = one page; keep the sentinel entry first): `scripts/make-site.py` drops the link (never the place) from every page and the web
   app's data, and `qa-site.py` fails if a listed one is anywhere in `docs/`. Merge the link sweep's batch files with
-  `scripts/merge-blocklist.py <batch-N-me.json …>`, then regenerate and QA. The list doesn't filter the app's bundled `places.json`.
+  `scripts/merge-blocklist.py <batch-N-me.json …>`, then regenerate and QA. Since 2026-10-16 `pipeline/maine.py` (ME_APP=1) drops the same links from the app's `places.json`.
 - Place ids come from the source record (Overture GERS id, license number, or researched name + town); `data/id_history.json` keeps every
   id and the export writes aliases.
+
+- maine.gov answered our user agent with 403 on 2026-10-16 (BABLO's license-data page). Don't retry around it; if it still refuses at
+  the next refresh, ask Nick to download the monthly xlsx by hand (see `playbook/12-sources.md`).
+- Family-wide wording (Nick, 2026-10-13): a Meta 0.95+ listing is a "High-confidence listing", never "confirmed"; the filter reads "Only
+  licensed, high-confidence or hand-checked places"; the site's pre-launch button is "Ask for early access" with no invite promise.
 
 ## Rebuild
 ```bash

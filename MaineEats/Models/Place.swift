@@ -145,7 +145,7 @@ enum Tier: Int, Comparable {
     var label: String {
         switch self {
         case .licensed: "Licensed"
-        case .confirmed: "Confirmed listing"
+        case .confirmed: "High-confidence listing"   // not "confirmed": these matched a liquor license at about twice the rate of others
         case .listing: "Listing only"
         }
     }

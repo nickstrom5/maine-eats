@@ -18,7 +18,7 @@ BRANDS = [
     ("Crumbl", r"^CRUMBL"), ("Dairy Queen", r"^DAIRY QUEEN|^DQ GRILL|^DQ$"), ("Baskin-Robbins", r"^BASKIN"), ("Krispy Kreme", r"^KRISPY KREME"),
     ("Chuck E. Cheese", r"^CHUCK E CHEESE"), ("Nothing Bundt Cakes", r"^NOTHING BUNDT"),
     ("Hooters", r"^HOOTERS"), ("Cheesecake Factory", r"^CHEESECAKE FACTORY"), ("P.F. Chang's", r"^P ?F CHANG"), ("Maggiano's", r"^MAGGIANO"),
-    ("Ruth's Chris", r"^RUTHS CHRIS"), ("Morton's", r"^MORTONS THE STEAK|^MORTONS STEAK"), ("Applebee's", r"^APPLEBEE"), ("Chili's", r"^CHILIS"), ("Olive Garden", r"^OLIVE GARDEN"), ("Red Lobster", r"^RED LOBSTER"),
+    ("Ruth's Chris", r"^RUTHS CHRIS"), ("Morton's", r"^MORTONS THE STEAK|^MORTONS STEAK"), ("Applebee's", r"^APPLEBEE(?!S? SUPERETTE)"), ("Chili's", r"^CHILIS"), ("Olive Garden", r"^OLIVE GARDEN"), ("Red Lobster", r"^RED LOBSTER"),
     ("Jamba", r"^JAMBA"), ("Cinnabon", r"^CINNABON"), ("Pizza Hut", r"^PIZZA HUT"), ("Arby's", r"^ARBYS"),
     ("Checkers", r"^CHECKERS DRIVE|^CHECKERS AND RALLY|^CHECKERS$"), ("MOD Pizza", r"^MOD PIZZA"), ("Tim Hortons", r"^TIM HORTON"),
     ("Peet's Coffee", r"^PEETS"), ("Cava", r"^CAVA$|^CAVA (?:MEDITERRANEAN|GRILL)"), ("Blaze Pizza", r"^BLAZE PIZZA"),
@@ -38,7 +38,7 @@ BRANDS = [
     ("Tenderfix", r"^TENDERFIX"), ("The Meltdown", r"^(?:THE )?MELTDOWN$"),
     ("7-Eleven", r"^7 ELEVEN"),  # Maine chains
     ("Amato's", r"^AMATOS"), ("Pat's Pizza", r"^PATS PIZZA"), ("Otto Pizza", r"^OTTO PIZZA|^OTTO$"), ("Portland Pie Co.", r"^PORTLAND PIE"),
-    ("Gritty McDuff's", r"^GRITTY"), ("Sea Dog Brewing", r"^SEA DOG BREW"), ("The Holy Donut", r"^(?:THE )?HOLY DONUT"),
+    ("Gritty McDuff's", r"^GRITTY MC ?DUFF"), ("Sea Dog Brewing", r"^SEA DOG BREW"), ("The Holy Donut", r"^(?:THE )?HOLY DONUT"),
     ("Moe's Italian Sandwiches", r"^MOES ITALIAN"), ("Flatbread Company", r"^FLATBREAD(?: COMPANY| CO)?$|^FLATBREAD COMPANY"),
     ("Mr. Bagel", r"^MR BAGEL"), ("Anania's", r"^ANANIAS"), ("Bissell Brothers", r"^BISSELL BROTHERS"),
     ("Hannaford", r"^HANNAFORD"), ("Irving", r"^IRVING(?: OIL| MAINWAY| CIRCLE K)?$|^IRVING OIL"), ("Circle K", r"^CIRCLE K"),

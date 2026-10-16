@@ -33,6 +33,7 @@ struct HomeView: View {
                     ForEach(guides) { g in
                         Button { model.openGuide(g) } label: { GuideCard(guide: g, count: model.count(g)) }
                             .buttonStyle(.plain)
+                            .accessibilityIdentifier("guide.\(g.rawValue)")
                     }
                 }
                 surpriseButton
@@ -67,8 +68,12 @@ struct HomeView: View {
         .padding(.top, 8)
     }
 
-    /// May through October, when the lobster pounds and clam shacks are open.
-    private var isShackSeason: Bool { (5...10).contains(Calendar.current.component(.month, from: .now)) }
+    /// May 1 to October 12, when most lobster pounds and clam shacks are open (the leaderboard uses the same window).
+    private var isShackSeason: Bool {
+        let c = Calendar.current.dateComponents([.month, .day], from: .now)
+        guard let m = c.month, let d = c.day else { return false }
+        return (5...9).contains(m) || (m == 10 && d <= 12)
+    }
 
     private var seasonCard: some View {
         Button { model.openGuide(.lobster) } label: {
@@ -85,6 +90,7 @@ struct HomeView: View {
             .background(RoundedRectangle(cornerRadius: 14).fill(Theme.ocean))
         }
         .buttonStyle(.plain)
+        .accessibilityIdentifier("seasonCard")
     }
 
     private var surpriseButton: some View {

@@ -16,6 +16,11 @@ bot protection (403s, bot checks, CAPTCHAs, logins).
 | U.S. Census cartographic boundaries, cb_2025_23_cousub_500k | 529 county subdivisions: 430 towns, 23 cities, 29 plantations, 42 unorganized territories, 4 reservations, 1 gore. | Public domain | Each place's town; the state outline. Overture's own address-point municipality names (township codes, "Saint George") are replaced by the Census town. |
 | BLS QCEW 2025 | About 3,470 private NAICS 722 establishments in Maine (area 23000), per the state prompt's late-September research. | data.bls.gov's robots.txt disallows all crawling, so it wasn't re-fetched. | A size check only. |
 
+## Access changes
+- 2026-10-16: www.maine.gov answered our honest user agent with HTTP 403 on the BABLO license-data page (it answered 200 on
+  2026-10-08). Not retried or worked around; the build keeps the 10-2026.xlsx file (current as of 2026-10-01). Try again before the next
+  refresh, and if it still refuses, ask Nick to download the monthly file by hand.
+
 ## Map listings
 Overture Maps places, release 2026-09-23.1 (DuckDB over S3): 7,203 eating/drinking listings with region ME (4,855 from Meta).
 Address points from Overture's addresses theme (772,684 in Maine) place the license records, which have no coordinates.

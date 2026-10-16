@@ -25,6 +25,12 @@ final class SmokeUITests: XCTestCase {
         app.buttons.matching(NSPredicate(format: "label CONTAINS[c] %@", text)).firstMatch
     }
 
+    /// A Home guide card, by its identifier: a text match could land on the Shack season card, which also says "clam shacks".
+    private static let guideIDs = ["Lobster Shacks & Rolls": "lobster", "Clam Shacks": "clams", "Red Snappers & Italians": "sandwiches",
+                                   "Whoopie Pies & Donuts": "sweets", "Diners": "diners", "Oyster Bars": "oysters", "Dairy Bars": "dairy",
+                                   "Maine Icons": "icons", "Oldest Places": "oldest", "Near Me": "nearMe", "All Restaurants": "all"]
+    private func card(_ title: String) -> XCUIElement { app.buttons["guide.\(Self.guideIDs[title] ?? title)"] }
+
     private func text(containing text: String) -> XCUIElement {
         app.staticTexts.matching(NSPredicate(format: "label CONTAINS[c] %@", text)).firstMatch
     }
@@ -125,7 +131,7 @@ final class SmokeUITests: XCTestCase {
         waitFor(text(containing: "Lobster shack & clam guide"), 15, "home header")
 
         // Lobster Shacks & Rolls: sort, filters, search
-        button(containing: "Lobster Shacks & Rolls").tap()
+        card("Lobster Shacks & Rolls").tap()
         waitFor(app.navigationBars["Lobster Shacks & Rolls"], 5, "lobster list")
         waitFor(text(containing: "places ·"), 5, "list count header")
         app.buttons["Sort"].tap()
@@ -164,9 +170,9 @@ final class SmokeUITests: XCTestCase {
         // every other guide opens with a list
         for g in ["Clam Shacks", "Red Snappers & Italians", "Whoopie Pies & Donuts", "Diners", "Oyster Bars", "Dairy Bars", "Maine Icons", "Oldest Places", "Near Me", "All Restaurants"] {
             fresh()
-            let card = button(containing: g)
-            scrollTo(card)
-            card.tap()
+            let c = card(g)
+            scrollTo(c)
+            c.tap()
             if g == "Near Me" { app.swipeDown() }   // any interaction lets the monitor answer the location prompt (a tap could open a row)
             waitFor(app.navigationBars[g], 5, "\(g) list")
             if g != "Near Me" { waitFor(text(containing: "places ·"), 5, "\(g) count header") }
@@ -211,7 +217,7 @@ final class SmokeUITests: XCTestCase {
     private func padTour() throws {
         // iPad opens on Home in portrait, and a Home card opens its guide
         waitFor(text(containing: "Lobster shack & clam guide"), 15, "Home at launch in portrait")
-        button(containing: "Lobster Shacks & Rolls").tap()
+        card("Lobster Shacks & Rolls").tap()
         waitFor(app.navigationBars["Lobster Shacks & Rolls"], 5, "a Home card opens its guide on iPad")
         XCUIDevice.shared.orientation = .landscapeLeft     // all three columns
         Thread.sleep(forTimeInterval: 1.5)
@@ -308,7 +314,7 @@ final class SmokeUITests: XCTestCase {
             }
         }
         try audit("home")
-        button(containing: "Lobster Shacks & Rolls").tap()
+        card("Lobster Shacks & Rolls").tap()
         waitFor(text(containing: "places ·"), 5, "lobster list")
         try audit("lobster")
         app.buttons.matching(NSPredicate(format: "label CONTAINS ' · '")).firstMatch.tap()

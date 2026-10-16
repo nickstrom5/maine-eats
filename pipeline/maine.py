@@ -1218,6 +1218,19 @@ if APP:
     if LINKS is None:   # fail closed: only checked links ever ship
         print("!! data/me/website_check.json is missing: shipping NO website links. Run check_websites.py, then this export again.")
     link_drops, link_cands = collections.Counter(), {}
+    # hacked, expired or wrong-business sites a later link sweep found (pipeline/website_blocklist.json; the site drops them too)
+    BLOCK = [b for b in json.load(open(os.path.join(os.path.dirname(__file__), "website_blocklist.json"))) if b.get("severity") != "none"]
+    def blocked(u):
+        pu = urllib.parse.urlparse(u if "://" in u else "https://" + u)
+        h = pu.netloc.lower().removeprefix("www.")
+        for b in BLOCK:
+            d = b["domain"].lower().removeprefix("www.")
+            if b.get("match") == "url":
+                if (h + pu.path).rstrip("/") == (d + urllib.parse.urlparse("https://" + b.get("url", d)).path).rstrip("/") or u.rstrip("/") == b.get("url", "").rstrip("/"):
+                    return True
+            elif h == d or h.endswith("." + d):
+                return True
+        return False
     ICON_YEAR = int(GENERATED[:4]) - 40
     for i, x in o.iterrows():
         p = {"id": place_id(x), "n": x.name_out, "c": ci.get(x.city) if isinstance(x.city, str) else None,
@@ -1266,7 +1279,9 @@ if APP:
             # a link the checker saw end on https at the same host ships as https (the first hop isn't left in the clear)
             if u_.lower().startswith("http://") and fin.scheme == "https" and fin.netloc.lower().removeprefix("www.") == urllib.parse.urlparse(u_).netloc.lower().removeprefix("www."):
                 u_ = "https://" + u_[7:]
-            if v_.get("ok") and urllib.parse.urlparse(u_).scheme in ("http", "https") and urllib.parse.urlparse(u_).netloc:
+            if v_.get("ok") and blocked(u_):
+                link_drops["on the website blocklist"] += 1
+            elif v_.get("ok") and urllib.parse.urlparse(u_).scheme in ("http", "https") and urllib.parse.urlparse(u_).netloc:
                 p["w"] = u_
             else:
                 link_drops[v_.get("why", "not checked yet")] += 1
