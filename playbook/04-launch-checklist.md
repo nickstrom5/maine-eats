@@ -31,7 +31,7 @@ the eatsranked.com hub (eatsranked commit 89fb163, verify.py --browser passes). 
 ## App Store
 1. **Nick:** register the bundle ID `com.maineeats.ios` and create the App Store Connect record "Maine Eats: Restaurants" (SKU e.g.
    `maine-eats`). The API can't create app records.
-2. Trademark check: USPTO search for "Maine Eats" (classes 9, 43).
+2. **Done 2026-10-16.** Trademark lookup: no MAINE EATS mark on tmsearch.uspto.gov (details in `05-naming.md`).
 3. Archive with the **public Xcode**:
    `DEVELOPER_DIR="/Applications/Xcode 1.app/Contents/Developer" xcodebuild archive -project MaineEats.xcodeproj -scheme MaineEats
    -destination 'generic/platform=iOS' -archivePath build/MaineEats.xcarchive -derivedDataPath ./DerivedData-release -allowProvisioningUpdates`,

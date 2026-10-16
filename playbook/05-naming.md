@@ -9,7 +9,11 @@ Candidates checked 2026-10-08 (Apple's public search API, RDAP):
 - Vacationland Eats: the plate motto, widely used by other businesses (trademark risk); vacationlandeats.com unregistered.
 - Avoided: "Downeast" (one region, and Down East magazine), "Maine Lobster Shacks" (an existing app by PVI Maine LLC), "The Way Life
   Should Be", "Visit Maine".
-USPTO search for MAINE EATS: pending (Nick).
+USPTO lookup (tmsearch.uspto.gov, 2026-10-16; a lookup, not legal advice): no MAINE EATS mark, live or dead. "maineeats" finds
+nothing; "maine eats" and "maine AND eats" rank no mark with both words near the top. Nearest live marks: MAINE AND MAIN (serial
+98014259, class 43, Blue Island Oyster Bar, Colorado), MAINE (serial 86388420, Advocate Media, Maine magazine, classes 16/25/35/41),
+MAINE (serial 99264119, Maine Office of Tourism, pending, classes 18/21/25/35: merchandise) and EATS (serial 98881115, Eats, LLC,
+classes 30/35/43).
 
 ## Icon
 Three flat concepts on deep ocean teal (`scripts/icon-concepts.swift`, sheet in `brand/concepts.png`): A lobster roll in a split-top bun
