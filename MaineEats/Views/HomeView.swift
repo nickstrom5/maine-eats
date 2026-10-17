@@ -70,7 +70,7 @@ struct HomeView: View {
 
     /// May 1 to October 12, when most lobster pounds and clam shacks are open (the leaderboard uses the same window).
     private var isShackSeason: Bool {
-        let c = Calendar.current.dateComponents([.month, .day], from: .now)
+        let c = Calendar(identifier: .gregorian).dateComponents([.month, .day], from: .now)
         guard let m = c.month, let d = c.day else { return false }
         return (5...9).contains(m) || (m == 10 && d <= 12)
     }
