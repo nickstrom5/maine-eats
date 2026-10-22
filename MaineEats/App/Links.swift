@@ -9,7 +9,7 @@ enum Links {
     static let site = URL(string: base + "/")!
     static let privacy = URL(string: base + "/privacy.html")!
     static let terms = URL(string: base + "/terms.html")!
-    static let supportEmail = "work-with-nick@gmail.com"
+    static let supportEmail = "nick@eatsranked.com"
 
     static var correctionEmail: URL {
         URL(string: "mailto:\(supportEmail)?subject=Maine%20Eats%20correction")!

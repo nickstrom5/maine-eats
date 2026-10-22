@@ -40,6 +40,14 @@ Read `../STATE_EATS_PLAYBOOK.md` and `playbook/12-sources.md` first.
   files as adult entertainment is hidden with the non-restaurants until checked ("Hour Place", Jay).
 - Every research source passes `pipeline/check_sources.py` (robots.txt for ClaudeBot/Claude-User/anthropic-ai, bot checks). Run it before
   each release; it exits 1 on any blocked source.
+- Hijacked pages (QA 2026-10-19, P1 #4; ported 2026-10-21): `check_websites.py` runs `pipeline/injection.py`, Wisconsin's detector, on every
+  page (planted casino, betting, adult, pharma and link-farm links, visible, hidden or off-screen; other-language gambling text; parked
+  and default pages). Keep it identical to `../wi-eats/pipeline/injection.py`; `test_injection.py` must pass. `--recheck-ok` fetches every
+  passing page again before each submission (resumable: pages re-checked in the last 2 days are skipped), `--retry-transient` re-fetches
+  429s and connection errors afterwards, and `CHECK_WORKERS=4` slows a run (Squarespace rate-limits across all our concurrent checkers).
+- Tracking tags: the app export strips `ref=google`, `referrer=google_food_ordering`, `cn_channel`, `utm_*`, `fbclid`, Yext `cid=RF:YXT…`
+  and similar from every outbound link (`pipeline/tracking_params.py`, the same in every state; store ids and locations stay). The site
+  reads the app export, and a unit test fails if a tracked link is bundled (QA 2026-10-19, P1 #13).
 - Website links: `pipeline/check_websites.py` (fail closed; anchored to the place's town, zip, phone, street, or a domain that spells its
   name; chain domains exempt; atomic saves; back up `data/me/website_check.json` before stopping a run). Order: export, check, export.
   Hacked, expired or wrong-business sites found later go in `pipeline/website_blocklist.json` (`match` "domain" = it and its subdomains,
@@ -102,4 +110,4 @@ pass; `--docs`/`--skip-pages` for mutation runs on a copy). Until the `maine.eat
 ## Outward actions need Nick's explicit yes, every time
 Creating the public repo, pushing, Pages, anything in App Store Connect, uploads, emails, records requests (FOAA). Never submit for
 review or accept agreements. Public commits use `329204362+nickstrom5@users.noreply.github.com`. Never publish scraped or Google data
-files. Support email: work-with-nick@gmail.com.
+files. Support email: nick@eatsranked.com (Nick, 2026-10-12), everywhere: site, app, listing, review reply, pipeline user agents. A unit test fails on "gmail.com" in the app's source.

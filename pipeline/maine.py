@@ -24,6 +24,8 @@ from common import (norm_name, nice, name_sim, cuisine, FOOD_COST, MARGIN, MARGI
                     canon_city, CUISINE_RULES)
 from brands import brand_of
 import official
+import tracking_params   # outbound links lose their tracking tags (QA 2026-10-19, P1 #13)
+
 from official import street_key, street_nums, street_dir, dir_ok, ON_PREMISE
 from listings_util import official_match, _close_words
 
@@ -1316,6 +1318,9 @@ if APP:
         hist[p["id"]] = [norm_name(p["n"]), p["la"], p["lo"]]
     json.dump(hist, open(HIST, "w"), separators=(",", ":"), sort_keys=True)
     print("ids remembered:", len(hist), "| aliases for ids that changed:", len(aliases))
+    # tracking tags (ref=google, utm_*, cn_channel …) off every outbound link; the store's own parameters stay (tracking_params.py)
+    tp_changes = tracking_params.scrub(places)
+    print("tracking parameters stripped from links:", sum(tp_changes.values()), dict(tp_changes))
     body = json.dumps(places, separators=(",", ":"), ensure_ascii=False, sort_keys=True, default=str)
     out = {"v": 1, "generated": GENERATED, "data_version": hashlib.md5(body.encode()).hexdigest()[:12], "research_checked": RESEARCH_CHECKED,
            "overture": OVERTURE, "aliases": aliases, "cities": CITIES, "villages": VILLS, "regions": REGIONS,

@@ -52,7 +52,7 @@ Thank you. Here is the information requested. A screen recording from an iPhone 
 
 6. Regulated or protected material: the app is not in a regulated industry and includes no protected third-party material. The data is open-licensed or public record, with attribution and licenses on the About tab. Ratings, hours and photos are shown only inside Apple's own place card through MapKit, under Apple's terms; the app stores no ratings or reviews. Maine's official inspection result is Pass or Fail; it appears only where the City of Lewiston posts it, labeled official with its date and a link to the city's report. Restaurant names are factual references. Every website link was checked before release, and adult venues are excluded. The app is independent and not affiliated with any restaurant, agency or the James Beard Foundation.
 
-Support: work-with-nick@gmail.com
+Support: nick@eatsranked.com
 ```
 
 ## If App Review cites Guideline 4.3(a) (Resolution Center only; never in the Notes)
