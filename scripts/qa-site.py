@@ -924,11 +924,16 @@ def sitemap_checks(files):
     for f in files:
         if f != "404.html" and "/" + f not in paths:
             bad(f"sitemap: {f} exists but isn't in the sitemap")
-    # lastmod is the page's last real change: never older than the "Last updated" date the legal pages print (the copy, titles and
-    # footer changed that day across the site), and each Article's dateModified says the same as the sitemap
+    # lastmod is the page's last real change: never older than the "Last updated" date both legal pages print (the copy, titles and
+    # footer changed that day across the site), and each Article's dateModified says the same as the sitemap. The older of the two:
+    # one policy can change on its own (2026-10-26: the privacy page's data updates bullet) without the rest of the site's copy
     lm_of = {u.find("s:loc", NS).text: (u.find("s:lastmod", NS).text if u.find("s:lastmod", NS) is not None else "") for u in root.findall("s:url", NS)}
-    upd = re.search(r"Last updated (\w{3}) (\d+), (\d{4})", H.unescape(re.sub(r"<[^>]+>", " ", open(os.path.join(DOCS, "privacy.html"), encoding="utf-8").read())))
-    floor = f"{upd.group(3)}-{['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'].index(upd.group(1)) + 1:02d}-{int(upd.group(2)):02d}" if upd else ""
+    dates = []
+    for legal in ("privacy.html", "terms.html"):
+        upd = re.search(r"Last updated (\w{3}) (\d+), (\d{4})", H.unescape(re.sub(r"<[^>]+>", " ", open(os.path.join(DOCS, legal), encoding="utf-8").read())))
+        if upd:
+            dates.append(f"{upd.group(3)}-{['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'].index(upd.group(1)) + 1:02d}-{int(upd.group(2)):02d}")
+    floor = min(dates) if dates else ""
     for loc, lm in lm_of.items():
         if floor and lm < floor:
             bad(f"sitemap: {loc} lastmod {lm} is older than the site's last copy change ({floor})")
@@ -1802,6 +1807,17 @@ def contrast_checks(browser, base, data):
         ctx.close()
 
 
+def app_data_checks(problems):
+    """docs/data/app/, the app's data updates (scripts/publish_app_data.py, OTA-DATA.md): every manifest entry's hash, size and
+    row count match its file, the head file's date matches, and no old copy lingers."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from publish_app_data import check_app_data, app_data_dir
+    found, notes = check_app_data(DOCS, app_data_dir())
+    problems.extend("app data: " + x for x in found)
+    for x in notes:
+        print("  note: app data:", x)
+
+
 def main():
     base = serve()
     data = Data()
@@ -1813,6 +1829,7 @@ def main():
     town_claims(data, files)
     page_type_checks(data, files, paths)
     family_checks(files)
+    app_data_checks(problems)
     copy_decision_checks()
     claim_checks(data, files)
     other_state_checks()

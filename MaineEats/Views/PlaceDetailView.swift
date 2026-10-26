@@ -38,7 +38,7 @@ struct PlaceDetailView: View {
                 Button { model.toggleSaved(place) } label: {
                     Label(model.isSaved(place) ? "Remove from Saved" : "Save", systemImage: model.isSaved(place) ? "heart.fill" : "heart")
                 }
-                ShareLink(item: shareText) { Label("Share", systemImage: "square.and.arrow.up") }
+                ShareLink(item: Links.share(place), subject: Text(place.name), message: Text(Links.shareMessage(place))) { Label("Share", systemImage: "square.and.arrow.up") }
             }
         }
         .mapItemDetailSheet(item: $mapItem)
@@ -243,10 +243,6 @@ struct PlaceDetailView: View {
     }
 
     // MARK: helpers
-
-    private var shareText: String {
-        [place.name, place.fullAddress, "via Maine Eats", Links.site.absoluteString].filter { !$0.isEmpty }.joined(separator: "\n")
-    }
 
     static func date(_ iso: String) -> String {
         let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; f.locale = Locale(identifier: "en_US_POSIX")

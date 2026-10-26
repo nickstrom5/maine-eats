@@ -68,7 +68,8 @@ SOURCE_YEARS = f"{_y - 1} or {_y}"
 # datePublished: the day these pages were first generated. Set it to the day Nick first publishes the site, then leave it.
 PUBLISHED = "2026-10-09"
 # change these when the policy or terms text changes, not on every build (2026-10-12: the contact address moved to EMAIL)
-PRIVACY_UPDATED = TERMS_UPDATED = "2026-10-12"
+TERMS_UPDATED = "2026-10-12"
+PRIVACY_UPDATED = "2026-10-26"   # the app's data updates (OTA-DATA.md)
 # the last real change to the pages' own text (2026-10-12: the QA pass rewrote the home page, FAQ, guide and region copy, titles
 # and the footer), so the sitemap's lastmod and each Article's dateModified aren't older than what they describe
 COPY_UPDATED = "2026-10-12"
@@ -2433,6 +2434,7 @@ body = f"""{nav}
       <li><b>Location.</b> If you allow it, your location is used on your device to sort places by distance and show where you are on the map. It is never sent to us. You can turn it off in Settings at any time.</li>
       <li><b>Saved places and filters</b> are stored only on your device and are deleted when you delete the app.</li>
       <li><b>Apple Maps.</b> When you open a place's ratings, hours and photos, or ask for directions, the app asks Apple Maps for that place. Apple handles that request under <a href="https://www.apple.com/legal/privacy/" rel="noopener">Apple's privacy policy</a>, as it does for any app that shows a map.</li>
+      <li><b>Data updates.</b> When you open the app, it checks this website for newer restaurant data, at most once a day (or an hour later if a check didn't go through), and downloads it when there is some. These requests carry no location or identifiers. GitHub, which hosts this site, may keep standard server logs of them, as it does for any visit here.</li>
       <li><b>Spotlight.</b> The app adds its hand-checked places to your device's search index so you can find them from Spotlight. That index stays on your device.</li>
       <li><b>Calls, websites, and email</b> you start from a place open in the Phone app, your browser or Mail, and are handled by them.</li>
     </ul>

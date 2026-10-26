@@ -105,22 +105,27 @@ final class AppModel {
         }
     }
 
-    func load(from url: URL? = Bundle.main.url(forResource: "places", withExtension: "json")) async {
+    func load(from url: URL? = AppData.url("places")) async {
         guard !isLoaded else { return }
         guard let url else { loadError = "The restaurant data is missing from the app."; return }
         do {
-            let (file, places) = try await Task.detached(priority: .userInitiated) { () throws -> (DataFile, [Place]) in
-                let data = try Data(contentsOf: url)
-                let file = try JSONDecoder().decode(DataFile.self, from: data)
-                var places = file.places.map { Place($0, file: file) }
-                let az = places.indices.sorted { places[$0].name.localizedCaseInsensitiveCompare(places[$1].name) == .orderedAscending }
-                for (rank, i) in az.enumerated() { places[i].nameRank = rank }
-                return (file, places)
-            }.value
+            let (file, places) = try await Task.detached(priority: .userInitiated) { try AppModel.read(url) }.value
             apply(file: file, places: places)
         } catch {
+            // a downloaded copy this build can't read (OTA-DATA.md): back to the data built into the app
+            if let bundled = AppData.fallback(from: url) { return await load(from: bundled) }
             loadError = "The restaurant data couldn't be read (\(error.localizedDescription))."
         }
+    }
+
+    /// Reads a places.json: launch, and the check a downloaded copy passes before it's stored (DataLayout.app, OTA-DATA.md).
+    nonisolated static func read(_ url: URL) throws -> (DataFile, [Place]) {
+        let data = try Data(contentsOf: url)
+        let file = try JSONDecoder().decode(DataFile.self, from: data)
+        var places = file.places.map { Place($0, file: file) }
+        let az = places.indices.sorted { places[$0].name.localizedCaseInsensitiveCompare(places[$1].name) == .orderedAscending }
+        for (rank, i) in az.enumerated() { places[i].nameRank = rank }
+        return (file, places)
     }
 
     func apply(file: DataFile, places: [Place]) {
