@@ -178,6 +178,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
 
 def serve():
+    # the default listen backlog (5) resets one of a browser's burst of requests when the machine is busy: the first home page load
+    # failed with net::ERR_CONNECTION_RESET in the 2026-11-13 refresh
+    http.server.ThreadingHTTPServer.request_queue_size = 64
     srv = http.server.ThreadingHTTPServer(("127.0.0.1", ARGS.port), functools.partial(Handler, directory=DOCS))
     srv.handle_error = lambda *a: None     # a browser dropping a connection mid-file isn't a site problem
     threading.Thread(target=srv.serve_forever, daemon=True).start()
